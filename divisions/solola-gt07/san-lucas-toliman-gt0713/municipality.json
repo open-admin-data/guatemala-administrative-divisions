@@ -1,0 +1,45 @@
+{
+  "id": "GT0713",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Lucas Tolimán",
+    "en": "San Lucas Toliman",
+    "slug": "san-lucas-toliman-gt0713"
+  },
+  "code": {
+    "id": "GT0713",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT07",
+    "level": 1,
+    "name": {
+      "local": "Sololá",
+      "en": "Solola",
+      "slug": "solola-gt07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT07",
+      "level": 1,
+      "name": {
+        "local": "Sololá",
+        "en": "Solola",
+        "slug": "solola-gt07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.59",
+    "lon": "-91.15"
+  },
+  "metadata": {},
+  "source": {}
+}

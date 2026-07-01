@@ -1,0 +1,114 @@
+# Suchitepequez — Guatemala Administrative Divisions
+
+> 21 municipalitys
+> Code: GT10
+> Coordinates: 14.375, -91.365
+> Last updated: 2026-07-01. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Chicacao
+
+Code: GT1013, Coordinates: 14.487, -91.33
+
+
+### Cuyotenango
+
+Code: GT1002, Coordinates: 14.495, -91.568
+
+
+### Mazatenango
+
+Code: GT1001, Coordinates: 14.505, -91.538
+
+
+### Patulul
+
+Code: GT1014, Coordinates: 14.387, -91.186
+
+
+### Pueblo Nuevo
+
+Code: GT1019, Coordinates: 14.668, -91.53
+
+
+### Río Bravo (Rio Bravo)
+
+Code: GT1020, Coordinates: 14.386, -91.336
+
+
+### Samayac
+
+Code: GT1008, Coordinates: 14.573, -91.47
+
+
+### San Antonio Suchitepéquez (San Antonio Suchitepequez)
+
+Code: GT1010, Coordinates: 14.514, -91.408
+
+
+### San Bernardino
+
+Code: GT1004, Coordinates: 14.533, -91.456
+
+
+### San Francisco Zapotitlán (San Francisco Zapotitlan)
+
+Code: GT1003, Coordinates: 14.633, -91.521
+
+
+### San Gabriel
+
+Code: GT1012, Coordinates: 14.509, -91.514
+
+
+### San José El Ídolo (San Jose El Idolo)
+
+Code: GT1005, Coordinates: 14.373, -91.429
+
+
+### San José La Máquina (San Jose La Maquina)
+
+Code: GT1021, Coordinates: 14.266, -91.583
+
+
+### San Juan Bautista
+
+Code: GT1016, Coordinates: 14.434, -91.188
+
+
+### San Lorenzo
+
+Code: GT1007, Coordinates: 14.28, -91.522
+
+
+### San Miguel Panán (San Miguel Panan)
+
+Code: GT1011, Coordinates: 14.504, -91.359
+
+
+### San Pablo Jocopilas
+
+Code: GT1009, Coordinates: 14.595, -91.431
+
+
+### Santa Bárbara (Santa Barbara)
+
+Code: GT1015, Coordinates: 14.473, -91.248
+
+
+### Santo Domingo Suchitepéquez (Santo Domingo Suchitepequez)
+
+Code: GT1006, Coordinates: 14.282, -91.497
+
+
+### Santo Tomás La Unión (Santo Tomas La Union)
+
+Code: GT1017, Coordinates: 14.619, -91.412
+
+
+### Zunilito
+
+Code: GT1018, Coordinates: 14.633, -91.497
+
+

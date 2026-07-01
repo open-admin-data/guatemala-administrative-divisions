@@ -1,0 +1,45 @@
+{
+  "id": "GT1910",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Huité",
+    "en": "Huite",
+    "slug": "huite-gt1910"
+  },
+  "code": {
+    "id": "GT1910",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT19",
+    "level": 1,
+    "name": {
+      "local": "Zacapa",
+      "en": "Zacapa",
+      "slug": "zacapa-gt19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT19",
+      "level": 1,
+      "name": {
+        "local": "Zacapa",
+        "en": "Zacapa",
+        "slug": "zacapa-gt19"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.912",
+    "lon": "-89.688"
+  },
+  "metadata": {},
+  "source": {}
+}

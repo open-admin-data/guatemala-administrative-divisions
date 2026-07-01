@@ -1,0 +1,45 @@
+{
+  "id": "GT0409",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Patzicía",
+    "en": "Patzicia",
+    "slug": "patzicia-gt0409"
+  },
+  "code": {
+    "id": "GT0409",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT04",
+    "level": 1,
+    "name": {
+      "local": "Chimaltenango",
+      "en": "Chimaltenango",
+      "slug": "chimaltenango-gt04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT04",
+      "level": 1,
+      "name": {
+        "local": "Chimaltenango",
+        "en": "Chimaltenango",
+        "slug": "chimaltenango-gt04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.639",
+    "lon": "-90.936"
+  },
+  "metadata": {},
+  "source": {}
+}

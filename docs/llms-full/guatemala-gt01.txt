@@ -1,0 +1,99 @@
+# Guatemala — Guatemala Administrative Divisions
+
+> 18 municipalitys
+> Code: GT01
+> Coordinates: 14.579, -90.453
+> Last updated: 2026-07-01. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Amatitlán (Amatitlan)
+
+Code: GT0114, Coordinates: 14.456, -90.61
+
+
+### Chinautla
+
+Code: GT0106, Coordinates: 14.736, -90.493
+
+
+### Chuarrancho
+
+Code: GT0112, Coordinates: 14.853, -90.465
+
+
+### Fraijanes
+
+Code: GT0113, Coordinates: 14.456, -90.444
+
+
+### Guatemala
+
+Code: GT0101, Coordinates: 14.627, -90.48
+
+
+### Lago De Amatitlan
+
+Code: GT0100, Coordinates: 14.455, -90.566
+
+
+### Mixco
+
+Code: GT0108, Coordinates: 14.645, -90.603
+
+
+### Palencia
+
+Code: GT0105, Coordinates: 14.679, -90.306
+
+
+### Petapa
+
+Code: GT0117, Coordinates: 14.507, -90.558
+
+
+### San José del Golfo (San Jose del Golfo)
+
+Code: GT0104, Coordinates: 14.785, -90.364
+
+
+### San José Pinula (San Jose Pinula)
+
+Code: GT0103, Coordinates: 14.55, -90.35
+
+
+### San Juan Sacatepéquez (San Juan Sacatepequez)
+
+Code: GT0110, Coordinates: 14.779, -90.657
+
+
+### San Pedro Ayampuc
+
+Code: GT0107, Coordinates: 14.767, -90.446
+
+
+### San Pedro Sacatepéquez (San Pedro Sacatepequez)
+
+Code: GT0109, Coordinates: 14.686, -90.64
+
+
+### San Raimundo
+
+Code: GT0111, Coordinates: 14.797, -90.544
+
+
+### Santa Catarina Pinula
+
+Code: GT0102, Coordinates: 14.568, -90.47
+
+
+### Villa Canales
+
+Code: GT0116, Coordinates: 14.4, -90.51
+
+
+### Villa Nueva
+
+Code: GT0115, Coordinates: 14.533, -90.611
+
+

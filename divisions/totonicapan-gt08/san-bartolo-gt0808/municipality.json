@@ -1,0 +1,45 @@
+{
+  "id": "GT0808",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Bartolo",
+    "en": "San Bartolo",
+    "slug": "san-bartolo-gt0808"
+  },
+  "code": {
+    "id": "GT0808",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT08",
+    "level": 1,
+    "name": {
+      "local": "Totonicapán",
+      "en": "Totonicapan",
+      "slug": "totonicapan-gt08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT08",
+      "level": 1,
+      "name": {
+        "local": "Totonicapán",
+        "en": "Totonicapan",
+        "slug": "totonicapan-gt08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.109",
+    "lon": "-91.469"
+  },
+  "metadata": {},
+  "source": {}
+}

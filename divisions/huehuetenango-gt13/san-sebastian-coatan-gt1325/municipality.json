@@ -1,0 +1,45 @@
+{
+  "id": "GT1325",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Sebastián Coatán",
+    "en": "San Sebastian Coatan",
+    "slug": "san-sebastian-coatan-gt1325"
+  },
+  "code": {
+    "id": "GT1325",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT13",
+    "level": 1,
+    "name": {
+      "local": "Huehuetenango",
+      "en": "Huehuetenango",
+      "slug": "huehuetenango-gt13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT13",
+      "level": 1,
+      "name": {
+        "local": "Huehuetenango",
+        "en": "Huehuetenango",
+        "slug": "huehuetenango-gt13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.801",
+    "lon": "-91.592"
+  },
+  "metadata": {},
+  "source": {}
+}

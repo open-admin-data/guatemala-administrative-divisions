@@ -1,0 +1,45 @@
+{
+  "id": "GT2009",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Quezaltepeque",
+    "en": "Quezaltepeque",
+    "slug": "quezaltepeque-gt2009"
+  },
+  "code": {
+    "id": "GT2009",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT20",
+    "level": 1,
+    "name": {
+      "local": "Chiquimula",
+      "en": "Chiquimula",
+      "slug": "chiquimula-gt20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT20",
+      "level": 1,
+      "name": {
+        "local": "Chiquimula",
+        "en": "Chiquimula",
+        "slug": "chiquimula-gt20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.613",
+    "lon": "-89.459"
+  },
+  "metadata": {},
+  "source": {}
+}

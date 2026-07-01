@@ -1,0 +1,45 @@
+{
+  "id": "GT2011",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ipala",
+    "en": "Ipala",
+    "slug": "ipala-gt2011"
+  },
+  "code": {
+    "id": "GT2011",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT20",
+    "level": 1,
+    "name": {
+      "local": "Chiquimula",
+      "en": "Chiquimula",
+      "slug": "chiquimula-gt20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT20",
+      "level": 1,
+      "name": {
+        "local": "Chiquimula",
+        "en": "Chiquimula",
+        "slug": "chiquimula-gt20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.58",
+    "lon": "-89.622"
+  },
+  "metadata": {},
+  "source": {}
+}

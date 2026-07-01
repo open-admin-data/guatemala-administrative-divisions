@@ -1,0 +1,45 @@
+{
+  "id": "GT1615",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Fray Bartolomé de Las Casas",
+    "en": "Fray Bartolome de Las Casas",
+    "slug": "fray-bartolome-de-las-casas-gt1615"
+  },
+  "code": {
+    "id": "GT1615",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT16",
+    "level": 1,
+    "name": {
+      "local": "Alta Verapaz",
+      "en": "Alta Verapaz",
+      "slug": "alta-verapaz-gt16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT16",
+      "level": 1,
+      "name": {
+        "local": "Alta Verapaz",
+        "en": "Alta Verapaz",
+        "slug": "alta-verapaz-gt16"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.886",
+    "lon": "-89.726"
+  },
+  "metadata": {},
+  "source": {}
+}

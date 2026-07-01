@@ -1,0 +1,45 @@
+{
+  "id": "GT1318",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Mateo Ixtatán",
+    "en": "San Mateo Ixtatan",
+    "slug": "san-mateo-ixtatan-gt1318"
+  },
+  "code": {
+    "id": "GT1318",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT13",
+    "level": 1,
+    "name": {
+      "local": "Huehuetenango",
+      "en": "Huehuetenango",
+      "slug": "huehuetenango-gt13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT13",
+      "level": 1,
+      "name": {
+        "local": "Huehuetenango",
+        "en": "Huehuetenango",
+        "slug": "huehuetenango-gt13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.931",
+    "lon": "-91.446"
+  },
+  "metadata": {},
+  "source": {}
+}

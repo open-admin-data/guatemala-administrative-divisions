@@ -1,0 +1,45 @@
+{
+  "id": "GT1225",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Cristóbal Cucho",
+    "en": "San Cristobal Cucho",
+    "slug": "san-cristobal-cucho-gt1225"
+  },
+  "code": {
+    "id": "GT1225",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT12",
+    "level": 1,
+    "name": {
+      "local": "San Marcos",
+      "en": "San Marcos",
+      "slug": "san-marcos-gt12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT12",
+      "level": 1,
+      "name": {
+        "local": "San Marcos",
+        "en": "San Marcos",
+        "slug": "san-marcos-gt12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.885",
+    "lon": "-91.763"
+  },
+  "metadata": {},
+  "source": {}
+}

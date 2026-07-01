@@ -1,0 +1,45 @@
+{
+  "id": "GT1007",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Lorenzo",
+    "en": "San Lorenzo",
+    "slug": "san-lorenzo-gt1007"
+  },
+  "code": {
+    "id": "GT1007",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT10",
+    "level": 1,
+    "name": {
+      "local": "Suchitepéquez",
+      "en": "Suchitepequez",
+      "slug": "suchitepequez-gt10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT10",
+      "level": 1,
+      "name": {
+        "local": "Suchitepéquez",
+        "en": "Suchitepequez",
+        "slug": "suchitepequez-gt10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.28",
+    "lon": "-91.522"
+  },
+  "metadata": {},
+  "source": {}
+}

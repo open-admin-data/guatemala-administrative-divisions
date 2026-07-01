@@ -1,0 +1,45 @@
+{
+  "id": "GT2216",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San José Acatempa",
+    "en": "San Jose Acatempa",
+    "slug": "san-jose-acatempa-gt2216"
+  },
+  "code": {
+    "id": "GT2216",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT22",
+    "level": 1,
+    "name": {
+      "local": "Jutiapa",
+      "en": "Jutiapa",
+      "slug": "jutiapa-gt22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT22",
+      "level": 1,
+      "name": {
+        "local": "Jutiapa",
+        "en": "Jutiapa",
+        "slug": "jutiapa-gt22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.269",
+    "lon": "-90.163"
+  },
+  "metadata": {},
+  "source": {}
+}

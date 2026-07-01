@@ -1,0 +1,45 @@
+{
+  "id": "GT1226",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Sipacapa",
+    "en": "Sipacapa",
+    "slug": "sipacapa-gt1226"
+  },
+  "code": {
+    "id": "GT1226",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT12",
+    "level": 1,
+    "name": {
+      "local": "San Marcos",
+      "en": "San Marcos",
+      "slug": "san-marcos-gt12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT12",
+      "level": 1,
+      "name": {
+        "local": "San Marcos",
+        "en": "San Marcos",
+        "slug": "san-marcos-gt12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.195",
+    "lon": "-91.659"
+  },
+  "metadata": {},
+  "source": {}
+}

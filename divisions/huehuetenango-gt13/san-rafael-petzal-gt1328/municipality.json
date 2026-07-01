@@ -1,0 +1,45 @@
+{
+  "id": "GT1328",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Rafael Petzal",
+    "en": "San Rafael Petzal",
+    "slug": "san-rafael-petzal-gt1328"
+  },
+  "code": {
+    "id": "GT1328",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT13",
+    "level": 1,
+    "name": {
+      "local": "Huehuetenango",
+      "en": "Huehuetenango",
+      "slug": "huehuetenango-gt13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT13",
+      "level": 1,
+      "name": {
+        "local": "Huehuetenango",
+        "en": "Huehuetenango",
+        "slug": "huehuetenango-gt13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.411",
+    "lon": "-91.671"
+  },
+  "metadata": {},
+  "source": {}
+}

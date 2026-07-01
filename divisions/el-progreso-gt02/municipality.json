@@ -1,0 +1,362 @@
+[
+  {
+    "id": "GT0205",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "El Jícaro",
+      "en": "El Jicaro",
+      "slug": "el-jicaro-gt0205"
+    },
+    "code": {
+      "id": "GT0205",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT02",
+      "level": 1,
+      "name": {
+        "local": "El Progreso",
+        "en": "El Progreso",
+        "slug": "el-progreso-gt02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT02",
+        "level": 1,
+        "name": {
+          "local": "El Progreso",
+          "en": "El Progreso",
+          "slug": "el-progreso-gt02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.889",
+      "lon": "-89.918"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0201",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Guastatoya",
+      "en": "Guastatoya",
+      "slug": "guastatoya-gt0201"
+    },
+    "code": {
+      "id": "GT0201",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT02",
+      "level": 1,
+      "name": {
+        "local": "El Progreso",
+        "en": "El Progreso",
+        "slug": "el-progreso-gt02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT02",
+        "level": 1,
+        "name": {
+          "local": "El Progreso",
+          "en": "El Progreso",
+          "slug": "el-progreso-gt02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.852",
+      "lon": "-90.091"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0202",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Morazán",
+      "en": "Morazan",
+      "slug": "morazan-gt0202"
+    },
+    "code": {
+      "id": "GT0202",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT02",
+      "level": 1,
+      "name": {
+        "local": "El Progreso",
+        "en": "El Progreso",
+        "slug": "el-progreso-gt02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT02",
+        "level": 1,
+        "name": {
+          "local": "El Progreso",
+          "en": "El Progreso",
+          "slug": "el-progreso-gt02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.992",
+      "lon": "-90.143"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0203",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Agustín Acasaguastlán",
+      "en": "San Agustin Acasaguastlan",
+      "slug": "san-agustin-acasaguastlan-gt0203"
+    },
+    "code": {
+      "id": "GT0203",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT02",
+      "level": 1,
+      "name": {
+        "local": "El Progreso",
+        "en": "El Progreso",
+        "slug": "el-progreso-gt02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT02",
+        "level": 1,
+        "name": {
+          "local": "El Progreso",
+          "en": "El Progreso",
+          "slug": "el-progreso-gt02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.017",
+      "lon": "-89.992"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0208",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Antonio La Paz",
+      "en": "San Antonio La Paz",
+      "slug": "san-antonio-la-paz-gt0208"
+    },
+    "code": {
+      "id": "GT0208",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT02",
+      "level": 1,
+      "name": {
+        "local": "El Progreso",
+        "en": "El Progreso",
+        "slug": "el-progreso-gt02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT02",
+        "level": 1,
+        "name": {
+          "local": "El Progreso",
+          "en": "El Progreso",
+          "slug": "el-progreso-gt02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.742",
+      "lon": "-90.274"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0204",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Cristóbal Acasaguastlán",
+      "en": "San Cristobal Acasaguastlan",
+      "slug": "san-cristobal-acasaguastlan-gt0204"
+    },
+    "code": {
+      "id": "GT0204",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT02",
+      "level": 1,
+      "name": {
+        "local": "El Progreso",
+        "en": "El Progreso",
+        "slug": "el-progreso-gt02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT02",
+        "level": 1,
+        "name": {
+          "local": "El Progreso",
+          "en": "El Progreso",
+          "slug": "el-progreso-gt02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.006",
+      "lon": "-89.887"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0206",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sanarate",
+      "en": "Sanarate",
+      "slug": "sanarate-gt0206"
+    },
+    "code": {
+      "id": "GT0206",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT02",
+      "level": 1,
+      "name": {
+        "local": "El Progreso",
+        "en": "El Progreso",
+        "slug": "el-progreso-gt02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT02",
+        "level": 1,
+        "name": {
+          "local": "El Progreso",
+          "en": "El Progreso",
+          "slug": "el-progreso-gt02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.777",
+      "lon": "-90.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0207",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sansare",
+      "en": "Sansare",
+      "slug": "sansare-gt0207"
+    },
+    "code": {
+      "id": "GT0207",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT02",
+      "level": 1,
+      "name": {
+        "local": "El Progreso",
+        "en": "El Progreso",
+        "slug": "el-progreso-gt02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT02",
+        "level": 1,
+        "name": {
+          "local": "El Progreso",
+          "en": "El Progreso",
+          "slug": "el-progreso-gt02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.752",
+      "lon": "-90.103"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

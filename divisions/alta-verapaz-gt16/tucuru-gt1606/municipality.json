@@ -1,0 +1,45 @@
+{
+  "id": "GT1606",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tucurú",
+    "en": "Tucuru",
+    "slug": "tucuru-gt1606"
+  },
+  "code": {
+    "id": "GT1606",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT16",
+    "level": 1,
+    "name": {
+      "local": "Alta Verapaz",
+      "en": "Alta Verapaz",
+      "slug": "alta-verapaz-gt16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT16",
+      "level": 1,
+      "name": {
+        "local": "Alta Verapaz",
+        "en": "Alta Verapaz",
+        "slug": "alta-verapaz-gt16"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.307",
+    "lon": "-90.07"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "GT1302",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Chiantla",
+    "en": "Chiantla",
+    "slug": "chiantla-gt1302"
+  },
+  "code": {
+    "id": "GT1302",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT13",
+    "level": 1,
+    "name": {
+      "local": "Huehuetenango",
+      "en": "Huehuetenango",
+      "slug": "huehuetenango-gt13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT13",
+      "level": 1,
+      "name": {
+        "local": "Huehuetenango",
+        "en": "Huehuetenango",
+        "slug": "huehuetenango-gt13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.501",
+    "lon": "-91.425"
+  },
+  "metadata": {},
+  "source": {}
+}

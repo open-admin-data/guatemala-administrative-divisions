@@ -1,0 +1,45 @@
+{
+  "id": "GT1708",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Dolores",
+    "en": "Dolores",
+    "slug": "dolores-gt1708"
+  },
+  "code": {
+    "id": "GT1708",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT17",
+    "level": 1,
+    "name": {
+      "local": "Petén",
+      "en": "Peten",
+      "slug": "peten-gt17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT17",
+      "level": 1,
+      "name": {
+        "local": "Petén",
+        "en": "Peten",
+        "slug": "peten-gt17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.645",
+    "lon": "-89.36"
+  },
+  "metadata": {},
+  "source": {}
+}

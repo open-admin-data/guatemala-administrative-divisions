@@ -1,0 +1,45 @@
+{
+  "id": "GT0904",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Carlos Sija",
+    "en": "San Carlos Sija",
+    "slug": "san-carlos-sija-gt0904"
+  },
+  "code": {
+    "id": "GT0904",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT09",
+    "level": 1,
+    "name": {
+      "local": "Quetzaltenango",
+      "en": "Quetzaltenango",
+      "slug": "quetzaltenango-gt09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT09",
+      "level": 1,
+      "name": {
+        "local": "Quetzaltenango",
+        "en": "Quetzaltenango",
+        "slug": "quetzaltenango-gt09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.079",
+    "lon": "-91.568"
+  },
+  "metadata": {},
+  "source": {}
+}

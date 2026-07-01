@@ -1,0 +1,45 @@
+{
+  "id": "GT0408",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Pochuta",
+    "en": "Pochuta",
+    "slug": "pochuta-gt0408"
+  },
+  "code": {
+    "id": "GT0408",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT04",
+    "level": 1,
+    "name": {
+      "local": "Chimaltenango",
+      "en": "Chimaltenango",
+      "slug": "chimaltenango-gt04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT04",
+      "level": 1,
+      "name": {
+        "local": "Chimaltenango",
+        "en": "Chimaltenango",
+        "slug": "chimaltenango-gt04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.531",
+    "lon": "-91.081"
+  },
+  "metadata": {},
+  "source": {}
+}

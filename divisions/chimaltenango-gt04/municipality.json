@@ -1,0 +1,722 @@
+[
+  {
+    "id": "GT0411",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Acatenango",
+      "en": "Acatenango",
+      "slug": "acatenango-gt0411"
+    },
+    "code": {
+      "id": "GT0411",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT04",
+      "level": 1,
+      "name": {
+        "local": "Chimaltenango",
+        "en": "Chimaltenango",
+        "slug": "chimaltenango-gt04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT04",
+        "level": 1,
+        "name": {
+          "local": "Chimaltenango",
+          "en": "Chimaltenango",
+          "slug": "chimaltenango-gt04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.55",
+      "lon": "-90.954"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0401",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chimaltenango",
+      "en": "Chimaltenango",
+      "slug": "chimaltenango-gt0401"
+    },
+    "code": {
+      "id": "GT0401",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT04",
+      "level": 1,
+      "name": {
+        "local": "Chimaltenango",
+        "en": "Chimaltenango",
+        "slug": "chimaltenango-gt04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT04",
+        "level": 1,
+        "name": {
+          "local": "Chimaltenango",
+          "en": "Chimaltenango",
+          "slug": "chimaltenango-gt04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.686",
+      "lon": "-90.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0404",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Comalapa",
+      "en": "Comalapa",
+      "slug": "comalapa-gt0404"
+    },
+    "code": {
+      "id": "GT0404",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT04",
+      "level": 1,
+      "name": {
+        "local": "Chimaltenango",
+        "en": "Chimaltenango",
+        "slug": "chimaltenango-gt04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT04",
+        "level": 1,
+        "name": {
+          "local": "Chimaltenango",
+          "en": "Chimaltenango",
+          "slug": "chimaltenango-gt04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.752",
+      "lon": "-90.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0416",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "El Tejar",
+      "en": "El Tejar",
+      "slug": "el-tejar-gt0416"
+    },
+    "code": {
+      "id": "GT0416",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT04",
+      "level": 1,
+      "name": {
+        "local": "Chimaltenango",
+        "en": "Chimaltenango",
+        "slug": "chimaltenango-gt04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT04",
+        "level": 1,
+        "name": {
+          "local": "Chimaltenango",
+          "en": "Chimaltenango",
+          "slug": "chimaltenango-gt04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.68",
+      "lon": "-90.79"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0414",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Parramos",
+      "en": "Parramos",
+      "slug": "parramos-gt0414"
+    },
+    "code": {
+      "id": "GT0414",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT04",
+      "level": 1,
+      "name": {
+        "local": "Chimaltenango",
+        "en": "Chimaltenango",
+        "slug": "chimaltenango-gt04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT04",
+        "level": 1,
+        "name": {
+          "local": "Chimaltenango",
+          "en": "Chimaltenango",
+          "slug": "chimaltenango-gt04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.594",
+      "lon": "-90.824"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0409",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Patzicía",
+      "en": "Patzicia",
+      "slug": "patzicia-gt0409"
+    },
+    "code": {
+      "id": "GT0409",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT04",
+      "level": 1,
+      "name": {
+        "local": "Chimaltenango",
+        "en": "Chimaltenango",
+        "slug": "chimaltenango-gt04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT04",
+        "level": 1,
+        "name": {
+          "local": "Chimaltenango",
+          "en": "Chimaltenango",
+          "slug": "chimaltenango-gt04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.639",
+      "lon": "-90.936"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0407",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Patzún",
+      "en": "Patzun",
+      "slug": "patzun-gt0407"
+    },
+    "code": {
+      "id": "GT0407",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT04",
+      "level": 1,
+      "name": {
+        "local": "Chimaltenango",
+        "en": "Chimaltenango",
+        "slug": "chimaltenango-gt04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT04",
+        "level": 1,
+        "name": {
+          "local": "Chimaltenango",
+          "en": "Chimaltenango",
+          "slug": "chimaltenango-gt04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.657",
+      "lon": "-91.031"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0408",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pochuta",
+      "en": "Pochuta",
+      "slug": "pochuta-gt0408"
+    },
+    "code": {
+      "id": "GT0408",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT04",
+      "level": 1,
+      "name": {
+        "local": "Chimaltenango",
+        "en": "Chimaltenango",
+        "slug": "chimaltenango-gt04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT04",
+        "level": 1,
+        "name": {
+          "local": "Chimaltenango",
+          "en": "Chimaltenango",
+          "slug": "chimaltenango-gt04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.531",
+      "lon": "-91.081"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0413",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Andrés Itzapa",
+      "en": "San Andres Itzapa",
+      "slug": "san-andres-itzapa-gt0413"
+    },
+    "code": {
+      "id": "GT0413",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT04",
+      "level": 1,
+      "name": {
+        "local": "Chimaltenango",
+        "en": "Chimaltenango",
+        "slug": "chimaltenango-gt04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT04",
+        "level": 1,
+        "name": {
+          "local": "Chimaltenango",
+          "en": "Chimaltenango",
+          "slug": "chimaltenango-gt04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.603",
+      "lon": "-90.862"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0402",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San José Poaquil",
+      "en": "San Jose Poaquil",
+      "slug": "san-jose-poaquil-gt0402"
+    },
+    "code": {
+      "id": "GT0402",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT04",
+      "level": 1,
+      "name": {
+        "local": "Chimaltenango",
+        "en": "Chimaltenango",
+        "slug": "chimaltenango-gt04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT04",
+        "level": 1,
+        "name": {
+          "local": "Chimaltenango",
+          "en": "Chimaltenango",
+          "slug": "chimaltenango-gt04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.861",
+      "lon": "-90.914"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0403",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Martín Jilotepeque",
+      "en": "San Martin Jilotepeque",
+      "slug": "san-martin-jilotepeque-gt0403"
+    },
+    "code": {
+      "id": "GT0403",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT04",
+      "level": 1,
+      "name": {
+        "local": "Chimaltenango",
+        "en": "Chimaltenango",
+        "slug": "chimaltenango-gt04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT04",
+        "level": 1,
+        "name": {
+          "local": "Chimaltenango",
+          "en": "Chimaltenango",
+          "slug": "chimaltenango-gt04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.829",
+      "lon": "-90.773"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0405",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Apolonia",
+      "en": "Santa Apolonia",
+      "slug": "santa-apolonia-gt0405"
+    },
+    "code": {
+      "id": "GT0405",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT04",
+      "level": 1,
+      "name": {
+        "local": "Chimaltenango",
+        "en": "Chimaltenango",
+        "slug": "chimaltenango-gt04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT04",
+        "level": 1,
+        "name": {
+          "local": "Chimaltenango",
+          "en": "Chimaltenango",
+          "slug": "chimaltenango-gt04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.837",
+      "lon": "-90.954"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0410",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Cruz Balanyá",
+      "en": "Santa Cruz Balanya",
+      "slug": "santa-cruz-balanya-gt0410"
+    },
+    "code": {
+      "id": "GT0410",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT04",
+      "level": 1,
+      "name": {
+        "local": "Chimaltenango",
+        "en": "Chimaltenango",
+        "slug": "chimaltenango-gt04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT04",
+        "level": 1,
+        "name": {
+          "local": "Chimaltenango",
+          "en": "Chimaltenango",
+          "slug": "chimaltenango-gt04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.696",
+      "lon": "-90.931"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0406",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tecpán Guatemala",
+      "en": "Tecpan Guatemala",
+      "slug": "tecpan-guatemala-gt0406"
+    },
+    "code": {
+      "id": "GT0406",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT04",
+      "level": 1,
+      "name": {
+        "local": "Chimaltenango",
+        "en": "Chimaltenango",
+        "slug": "chimaltenango-gt04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT04",
+        "level": 1,
+        "name": {
+          "local": "Chimaltenango",
+          "en": "Chimaltenango",
+          "slug": "chimaltenango-gt04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.811",
+      "lon": "-91.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0412",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Yepocapa",
+      "en": "Yepocapa",
+      "slug": "yepocapa-gt0412"
+    },
+    "code": {
+      "id": "GT0412",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT04",
+      "level": 1,
+      "name": {
+        "local": "Chimaltenango",
+        "en": "Chimaltenango",
+        "slug": "chimaltenango-gt04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT04",
+        "level": 1,
+        "name": {
+          "local": "Chimaltenango",
+          "en": "Chimaltenango",
+          "slug": "chimaltenango-gt04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.45",
+      "lon": "-91.007"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0415",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Zaragoza",
+      "en": "Zaragoza",
+      "slug": "zaragoza-gt0415"
+    },
+    "code": {
+      "id": "GT0415",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT04",
+      "level": 1,
+      "name": {
+        "local": "Chimaltenango",
+        "en": "Chimaltenango",
+        "slug": "chimaltenango-gt04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT04",
+        "level": 1,
+        "name": {
+          "local": "Chimaltenango",
+          "en": "Chimaltenango",
+          "slug": "chimaltenango-gt04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.68",
+      "lon": "-90.89"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

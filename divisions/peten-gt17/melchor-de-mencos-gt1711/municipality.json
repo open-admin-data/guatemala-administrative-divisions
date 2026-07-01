@@ -1,0 +1,45 @@
+{
+  "id": "GT1711",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Melchor de Mencos",
+    "en": "Melchor de Mencos",
+    "slug": "melchor-de-mencos-gt1711"
+  },
+  "code": {
+    "id": "GT1711",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT17",
+    "level": 1,
+    "name": {
+      "local": "Petén",
+      "en": "Peten",
+      "slug": "peten-gt17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT17",
+      "level": 1,
+      "name": {
+        "local": "Petén",
+        "en": "Peten",
+        "slug": "peten-gt17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.322",
+    "lon": "-89.244"
+  },
+  "metadata": {},
+  "source": {}
+}

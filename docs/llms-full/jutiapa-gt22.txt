@@ -1,0 +1,94 @@
+# Jutiapa — Guatemala Administrative Divisions
+
+> 17 municipalitys
+> Code: GT22
+> Coordinates: 14.149, -89.894
+> Last updated: 2026-07-01. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Agua Blanca
+
+Code: GT2204, Coordinates: 14.461, -89.59
+
+
+### Asunción Mita (Asuncion Mita)
+
+Code: GT2205, Coordinates: 14.308, -89.678
+
+
+### Atescatempa
+
+Code: GT2207, Coordinates: 14.171, -89.722
+
+
+### Comapa
+
+Code: GT2211, Coordinates: 14.12, -89.894
+
+
+### Conguaco
+
+Code: GT2213, Coordinates: 14.001, -90.015
+
+
+### El Adelanto
+
+Code: GT2209, Coordinates: 14.18, -89.853
+
+
+### El Progreso
+
+Code: GT2202, Coordinates: 14.381, -89.853
+
+
+### Jalpatagua
+
+Code: GT2212, Coordinates: 14.11, -90.016
+
+
+### Jerez
+
+Code: GT2208, Coordinates: 14.081, -89.762
+
+
+### Jutiapa
+
+Code: GT2201, Coordinates: 14.311, -89.95
+
+
+### Moyuta
+
+Code: GT2214, Coordinates: 13.908, -90.114
+
+
+### Pasaco
+
+Code: GT2215, Coordinates: 13.895, -90.206
+
+
+### Quesada
+
+Code: GT2217, Coordinates: 14.283, -90.054
+
+
+### San José Acatempa (San Jose Acatempa)
+
+Code: GT2216, Coordinates: 14.269, -90.163
+
+
+### Santa Catarina Mita
+
+Code: GT2203, Coordinates: 14.445, -89.769
+
+
+### Yupiltepeque
+
+Code: GT2206, Coordinates: 14.166, -89.775
+
+
+### Zapotitlán (Zapotitlan)
+
+Code: GT2210, Coordinates: 14.111, -89.818
+
+

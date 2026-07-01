@@ -1,0 +1,632 @@
+[
+  {
+    "id": "GT0602",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Barberena",
+      "en": "Barberena",
+      "slug": "barberena-gt0602"
+    },
+    "code": {
+      "id": "GT0602",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT06",
+      "level": 1,
+      "name": {
+        "local": "Santa Rosa",
+        "en": "Santa Rosa",
+        "slug": "santa-rosa-gt06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT06",
+        "level": 1,
+        "name": {
+          "local": "Santa Rosa",
+          "en": "Santa Rosa",
+          "slug": "santa-rosa-gt06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.303",
+      "lon": "-90.4"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0604",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Casillas",
+      "en": "Casillas",
+      "slug": "casillas-gt0604"
+    },
+    "code": {
+      "id": "GT0604",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT06",
+      "level": 1,
+      "name": {
+        "local": "Santa Rosa",
+        "en": "Santa Rosa",
+        "slug": "santa-rosa-gt06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT06",
+        "level": 1,
+        "name": {
+          "local": "Santa Rosa",
+          "en": "Santa Rosa",
+          "slug": "santa-rosa-gt06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.39",
+      "lon": "-90.159"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0608",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chiquimulilla",
+      "en": "Chiquimulilla",
+      "slug": "chiquimulilla-gt0608"
+    },
+    "code": {
+      "id": "GT0608",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT06",
+      "level": 1,
+      "name": {
+        "local": "Santa Rosa",
+        "en": "Santa Rosa",
+        "slug": "santa-rosa-gt06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT06",
+        "level": 1,
+        "name": {
+          "local": "Santa Rosa",
+          "en": "Santa Rosa",
+          "slug": "santa-rosa-gt06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.987",
+      "lon": "-90.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0601",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cuilapa",
+      "en": "Cuilapa",
+      "slug": "cuilapa-gt0601"
+    },
+    "code": {
+      "id": "GT0601",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT06",
+      "level": 1,
+      "name": {
+        "local": "Santa Rosa",
+        "en": "Santa Rosa",
+        "slug": "santa-rosa-gt06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT06",
+        "level": 1,
+        "name": {
+          "local": "Santa Rosa",
+          "en": "Santa Rosa",
+          "slug": "santa-rosa-gt06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.248",
+      "lon": "-90.289"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0611",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Guazacapán",
+      "en": "Guazacapan",
+      "slug": "guazacapan-gt0611"
+    },
+    "code": {
+      "id": "GT0611",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT06",
+      "level": 1,
+      "name": {
+        "local": "Santa Rosa",
+        "en": "Santa Rosa",
+        "slug": "santa-rosa-gt06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT06",
+        "level": 1,
+        "name": {
+          "local": "Santa Rosa",
+          "en": "Santa Rosa",
+          "slug": "santa-rosa-gt06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.006",
+      "lon": "-90.43"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0614",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nueva Santa Rosa",
+      "en": "Nueva Santa Rosa",
+      "slug": "nueva-santa-rosa-gt0614"
+    },
+    "code": {
+      "id": "GT0614",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT06",
+      "level": 1,
+      "name": {
+        "local": "Santa Rosa",
+        "en": "Santa Rosa",
+        "slug": "santa-rosa-gt06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT06",
+        "level": 1,
+        "name": {
+          "local": "Santa Rosa",
+          "en": "Santa Rosa",
+          "slug": "santa-rosa-gt06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.39",
+      "lon": "-90.268"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0606",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Oratorio",
+      "en": "Oratorio",
+      "slug": "oratorio-gt0606"
+    },
+    "code": {
+      "id": "GT0606",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT06",
+      "level": 1,
+      "name": {
+        "local": "Santa Rosa",
+        "en": "Santa Rosa",
+        "slug": "santa-rosa-gt06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT06",
+        "level": 1,
+        "name": {
+          "local": "Santa Rosa",
+          "en": "Santa Rosa",
+          "slug": "santa-rosa-gt06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.117",
+      "lon": "-90.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0613",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pueblo Nuevo Viñas",
+      "en": "Pueblo Nuevo Vinas",
+      "slug": "pueblo-nuevo-vinas-gt0613"
+    },
+    "code": {
+      "id": "GT0613",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT06",
+      "level": 1,
+      "name": {
+        "local": "Santa Rosa",
+        "en": "Santa Rosa",
+        "slug": "santa-rosa-gt06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT06",
+        "level": 1,
+        "name": {
+          "local": "Santa Rosa",
+          "en": "Santa Rosa",
+          "slug": "santa-rosa-gt06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.234",
+      "lon": "-90.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0607",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Juan Tecuaco",
+      "en": "San Juan Tecuaco",
+      "slug": "san-juan-tecuaco-gt0607"
+    },
+    "code": {
+      "id": "GT0607",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT06",
+      "level": 1,
+      "name": {
+        "local": "Santa Rosa",
+        "en": "Santa Rosa",
+        "slug": "santa-rosa-gt06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT06",
+        "level": 1,
+        "name": {
+          "local": "Santa Rosa",
+          "en": "Santa Rosa",
+          "slug": "santa-rosa-gt06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.073",
+      "lon": "-90.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0605",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Rafael Las Flores",
+      "en": "San Rafael Las Flores",
+      "slug": "san-rafael-las-flores-gt0605"
+    },
+    "code": {
+      "id": "GT0605",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT06",
+      "level": 1,
+      "name": {
+        "local": "Santa Rosa",
+        "en": "Santa Rosa",
+        "slug": "santa-rosa-gt06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT06",
+        "level": 1,
+        "name": {
+          "local": "Santa Rosa",
+          "en": "Santa Rosa",
+          "slug": "santa-rosa-gt06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.447",
+      "lon": "-90.157"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0612",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Cruz Naranjo",
+      "en": "Santa Cruz Naranjo",
+      "slug": "santa-cruz-naranjo-gt0612"
+    },
+    "code": {
+      "id": "GT0612",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT06",
+      "level": 1,
+      "name": {
+        "local": "Santa Rosa",
+        "en": "Santa Rosa",
+        "slug": "santa-rosa-gt06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT06",
+        "level": 1,
+        "name": {
+          "local": "Santa Rosa",
+          "en": "Santa Rosa",
+          "slug": "santa-rosa-gt06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.383",
+      "lon": "-90.37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0610",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa María Ixhuatán",
+      "en": "Santa Maria Ixhuatan",
+      "slug": "santa-maria-ixhuatan-gt0610"
+    },
+    "code": {
+      "id": "GT0610",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT06",
+      "level": 1,
+      "name": {
+        "local": "Santa Rosa",
+        "en": "Santa Rosa",
+        "slug": "santa-rosa-gt06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT06",
+        "level": 1,
+        "name": {
+          "local": "Santa Rosa",
+          "en": "Santa Rosa",
+          "slug": "santa-rosa-gt06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.147",
+      "lon": "-90.259"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0603",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Rosa de Lima",
+      "en": "Santa Rosa de Lima",
+      "slug": "santa-rosa-de-lima-gt0603"
+    },
+    "code": {
+      "id": "GT0603",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT06",
+      "level": 1,
+      "name": {
+        "local": "Santa Rosa",
+        "en": "Santa Rosa",
+        "slug": "santa-rosa-gt06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT06",
+        "level": 1,
+        "name": {
+          "local": "Santa Rosa",
+          "en": "Santa Rosa",
+          "slug": "santa-rosa-gt06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.436",
+      "lon": "-90.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0609",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Taxisco",
+      "en": "Taxisco",
+      "slug": "taxisco-gt0609"
+    },
+    "code": {
+      "id": "GT0609",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT06",
+      "level": 1,
+      "name": {
+        "local": "Santa Rosa",
+        "en": "Santa Rosa",
+        "slug": "santa-rosa-gt06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT06",
+        "level": 1,
+        "name": {
+          "local": "Santa Rosa",
+          "en": "Santa Rosa",
+          "slug": "santa-rosa-gt06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.039",
+      "lon": "-90.556"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

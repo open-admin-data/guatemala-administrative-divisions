@@ -1,0 +1,33 @@
+{
+  "id": "GT03",
+  "level": 1,
+  "level_name": {
+    "local": "Departamento",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Sacatepéquez",
+    "en": "Sacatepequez",
+    "slug": "sacatepequez-gt03"
+  },
+  "code": {
+    "id": "GT03",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.55",
+    "lon": "-90.757"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gt/departments/sacatepequez-gt03/",
+    "api": "https://openadmindata.org/api/gt/"
+  }
+}

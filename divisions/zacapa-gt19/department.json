@@ -1,0 +1,33 @@
+{
+  "id": "GT19",
+  "level": 1,
+  "level_name": {
+    "local": "Departamento",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Zacapa",
+    "en": "Zacapa",
+    "slug": "zacapa-gt19"
+  },
+  "code": {
+    "id": "GT19",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.019",
+    "lon": "-89.483"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gt/departments/zacapa-gt19/",
+    "api": "https://openadmindata.org/api/gt/"
+  }
+}

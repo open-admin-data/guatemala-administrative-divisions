@@ -1,0 +1,45 @@
+{
+  "id": "GT0513",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Nueva Concepción",
+    "en": "Nueva Concepcion",
+    "slug": "nueva-concepcion-gt0513"
+  },
+  "code": {
+    "id": "GT0513",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT05",
+    "level": 1,
+    "name": {
+      "local": "Escuintla",
+      "en": "Escuintla",
+      "slug": "escuintla-gt05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT05",
+      "level": 1,
+      "name": {
+        "local": "Escuintla",
+        "en": "Escuintla",
+        "slug": "escuintla-gt05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.129",
+    "lon": "-91.293"
+  },
+  "metadata": {},
+  "source": {}
+}

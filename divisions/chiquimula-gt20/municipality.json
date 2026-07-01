@@ -1,0 +1,497 @@
+[
+  {
+    "id": "GT2005",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Camotán",
+      "en": "Camotan",
+      "slug": "camotan-gt2005"
+    },
+    "code": {
+      "id": "GT2005",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT20",
+      "level": 1,
+      "name": {
+        "local": "Chiquimula",
+        "en": "Chiquimula",
+        "slug": "chiquimula-gt20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT20",
+        "level": 1,
+        "name": {
+          "local": "Chiquimula",
+          "en": "Chiquimula",
+          "slug": "chiquimula-gt20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.867",
+      "lon": "-89.296"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT2001",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chiquimula",
+      "en": "Chiquimula",
+      "slug": "chiquimula-gt2001"
+    },
+    "code": {
+      "id": "GT2001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT20",
+      "level": 1,
+      "name": {
+        "local": "Chiquimula",
+        "en": "Chiquimula",
+        "slug": "chiquimula-gt20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT20",
+        "level": 1,
+        "name": {
+          "local": "Chiquimula",
+          "en": "Chiquimula",
+          "slug": "chiquimula-gt20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.792",
+      "lon": "-89.591"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT2008",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Concepción Las Minas",
+      "en": "Concepcion Las Minas",
+      "slug": "concepcion-las-minas-gt2008"
+    },
+    "code": {
+      "id": "GT2008",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT20",
+      "level": 1,
+      "name": {
+        "local": "Chiquimula",
+        "en": "Chiquimula",
+        "slug": "chiquimula-gt20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT20",
+        "level": 1,
+        "name": {
+          "local": "Chiquimula",
+          "en": "Chiquimula",
+          "slug": "chiquimula-gt20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.49",
+      "lon": "-89.452"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT2007",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Esquipulas",
+      "en": "Esquipulas",
+      "slug": "esquipulas-gt2007"
+    },
+    "code": {
+      "id": "GT2007",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT20",
+      "level": 1,
+      "name": {
+        "local": "Chiquimula",
+        "en": "Chiquimula",
+        "slug": "chiquimula-gt20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT20",
+        "level": 1,
+        "name": {
+          "local": "Chiquimula",
+          "en": "Chiquimula",
+          "slug": "chiquimula-gt20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.632",
+      "lon": "-89.259"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT2011",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ipala",
+      "en": "Ipala",
+      "slug": "ipala-gt2011"
+    },
+    "code": {
+      "id": "GT2011",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT20",
+      "level": 1,
+      "name": {
+        "local": "Chiquimula",
+        "en": "Chiquimula",
+        "slug": "chiquimula-gt20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT20",
+        "level": 1,
+        "name": {
+          "local": "Chiquimula",
+          "en": "Chiquimula",
+          "slug": "chiquimula-gt20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.58",
+      "lon": "-89.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT2004",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jocotán",
+      "en": "Jocotan",
+      "slug": "jocotan-gt2004"
+    },
+    "code": {
+      "id": "GT2004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT20",
+      "level": 1,
+      "name": {
+        "local": "Chiquimula",
+        "en": "Chiquimula",
+        "slug": "chiquimula-gt20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT20",
+        "level": 1,
+        "name": {
+          "local": "Chiquimula",
+          "en": "Chiquimula",
+          "slug": "chiquimula-gt20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.814",
+      "lon": "-89.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT2006",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Olopa",
+      "en": "Olopa",
+      "slug": "olopa-gt2006"
+    },
+    "code": {
+      "id": "GT2006",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT20",
+      "level": 1,
+      "name": {
+        "local": "Chiquimula",
+        "en": "Chiquimula",
+        "slug": "chiquimula-gt20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT20",
+        "level": 1,
+        "name": {
+          "local": "Chiquimula",
+          "en": "Chiquimula",
+          "slug": "chiquimula-gt20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.697",
+      "lon": "-89.323"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT2009",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Quezaltepeque",
+      "en": "Quezaltepeque",
+      "slug": "quezaltepeque-gt2009"
+    },
+    "code": {
+      "id": "GT2009",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT20",
+      "level": 1,
+      "name": {
+        "local": "Chiquimula",
+        "en": "Chiquimula",
+        "slug": "chiquimula-gt20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT20",
+        "level": 1,
+        "name": {
+          "local": "Chiquimula",
+          "en": "Chiquimula",
+          "slug": "chiquimula-gt20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.613",
+      "lon": "-89.459"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT2010",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Jacinto",
+      "en": "San Jacinto",
+      "slug": "san-jacinto-gt2010"
+    },
+    "code": {
+      "id": "GT2010",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT20",
+      "level": 1,
+      "name": {
+        "local": "Chiquimula",
+        "en": "Chiquimula",
+        "slug": "chiquimula-gt20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT20",
+        "level": 1,
+        "name": {
+          "local": "Chiquimula",
+          "en": "Chiquimula",
+          "slug": "chiquimula-gt20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.678",
+      "lon": "-89.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT2002",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San José La Arada",
+      "en": "San Jose La Arada",
+      "slug": "san-jose-la-arada-gt2002"
+    },
+    "code": {
+      "id": "GT2002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT20",
+      "level": 1,
+      "name": {
+        "local": "Chiquimula",
+        "en": "Chiquimula",
+        "slug": "chiquimula-gt20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT20",
+        "level": 1,
+        "name": {
+          "local": "Chiquimula",
+          "en": "Chiquimula",
+          "slug": "chiquimula-gt20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.715",
+      "lon": "-89.609"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT2003",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Juan Ermita",
+      "en": "San Juan Ermita",
+      "slug": "san-juan-ermita-gt2003"
+    },
+    "code": {
+      "id": "GT2003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT20",
+      "level": 1,
+      "name": {
+        "local": "Chiquimula",
+        "en": "Chiquimula",
+        "slug": "chiquimula-gt20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT20",
+        "level": 1,
+        "name": {
+          "local": "Chiquimula",
+          "en": "Chiquimula",
+          "slug": "chiquimula-gt20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.743",
+      "lon": "-89.432"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

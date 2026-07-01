@@ -1,0 +1,45 @@
+{
+  "id": "GT1906",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Usumatlán",
+    "en": "Usumatlan",
+    "slug": "usumatlan-gt1906"
+  },
+  "code": {
+    "id": "GT1906",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT19",
+    "level": 1,
+    "name": {
+      "local": "Zacapa",
+      "en": "Zacapa",
+      "slug": "zacapa-gt19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT19",
+      "level": 1,
+      "name": {
+        "local": "Zacapa",
+        "en": "Zacapa",
+        "slug": "zacapa-gt19"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.005",
+    "lon": "-89.81"
+  },
+  "metadata": {},
+  "source": {}
+}

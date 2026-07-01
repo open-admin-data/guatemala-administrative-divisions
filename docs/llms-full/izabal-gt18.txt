@@ -1,0 +1,34 @@
+# Izabal — Guatemala Administrative Divisions
+
+> 5 municipalitys
+> Code: GT18
+> Coordinates: 15.517, -88.725
+> Last updated: 2026-07-01. License: CC-BY-4.0.
+
+## Municipalitys
+
+### El Estor
+
+Code: GT1803, Coordinates: 15.435, -89.429
+
+
+### Lívingston (Livingston)
+
+Code: GT1802, Coordinates: 15.749, -89.178
+
+
+### Los Amates
+
+Code: GT1805, Coordinates: 15.291, -89.086
+
+
+### Morales
+
+Code: GT1804, Coordinates: 15.422, -88.811
+
+
+### Puerto Barrios
+
+Code: GT1801, Coordinates: 15.734, -88.431
+
+

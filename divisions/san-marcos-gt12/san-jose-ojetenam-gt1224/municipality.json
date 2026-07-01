@@ -1,0 +1,45 @@
+{
+  "id": "GT1224",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San José Ojetenam",
+    "en": "San Jose Ojetenam",
+    "slug": "san-jose-ojetenam-gt1224"
+  },
+  "code": {
+    "id": "GT1224",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT12",
+    "level": 1,
+    "name": {
+      "local": "San Marcos",
+      "en": "San Marcos",
+      "slug": "san-marcos-gt12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT12",
+      "level": 1,
+      "name": {
+        "local": "San Marcos",
+        "en": "San Marcos",
+        "slug": "san-marcos-gt12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.238",
+    "lon": "-91.964"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,33 @@
+{
+  "id": "GT02",
+  "level": 1,
+  "level_name": {
+    "local": "Departamento",
+    "en": "Department"
+  },
+  "name": {
+    "local": "El Progreso",
+    "en": "El Progreso",
+    "slug": "el-progreso-gt02"
+  },
+  "code": {
+    "id": "GT02",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.911",
+    "lon": "-90.068"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gt/departments/el-progreso-gt02/",
+    "api": "https://openadmindata.org/api/gt/"
+  }
+}

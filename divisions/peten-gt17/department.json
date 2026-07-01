@@ -1,0 +1,33 @@
+{
+  "id": "GT17",
+  "level": 1,
+  "level_name": {
+    "local": "Departamento",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Petén",
+    "en": "Peten",
+    "slug": "peten-gt17"
+  },
+  "code": {
+    "id": "GT17",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.832",
+    "lon": "-90.046"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gt/departments/peten-gt17/",
+    "api": "https://openadmindata.org/api/gt/"
+  }
+}

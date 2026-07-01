@@ -1,0 +1,79 @@
+# Santa Rosa — Guatemala Administrative Divisions
+
+> 14 municipalitys
+> Code: GT06
+> Coordinates: 14.146, -90.359
+> Last updated: 2026-07-01. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Barberena
+
+Code: GT0602, Coordinates: 14.303, -90.4
+
+
+### Casillas
+
+Code: GT0604, Coordinates: 14.39, -90.159
+
+
+### Chiquimulilla
+
+Code: GT0608, Coordinates: 13.987, -90.362
+
+
+### Cuilapa
+
+Code: GT0601, Coordinates: 14.248, -90.289
+
+
+### Guazacapán (Guazacapan)
+
+Code: GT0611, Coordinates: 14.006, -90.43
+
+
+### Nueva Santa Rosa
+
+Code: GT0614, Coordinates: 14.39, -90.268
+
+
+### Oratorio
+
+Code: GT0606, Coordinates: 14.117, -90.133
+
+
+### Pueblo Nuevo Viñas (Pueblo Nuevo Vinas)
+
+Code: GT0613, Coordinates: 14.234, -90.525
+
+
+### San Juan Tecuaco
+
+Code: GT0607, Coordinates: 14.073, -90.262
+
+
+### San Rafael Las Flores
+
+Code: GT0605, Coordinates: 14.447, -90.157
+
+
+### Santa Cruz Naranjo
+
+Code: GT0612, Coordinates: 14.383, -90.37
+
+
+### Santa María Ixhuatán (Santa Maria Ixhuatan)
+
+Code: GT0610, Coordinates: 14.147, -90.259
+
+
+### Santa Rosa de Lima
+
+Code: GT0603, Coordinates: 14.436, -90.359
+
+
+### Taxisco
+
+Code: GT0609, Coordinates: 14.039, -90.556
+
+

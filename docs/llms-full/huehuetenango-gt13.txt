@@ -1,0 +1,174 @@
+# Huehuetenango — Guatemala Administrative Divisions
+
+> 33 municipalitys
+> Code: GT13
+> Coordinates: 15.606, -91.645
+> Last updated: 2026-07-01. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Aguacatán (Aguacatan)
+
+Code: GT1327, Coordinates: 15.406, -91.318
+
+
+### Barillas
+
+Code: GT1326, Coordinates: 15.914, -91.193
+
+
+### Chiantla
+
+Code: GT1302, Coordinates: 15.501, -91.425
+
+
+### Colotenango
+
+Code: GT1319, Coordinates: 15.443, -91.71
+
+
+### Concepción Huista (Concepcion Huista)
+
+Code: GT1322, Coordinates: 15.642, -91.664
+
+
+### Cuilco
+
+Code: GT1304, Coordinates: 15.456, -91.973
+
+
+### Huehuetenango
+
+Code: GT1301, Coordinates: 15.303, -91.335
+
+
+### Ixtahuacán (Ixtahuacan)
+
+Code: GT1309, Coordinates: 15.425, -91.809
+
+
+### Jacaltenango
+
+Code: GT1307, Coordinates: 15.749, -91.721
+
+
+### La Democracia
+
+Code: GT1312, Coordinates: 15.618, -91.869
+
+
+### La Libertad
+
+Code: GT1311, Coordinates: 15.539, -91.882
+
+
+### Malacatancito
+
+Code: GT1303, Coordinates: 15.234, -91.478
+
+
+### Nentón (Nenton)
+
+Code: GT1305, Coordinates: 15.934, -91.681
+
+
+### Petatán (Petatan)
+
+Code: GT1333, Coordinates: 15.614, -91.754
+
+
+### San Antonio Huista
+
+Code: GT1324, Coordinates: 15.657, -91.785
+
+
+### San Gaspar Ixchil
+
+Code: GT1329, Coordinates: 15.375, -91.71
+
+
+### San Juan Atitán (San Juan Atitan)
+
+Code: GT1316, Coordinates: 15.474, -91.626
+
+
+### San Juan Ixcoy
+
+Code: GT1323, Coordinates: 15.641, -91.427
+
+
+### San Mateo Ixtatán (San Mateo Ixtatan)
+
+Code: GT1318, Coordinates: 15.931, -91.446
+
+
+### San Miguel Acatán (San Miguel Acatan)
+
+Code: GT1313, Coordinates: 15.749, -91.625
+
+
+### San Pedro Necta
+
+Code: GT1306, Coordinates: 15.532, -91.752
+
+
+### San Rafael La Independencia
+
+Code: GT1314, Coordinates: 15.728, -91.521
+
+
+### San Rafael Petzal
+
+Code: GT1328, Coordinates: 15.411, -91.671
+
+
+### San Sebastián Coatán (San Sebastian Coatan)
+
+Code: GT1325, Coordinates: 15.801, -91.592
+
+
+### San Sebastián Huehuetenango (San Sebastian Huehuetenango)
+
+Code: GT1320, Coordinates: 15.427, -91.556
+
+
+### Santa Ana Huista
+
+Code: GT1331, Coordinates: 15.746, -91.845
+
+
+### Santa Bárbara (Santa Barbara)
+
+Code: GT1310, Coordinates: 15.332, -91.62
+
+
+### Santa Eulalia
+
+Code: GT1317, Coordinates: 15.75, -91.318
+
+
+### Santiago Chimaltenango
+
+Code: GT1330, Coordinates: 15.51, -91.687
+
+
+### Soloma
+
+Code: GT1308, Coordinates: 15.697, -91.431
+
+
+### Tectitán (Tectitan)
+
+Code: GT1321, Coordinates: 15.363, -92.027
+
+
+### Todos Santos Cuchumatán (Todos Santos Cuchumatan)
+
+Code: GT1315, Coordinates: 15.562, -91.605
+
+
+### Unión Cantinil (Union Cantinil)
+
+Code: GT1332, Coordinates: 15.587, -91.738
+
+

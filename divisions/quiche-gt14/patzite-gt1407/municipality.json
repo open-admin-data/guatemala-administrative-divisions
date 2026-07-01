@@ -1,0 +1,45 @@
+{
+  "id": "GT1407",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Patzité",
+    "en": "Patzite",
+    "slug": "patzite-gt1407"
+  },
+  "code": {
+    "id": "GT1407",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT14",
+    "level": 1,
+    "name": {
+      "local": "Quiché",
+      "en": "Quiche",
+      "slug": "quiche-gt14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT14",
+      "level": 1,
+      "name": {
+        "local": "Quiché",
+        "en": "Quiche",
+        "slug": "quiche-gt14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.971",
+    "lon": "-91.197"
+  },
+  "metadata": {},
+  "source": {}
+}

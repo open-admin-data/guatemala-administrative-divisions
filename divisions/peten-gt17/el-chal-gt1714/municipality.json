@@ -1,0 +1,45 @@
+{
+  "id": "GT1714",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "El Chal",
+    "en": "El Chal",
+    "slug": "el-chal-gt1714"
+  },
+  "code": {
+    "id": "GT1714",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT17",
+    "level": 1,
+    "name": {
+      "local": "Petén",
+      "en": "Peten",
+      "slug": "peten-gt17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT17",
+      "level": 1,
+      "name": {
+        "local": "Petén",
+        "en": "Peten",
+        "slug": "peten-gt17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.516",
+    "lon": "-89.728"
+  },
+  "metadata": {},
+  "source": {}
+}

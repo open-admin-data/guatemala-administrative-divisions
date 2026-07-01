@@ -1,0 +1,767 @@
+[
+  {
+    "id": "GT1612",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cahabón",
+      "en": "Cahabon",
+      "slug": "cahabon-gt1612"
+    },
+    "code": {
+      "id": "GT1612",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT16",
+      "level": 1,
+      "name": {
+        "local": "Alta Verapaz",
+        "en": "Alta Verapaz",
+        "slug": "alta-verapaz-gt16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT16",
+        "level": 1,
+        "name": {
+          "local": "Alta Verapaz",
+          "en": "Alta Verapaz",
+          "slug": "alta-verapaz-gt16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.612",
+      "lon": "-89.734"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1614",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chahal",
+      "en": "Chahal",
+      "slug": "chahal-gt1614"
+    },
+    "code": {
+      "id": "GT1614",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT16",
+      "level": 1,
+      "name": {
+        "local": "Alta Verapaz",
+        "en": "Alta Verapaz",
+        "slug": "alta-verapaz-gt16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT16",
+        "level": 1,
+        "name": {
+          "local": "Alta Verapaz",
+          "en": "Alta Verapaz",
+          "slug": "alta-verapaz-gt16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.738",
+      "lon": "-89.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1613",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chisec",
+      "en": "Chisec",
+      "slug": "chisec-gt1613"
+    },
+    "code": {
+      "id": "GT1613",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT16",
+      "level": 1,
+      "name": {
+        "local": "Alta Verapaz",
+        "en": "Alta Verapaz",
+        "slug": "alta-verapaz-gt16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT16",
+        "level": 1,
+        "name": {
+          "local": "Alta Verapaz",
+          "en": "Alta Verapaz",
+          "slug": "alta-verapaz-gt16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.889",
+      "lon": "-90.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1601",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cobán",
+      "en": "Coban",
+      "slug": "coban-gt1601"
+    },
+    "code": {
+      "id": "GT1601",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT16",
+      "level": 1,
+      "name": {
+        "local": "Alta Verapaz",
+        "en": "Alta Verapaz",
+        "slug": "alta-verapaz-gt16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT16",
+        "level": 1,
+        "name": {
+          "local": "Alta Verapaz",
+          "en": "Alta Verapaz",
+          "slug": "alta-verapaz-gt16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.685",
+      "lon": "-90.558"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1615",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Fray Bartolomé de Las Casas",
+      "en": "Fray Bartolome de Las Casas",
+      "slug": "fray-bartolome-de-las-casas-gt1615"
+    },
+    "code": {
+      "id": "GT1615",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT16",
+      "level": 1,
+      "name": {
+        "local": "Alta Verapaz",
+        "en": "Alta Verapaz",
+        "slug": "alta-verapaz-gt16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT16",
+        "level": 1,
+        "name": {
+          "local": "Alta Verapaz",
+          "en": "Alta Verapaz",
+          "slug": "alta-verapaz-gt16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.886",
+      "lon": "-89.726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1611",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Lanquín",
+      "en": "Lanquin",
+      "slug": "lanquin-gt1611"
+    },
+    "code": {
+      "id": "GT1611",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT16",
+      "level": 1,
+      "name": {
+        "local": "Alta Verapaz",
+        "en": "Alta Verapaz",
+        "slug": "alta-verapaz-gt16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT16",
+        "level": 1,
+        "name": {
+          "local": "Alta Verapaz",
+          "en": "Alta Verapaz",
+          "slug": "alta-verapaz-gt16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.576",
+      "lon": "-89.988"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1607",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Panzós",
+      "en": "Panzos",
+      "slug": "panzos-gt1607"
+    },
+    "code": {
+      "id": "GT1607",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT16",
+      "level": 1,
+      "name": {
+        "local": "Alta Verapaz",
+        "en": "Alta Verapaz",
+        "slug": "alta-verapaz-gt16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT16",
+        "level": 1,
+        "name": {
+          "local": "Alta Verapaz",
+          "en": "Alta Verapaz",
+          "slug": "alta-verapaz-gt16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.323",
+      "lon": "-89.669"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1617",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Raxruhá",
+      "en": "Raxruha",
+      "slug": "raxruha-gt1617"
+    },
+    "code": {
+      "id": "GT1617",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT16",
+      "level": 1,
+      "name": {
+        "local": "Alta Verapaz",
+        "en": "Alta Verapaz",
+        "slug": "alta-verapaz-gt16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT16",
+        "level": 1,
+        "name": {
+          "local": "Alta Verapaz",
+          "en": "Alta Verapaz",
+          "slug": "alta-verapaz-gt16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.891",
+      "lon": "-90.105"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1603",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Cristóbal Verapaz",
+      "en": "San Cristobal Verapaz",
+      "slug": "san-cristobal-verapaz-gt1603"
+    },
+    "code": {
+      "id": "GT1603",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT16",
+      "level": 1,
+      "name": {
+        "local": "Alta Verapaz",
+        "en": "Alta Verapaz",
+        "slug": "alta-verapaz-gt16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT16",
+        "level": 1,
+        "name": {
+          "local": "Alta Verapaz",
+          "en": "Alta Verapaz",
+          "slug": "alta-verapaz-gt16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.384",
+      "lon": "-90.576"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1610",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Juan Chamelco",
+      "en": "San Juan Chamelco",
+      "slug": "san-juan-chamelco-gt1610"
+    },
+    "code": {
+      "id": "GT1610",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT16",
+      "level": 1,
+      "name": {
+        "local": "Alta Verapaz",
+        "en": "Alta Verapaz",
+        "slug": "alta-verapaz-gt16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT16",
+        "level": 1,
+        "name": {
+          "local": "Alta Verapaz",
+          "en": "Alta Verapaz",
+          "slug": "alta-verapaz-gt16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.395",
+      "lon": "-90.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1609",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Pedro Carchá",
+      "en": "San Pedro Carcha",
+      "slug": "san-pedro-carcha-gt1609"
+    },
+    "code": {
+      "id": "GT1609",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT16",
+      "level": 1,
+      "name": {
+        "local": "Alta Verapaz",
+        "en": "Alta Verapaz",
+        "slug": "alta-verapaz-gt16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT16",
+        "level": 1,
+        "name": {
+          "local": "Alta Verapaz",
+          "en": "Alta Verapaz",
+          "slug": "alta-verapaz-gt16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.577",
+      "lon": "-90.203"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1616",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Catalina La Tinta",
+      "en": "Santa Catalina La Tinta",
+      "slug": "santa-catalina-la-tinta-gt1616"
+    },
+    "code": {
+      "id": "GT1616",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT16",
+      "level": 1,
+      "name": {
+        "local": "Alta Verapaz",
+        "en": "Alta Verapaz",
+        "slug": "alta-verapaz-gt16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT16",
+        "level": 1,
+        "name": {
+          "local": "Alta Verapaz",
+          "en": "Alta Verapaz",
+          "slug": "alta-verapaz-gt16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.251",
+      "lon": "-89.831"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1602",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Cruz Verapaz",
+      "en": "Santa Cruz Verapaz",
+      "slug": "santa-cruz-verapaz-gt1602"
+    },
+    "code": {
+      "id": "GT1602",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT16",
+      "level": 1,
+      "name": {
+        "local": "Alta Verapaz",
+        "en": "Alta Verapaz",
+        "slug": "alta-verapaz-gt16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT16",
+        "level": 1,
+        "name": {
+          "local": "Alta Verapaz",
+          "en": "Alta Verapaz",
+          "slug": "alta-verapaz-gt16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.334",
+      "lon": "-90.407"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1608",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Senahú",
+      "en": "Senahu",
+      "slug": "senahu-gt1608"
+    },
+    "code": {
+      "id": "GT1608",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT16",
+      "level": 1,
+      "name": {
+        "local": "Alta Verapaz",
+        "en": "Alta Verapaz",
+        "slug": "alta-verapaz-gt16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT16",
+        "level": 1,
+        "name": {
+          "local": "Alta Verapaz",
+          "en": "Alta Verapaz",
+          "slug": "alta-verapaz-gt16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.426",
+      "lon": "-89.798"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1604",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tactic",
+      "en": "Tactic",
+      "slug": "tactic-gt1604"
+    },
+    "code": {
+      "id": "GT1604",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT16",
+      "level": 1,
+      "name": {
+        "local": "Alta Verapaz",
+        "en": "Alta Verapaz",
+        "slug": "alta-verapaz-gt16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT16",
+        "level": 1,
+        "name": {
+          "local": "Alta Verapaz",
+          "en": "Alta Verapaz",
+          "slug": "alta-verapaz-gt16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.294",
+      "lon": "-90.34"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1605",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tamahú",
+      "en": "Tamahu",
+      "slug": "tamahu-gt1605"
+    },
+    "code": {
+      "id": "GT1605",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT16",
+      "level": 1,
+      "name": {
+        "local": "Alta Verapaz",
+        "en": "Alta Verapaz",
+        "slug": "alta-verapaz-gt16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT16",
+        "level": 1,
+        "name": {
+          "local": "Alta Verapaz",
+          "en": "Alta Verapaz",
+          "slug": "alta-verapaz-gt16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.303",
+      "lon": "-90.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1606",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tucurú",
+      "en": "Tucuru",
+      "slug": "tucuru-gt1606"
+    },
+    "code": {
+      "id": "GT1606",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT16",
+      "level": 1,
+      "name": {
+        "local": "Alta Verapaz",
+        "en": "Alta Verapaz",
+        "slug": "alta-verapaz-gt16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT16",
+        "level": 1,
+        "name": {
+          "local": "Alta Verapaz",
+          "en": "Alta Verapaz",
+          "slug": "alta-verapaz-gt16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.307",
+      "lon": "-90.07"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "GT1413",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Nebaj",
+    "en": "Nebaj",
+    "slug": "nebaj-gt1413"
+  },
+  "code": {
+    "id": "GT1413",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT14",
+    "level": 1,
+    "name": {
+      "local": "Quiché",
+      "en": "Quiche",
+      "slug": "quiche-gt14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT14",
+      "level": 1,
+      "name": {
+        "local": "Quiché",
+        "en": "Quiche",
+        "slug": "quiche-gt14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.606",
+    "lon": "-91.183"
+  },
+  "metadata": {},
+  "source": {}
+}

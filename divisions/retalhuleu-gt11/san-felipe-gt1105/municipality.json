@@ -1,0 +1,45 @@
+{
+  "id": "GT1105",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Felipe",
+    "en": "San Felipe",
+    "slug": "san-felipe-gt1105"
+  },
+  "code": {
+    "id": "GT1105",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT11",
+    "level": 1,
+    "name": {
+      "local": "Retalhuleu",
+      "en": "Retalhuleu",
+      "slug": "retalhuleu-gt11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT11",
+      "level": 1,
+      "name": {
+        "local": "Retalhuleu",
+        "en": "Retalhuleu",
+        "slug": "retalhuleu-gt11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.638",
+    "lon": "-91.573"
+  },
+  "metadata": {},
+  "source": {}
+}

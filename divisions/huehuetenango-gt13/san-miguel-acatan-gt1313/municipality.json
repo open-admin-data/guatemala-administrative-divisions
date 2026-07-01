@@ -1,0 +1,45 @@
+{
+  "id": "GT1313",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Miguel Acatán",
+    "en": "San Miguel Acatan",
+    "slug": "san-miguel-acatan-gt1313"
+  },
+  "code": {
+    "id": "GT1313",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT13",
+    "level": 1,
+    "name": {
+      "local": "Huehuetenango",
+      "en": "Huehuetenango",
+      "slug": "huehuetenango-gt13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT13",
+      "level": 1,
+      "name": {
+        "local": "Huehuetenango",
+        "en": "Huehuetenango",
+        "slug": "huehuetenango-gt13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.749",
+    "lon": "-91.625"
+  },
+  "metadata": {},
+  "source": {}
+}

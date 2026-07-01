@@ -1,0 +1,45 @@
+{
+  "id": "GT1017",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santo Tomás La Unión",
+    "en": "Santo Tomas La Union",
+    "slug": "santo-tomas-la-union-gt1017"
+  },
+  "code": {
+    "id": "GT1017",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT10",
+    "level": 1,
+    "name": {
+      "local": "Suchitepéquez",
+      "en": "Suchitepequez",
+      "slug": "suchitepequez-gt10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT10",
+      "level": 1,
+      "name": {
+        "local": "Suchitepéquez",
+        "en": "Suchitepequez",
+        "slug": "suchitepequez-gt10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.619",
+    "lon": "-91.412"
+  },
+  "metadata": {},
+  "source": {}
+}

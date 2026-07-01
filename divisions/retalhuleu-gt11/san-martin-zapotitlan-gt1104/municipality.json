@@ -1,0 +1,45 @@
+{
+  "id": "GT1104",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Martín Zapotitlán",
+    "en": "San Martin Zapotitlan",
+    "slug": "san-martin-zapotitlan-gt1104"
+  },
+  "code": {
+    "id": "GT1104",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT11",
+    "level": 1,
+    "name": {
+      "local": "Retalhuleu",
+      "en": "Retalhuleu",
+      "slug": "retalhuleu-gt11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT11",
+      "level": 1,
+      "name": {
+        "local": "Retalhuleu",
+        "en": "Retalhuleu",
+        "slug": "retalhuleu-gt11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.614",
+    "lon": "-91.595"
+  },
+  "metadata": {},
+  "source": {}
+}

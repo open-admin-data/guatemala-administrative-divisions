@@ -1,0 +1,45 @@
+{
+  "id": "GT1219",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Pablo",
+    "en": "San Pablo",
+    "slug": "san-pablo-gt1219"
+  },
+  "code": {
+    "id": "GT1219",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT12",
+    "level": 1,
+    "name": {
+      "local": "San Marcos",
+      "en": "San Marcos",
+      "slug": "san-marcos-gt12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT12",
+      "level": 1,
+      "name": {
+        "local": "San Marcos",
+        "en": "San Marcos",
+        "slug": "san-marcos-gt12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.977",
+    "lon": "-91.933"
+  },
+  "metadata": {},
+  "source": {}
+}

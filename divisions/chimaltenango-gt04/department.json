@@ -1,0 +1,33 @@
+{
+  "id": "GT04",
+  "level": 1,
+  "level_name": {
+    "local": "Departamento",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Chimaltenango",
+    "en": "Chimaltenango",
+    "slug": "chimaltenango-gt04"
+  },
+  "code": {
+    "id": "GT04",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.657",
+    "lon": "-90.929"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gt/departments/chimaltenango-gt04/",
+    "api": "https://openadmindata.org/api/gt/"
+  }
+}

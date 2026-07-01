@@ -1,0 +1,159 @@
+# San Marcos — Guatemala Administrative Divisions
+
+> 30 municipalitys
+> Code: GT12
+> Coordinates: 14.954, -91.912
+> Last updated: 2026-07-01. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Ayutla
+
+Code: GT1217, Coordinates: 14.706, -92.135
+
+
+### Catarina
+
+Code: GT1216, Coordinates: 14.848, -92.07
+
+
+### Comitancillo
+
+Code: GT1204, Coordinates: 15.12, -91.733
+
+
+### Concepción Tutuapa (Concepcion Tutuapa)
+
+Code: GT1206, Coordinates: 15.29, -91.876
+
+
+### El Quetzal
+
+Code: GT1220, Coordinates: 14.795, -91.795
+
+
+### El Rodeo
+
+Code: GT1214, Coordinates: 14.887, -92.001
+
+
+### El Tumbador
+
+Code: GT1213, Coordinates: 14.845, -91.943
+
+
+### Esquipulas Palo Gordo
+
+Code: GT1227, Coordinates: 14.925, -91.842
+
+
+### Ixchiguán (Ixchiguan)
+
+Code: GT1223, Coordinates: 15.132, -91.907
+
+
+### La Blanca
+
+Code: GT1230, Coordinates: 14.551, -92.113
+
+
+### La Reforma
+
+Code: GT1221, Coordinates: 14.82, -91.823
+
+
+### Malacatán (Malacatan)
+
+Code: GT1215, Coordinates: 14.914, -92.092
+
+
+### Nuevo Progreso
+
+Code: GT1212, Coordinates: 14.815, -91.889
+
+
+### Ocós (Ocos)
+
+Code: GT1218, Coordinates: 14.559, -92.181
+
+
+### Pajapita
+
+Code: GT1222, Coordinates: 14.718, -92.071
+
+
+### Río Blanco (Rio Blanco)
+
+Code: GT1228, Coordinates: 15.048, -91.68
+
+
+### San Antonio Sacatepéquez (San Antonio Sacatepequez)
+
+Code: GT1203, Coordinates: 14.966, -91.713
+
+
+### San Cristóbal Cucho (San Cristobal Cucho)
+
+Code: GT1225, Coordinates: 14.885, -91.763
+
+
+### San José Ojetenam (San Jose Ojetenam)
+
+Code: GT1224, Coordinates: 15.238, -91.964
+
+
+### San Lorenzo
+
+Code: GT1229, Coordinates: 15.026, -91.747
+
+
+### San Marcos
+
+Code: GT1201, Coordinates: 14.993, -91.837
+
+
+### San Miguel Ixtahuacán (San Miguel Ixtahuacan)
+
+Code: GT1205, Coordinates: 15.27, -91.719
+
+
+### San Pablo
+
+Code: GT1219, Coordinates: 14.977, -91.933
+
+
+### San Pedro Sacatepéquez (San Pedro Sacatepequez)
+
+Code: GT1202, Coordinates: 14.956, -91.769
+
+
+### San Rafael Pie de la Cuesta
+
+Code: GT1211, Coordinates: 14.932, -91.908
+
+
+### Sibinal
+
+Code: GT1208, Coordinates: 15.126, -92.057
+
+
+### Sipacapa
+
+Code: GT1226, Coordinates: 15.195, -91.659
+
+
+### Tacaná (Tacana)
+
+Code: GT1207, Coordinates: 15.295, -92.134
+
+
+### Tajumulco
+
+Code: GT1209, Coordinates: 15.059, -91.974
+
+
+### Tejutla
+
+Code: GT1210, Coordinates: 15.154, -91.818
+
+

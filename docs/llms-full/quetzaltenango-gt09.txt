@@ -1,0 +1,129 @@
+# Quetzaltenango — Guatemala Administrative Divisions
+
+> 24 municipalitys
+> Code: GT09
+> Coordinates: 14.859, -91.6
+> Last updated: 2026-07-01. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Almolonga
+
+Code: GT0913, Coordinates: 14.811, -91.486
+
+
+### Cabricán (Cabrican)
+
+Code: GT0906, Coordinates: 15.106, -91.658
+
+
+### Cajolá (Cajola)
+
+Code: GT0907, Coordinates: 14.937, -91.62
+
+
+### Cantel
+
+Code: GT0914, Coordinates: 14.814, -91.437
+
+
+### Coatepeque
+
+Code: GT0920, Coordinates: 14.632, -92.011
+
+
+### Colomba
+
+Code: GT0917, Coordinates: 14.697, -91.751
+
+
+### Concepción Chiquirichapa (Concepcion Chiquirichapa)
+
+Code: GT0911, Coordinates: 14.844, -91.619
+
+
+### El Palmar
+
+Code: GT0919, Coordinates: 14.698, -91.599
+
+
+### Flores Costa Cuca
+
+Code: GT0922, Coordinates: 14.633, -91.864
+
+
+### Génova (Genova)
+
+Code: GT0921, Coordinates: 14.588, -91.835
+
+
+### Huitán (Huitan)
+
+Code: GT0915, Coordinates: 15.043, -91.634
+
+
+### La Esperanza
+
+Code: GT0923, Coordinates: 14.877, -91.576
+
+
+### Olintepeque
+
+Code: GT0903, Coordinates: 14.894, -91.538
+
+
+### Ostuncalco
+
+Code: GT0909, Coordinates: 14.862, -91.696
+
+
+### Palestina de Los Altos
+
+Code: GT0924, Coordinates: 14.936, -91.67
+
+
+### Quetzaltenango
+
+Code: GT0901, Coordinates: 14.814, -91.543
+
+
+### Salcajá (Salcaja)
+
+Code: GT0902, Coordinates: 14.877, -91.462
+
+
+### San Carlos Sija
+
+Code: GT0904, Coordinates: 15.079, -91.568
+
+
+### San Francisco La Unión (San Francisco La Union)
+
+Code: GT0918, Coordinates: 14.926, -91.547
+
+
+### San Martín Sacatepéquez (San Martin Sacatepequez)
+
+Code: GT0912, Coordinates: 14.784, -91.659
+
+
+### San Mateo
+
+Code: GT0910, Coordinates: 14.843, -91.583
+
+
+### San Miguel Sigüila (San Miguel Siguila)
+
+Code: GT0908, Coordinates: 14.902, -91.605
+
+
+### Sibilia
+
+Code: GT0905, Coordinates: 14.991, -91.639
+
+
+### Zunil
+
+Code: GT0916, Coordinates: 14.743, -91.497
+
+

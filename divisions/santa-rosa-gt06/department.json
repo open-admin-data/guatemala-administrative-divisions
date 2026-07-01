@@ -1,0 +1,33 @@
+{
+  "id": "GT06",
+  "level": 1,
+  "level_name": {
+    "local": "Departamento",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Santa Rosa",
+    "en": "Santa Rosa",
+    "slug": "santa-rosa-gt06"
+  },
+  "code": {
+    "id": "GT06",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.146",
+    "lon": "-90.359"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gt/departments/santa-rosa-gt06/",
+    "api": "https://openadmindata.org/api/gt/"
+  }
+}

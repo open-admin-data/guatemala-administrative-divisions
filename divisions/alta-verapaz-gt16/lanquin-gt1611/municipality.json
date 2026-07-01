@@ -1,0 +1,45 @@
+{
+  "id": "GT1611",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Lanquín",
+    "en": "Lanquin",
+    "slug": "lanquin-gt1611"
+  },
+  "code": {
+    "id": "GT1611",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT16",
+    "level": 1,
+    "name": {
+      "local": "Alta Verapaz",
+      "en": "Alta Verapaz",
+      "slug": "alta-verapaz-gt16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT16",
+      "level": 1,
+      "name": {
+        "local": "Alta Verapaz",
+        "en": "Alta Verapaz",
+        "slug": "alta-verapaz-gt16"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.576",
+    "lon": "-89.988"
+  },
+  "metadata": {},
+  "source": {}
+}

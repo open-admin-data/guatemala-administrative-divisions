@@ -1,0 +1,45 @@
+{
+  "id": "GT0113",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Fraijanes",
+    "en": "Fraijanes",
+    "slug": "fraijanes-gt0113"
+  },
+  "code": {
+    "id": "GT0113",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT01",
+    "level": 1,
+    "name": {
+      "local": "Guatemala",
+      "en": "Guatemala",
+      "slug": "guatemala-gt01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT01",
+      "level": 1,
+      "name": {
+        "local": "Guatemala",
+        "en": "Guatemala",
+        "slug": "guatemala-gt01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.456",
+    "lon": "-90.444"
+  },
+  "metadata": {},
+  "source": {}
+}

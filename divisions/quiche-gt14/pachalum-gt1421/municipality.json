@@ -1,0 +1,45 @@
+{
+  "id": "GT1421",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Pachalum",
+    "en": "Pachalum",
+    "slug": "pachalum-gt1421"
+  },
+  "code": {
+    "id": "GT1421",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT14",
+    "level": 1,
+    "name": {
+      "local": "Quiché",
+      "en": "Quiche",
+      "slug": "quiche-gt14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT14",
+      "level": 1,
+      "name": {
+        "local": "Quiché",
+        "en": "Quiche",
+        "slug": "quiche-gt14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.927",
+    "lon": "-90.66"
+  },
+  "metadata": {},
+  "source": {}
+}

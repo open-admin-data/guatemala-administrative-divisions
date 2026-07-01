@@ -1,0 +1,33 @@
+{
+  "id": "GT10",
+  "level": 1,
+  "level_name": {
+    "local": "Departamento",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Suchitepéquez",
+    "en": "Suchitepequez",
+    "slug": "suchitepequez-gt10"
+  },
+  "code": {
+    "id": "GT10",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 21
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.375",
+    "lon": "-91.365"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gt/departments/suchitepequez-gt10/",
+    "api": "https://openadmindata.org/api/gt/"
+  }
+}

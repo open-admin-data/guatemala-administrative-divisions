@@ -1,0 +1,45 @@
+{
+  "id": "GT0203",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Agustín Acasaguastlán",
+    "en": "San Agustin Acasaguastlan",
+    "slug": "san-agustin-acasaguastlan-gt0203"
+  },
+  "code": {
+    "id": "GT0203",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT02",
+    "level": 1,
+    "name": {
+      "local": "El Progreso",
+      "en": "El Progreso",
+      "slug": "el-progreso-gt02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT02",
+      "level": 1,
+      "name": {
+        "local": "El Progreso",
+        "en": "El Progreso",
+        "slug": "el-progreso-gt02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.017",
+    "lon": "-89.992"
+  },
+  "metadata": {},
+  "source": {}
+}

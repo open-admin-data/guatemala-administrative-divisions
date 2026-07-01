@@ -1,0 +1,33 @@
+{
+  "id": "GT21",
+  "level": 1,
+  "level_name": {
+    "local": "Departamento",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Jalapa",
+    "en": "Jalapa",
+    "slug": "jalapa-gt21"
+  },
+  "code": {
+    "id": "GT21",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.648",
+    "lon": "-89.946"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gt/departments/jalapa-gt21/",
+    "api": "https://openadmindata.org/api/gt/"
+  }
+}

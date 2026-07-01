@@ -1,0 +1,45 @@
+{
+  "id": "GT2007",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Esquipulas",
+    "en": "Esquipulas",
+    "slug": "esquipulas-gt2007"
+  },
+  "code": {
+    "id": "GT2007",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT20",
+    "level": 1,
+    "name": {
+      "local": "Chiquimula",
+      "en": "Chiquimula",
+      "slug": "chiquimula-gt20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT20",
+      "level": 1,
+      "name": {
+        "local": "Chiquimula",
+        "en": "Chiquimula",
+        "slug": "chiquimula-gt20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.632",
+    "lon": "-89.259"
+  },
+  "metadata": {},
+  "source": {}
+}

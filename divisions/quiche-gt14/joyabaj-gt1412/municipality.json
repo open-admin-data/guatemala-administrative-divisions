@@ -1,0 +1,45 @@
+{
+  "id": "GT1412",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Joyabaj",
+    "en": "Joyabaj",
+    "slug": "joyabaj-gt1412"
+  },
+  "code": {
+    "id": "GT1412",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT14",
+    "level": 1,
+    "name": {
+      "local": "Quiché",
+      "en": "Quiche",
+      "slug": "quiche-gt14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT14",
+      "level": 1,
+      "name": {
+        "local": "Quiché",
+        "en": "Quiche",
+        "slug": "quiche-gt14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.008",
+    "lon": "-90.815"
+  },
+  "metadata": {},
+  "source": {}
+}

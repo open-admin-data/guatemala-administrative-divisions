@@ -1,0 +1,947 @@
+[
+  {
+    "id": "GT1418",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Canillá",
+      "en": "Canilla",
+      "slug": "canilla-gt1418"
+    },
+    "code": {
+      "id": "GT1418",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT14",
+      "level": 1,
+      "name": {
+        "local": "Quiché",
+        "en": "Quiche",
+        "slug": "quiche-gt14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT14",
+        "level": 1,
+        "name": {
+          "local": "Quiché",
+          "en": "Quiche",
+          "slug": "quiche-gt14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.202",
+      "lon": "-90.862"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1405",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chajul",
+      "en": "Chajul",
+      "slug": "chajul-gt1405"
+    },
+    "code": {
+      "id": "GT1405",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT14",
+      "level": 1,
+      "name": {
+        "local": "Quiché",
+        "en": "Quiche",
+        "slug": "quiche-gt14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT14",
+        "level": 1,
+        "name": {
+          "local": "Quiché",
+          "en": "Quiche",
+          "slug": "quiche-gt14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.607",
+      "lon": "-90.999"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1419",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chicamán",
+      "en": "Chicaman",
+      "slug": "chicaman-gt1419"
+    },
+    "code": {
+      "id": "GT1419",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT14",
+      "level": 1,
+      "name": {
+        "local": "Quiché",
+        "en": "Quiche",
+        "slug": "quiche-gt14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT14",
+        "level": 1,
+        "name": {
+          "local": "Quiché",
+          "en": "Quiche",
+          "slug": "quiche-gt14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.399",
+      "lon": "-90.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1402",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chiché",
+      "en": "Chiche",
+      "slug": "chiche-gt1402"
+    },
+    "code": {
+      "id": "GT1402",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT14",
+      "level": 1,
+      "name": {
+        "local": "Quiché",
+        "en": "Quiche",
+        "slug": "quiche-gt14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT14",
+        "level": 1,
+        "name": {
+          "local": "Quiché",
+          "en": "Quiche",
+          "slug": "quiche-gt14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.009",
+      "lon": "-91.034"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1406",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chichicastenango",
+      "en": "Chichicastenango",
+      "slug": "chichicastenango-gt1406"
+    },
+    "code": {
+      "id": "GT1406",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT14",
+      "level": 1,
+      "name": {
+        "local": "Quiché",
+        "en": "Quiche",
+        "slug": "quiche-gt14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT14",
+        "level": 1,
+        "name": {
+          "local": "Quiché",
+          "en": "Quiche",
+          "slug": "quiche-gt14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.889",
+      "lon": "-91.092"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1403",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chinique",
+      "en": "Chinique",
+      "slug": "chinique-gt1403"
+    },
+    "code": {
+      "id": "GT1403",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT14",
+      "level": 1,
+      "name": {
+        "local": "Quiché",
+        "en": "Quiche",
+        "slug": "quiche-gt14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT14",
+        "level": 1,
+        "name": {
+          "local": "Quiché",
+          "en": "Quiche",
+          "slug": "quiche-gt14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.069",
+      "lon": "-91.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1410",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cunén",
+      "en": "Cunen",
+      "slug": "cunen-gt1410"
+    },
+    "code": {
+      "id": "GT1410",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT14",
+      "level": 1,
+      "name": {
+        "local": "Quiché",
+        "en": "Quiche",
+        "slug": "quiche-gt14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT14",
+        "level": 1,
+        "name": {
+          "local": "Quiché",
+          "en": "Quiche",
+          "slug": "quiche-gt14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.371",
+      "lon": "-91.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1420",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ixcán",
+      "en": "Ixcan",
+      "slug": "ixcan-gt1420"
+    },
+    "code": {
+      "id": "GT1420",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT14",
+      "level": 1,
+      "name": {
+        "local": "Quiché",
+        "en": "Quiche",
+        "slug": "quiche-gt14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT14",
+        "level": 1,
+        "name": {
+          "local": "Quiché",
+          "en": "Quiche",
+          "slug": "quiche-gt14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.881",
+      "lon": "-90.904"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1412",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Joyabaj",
+      "en": "Joyabaj",
+      "slug": "joyabaj-gt1412"
+    },
+    "code": {
+      "id": "GT1412",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT14",
+      "level": 1,
+      "name": {
+        "local": "Quiché",
+        "en": "Quiche",
+        "slug": "quiche-gt14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT14",
+        "level": 1,
+        "name": {
+          "local": "Quiché",
+          "en": "Quiche",
+          "slug": "quiche-gt14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.008",
+      "lon": "-90.815"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1413",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nebaj",
+      "en": "Nebaj",
+      "slug": "nebaj-gt1413"
+    },
+    "code": {
+      "id": "GT1413",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT14",
+      "level": 1,
+      "name": {
+        "local": "Quiché",
+        "en": "Quiche",
+        "slug": "quiche-gt14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT14",
+        "level": 1,
+        "name": {
+          "local": "Quiché",
+          "en": "Quiche",
+          "slug": "quiche-gt14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.606",
+      "lon": "-91.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1421",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pachalum",
+      "en": "Pachalum",
+      "slug": "pachalum-gt1421"
+    },
+    "code": {
+      "id": "GT1421",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT14",
+      "level": 1,
+      "name": {
+        "local": "Quiché",
+        "en": "Quiche",
+        "slug": "quiche-gt14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT14",
+        "level": 1,
+        "name": {
+          "local": "Quiché",
+          "en": "Quiche",
+          "slug": "quiche-gt14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.927",
+      "lon": "-90.66"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1407",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Patzité",
+      "en": "Patzite",
+      "slug": "patzite-gt1407"
+    },
+    "code": {
+      "id": "GT1407",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT14",
+      "level": 1,
+      "name": {
+        "local": "Quiché",
+        "en": "Quiche",
+        "slug": "quiche-gt14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT14",
+        "level": 1,
+        "name": {
+          "local": "Quiché",
+          "en": "Quiche",
+          "slug": "quiche-gt14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.971",
+      "lon": "-91.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1416",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sacapulas",
+      "en": "Sacapulas",
+      "slug": "sacapulas-gt1416"
+    },
+    "code": {
+      "id": "GT1416",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT14",
+      "level": 1,
+      "name": {
+        "local": "Quiché",
+        "en": "Quiche",
+        "slug": "quiche-gt14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT14",
+        "level": 1,
+        "name": {
+          "local": "Quiché",
+          "en": "Quiche",
+          "slug": "quiche-gt14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.267",
+      "lon": "-91.126"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1414",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Andrés Sajcabajá",
+      "en": "San Andres Sajcabaja",
+      "slug": "san-andres-sajcabaja-gt1414"
+    },
+    "code": {
+      "id": "GT1414",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT14",
+      "level": 1,
+      "name": {
+        "local": "Quiché",
+        "en": "Quiche",
+        "slug": "quiche-gt14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT14",
+        "level": 1,
+        "name": {
+          "local": "Quiché",
+          "en": "Quiche",
+          "slug": "quiche-gt14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.224",
+      "lon": "-90.931"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1408",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Antonio Ilotenango",
+      "en": "San Antonio Ilotenango",
+      "slug": "san-antonio-ilotenango-gt1408"
+    },
+    "code": {
+      "id": "GT1408",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT14",
+      "level": 1,
+      "name": {
+        "local": "Quiché",
+        "en": "Quiche",
+        "slug": "quiche-gt14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT14",
+        "level": 1,
+        "name": {
+          "local": "Quiché",
+          "en": "Quiche",
+          "slug": "quiche-gt14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.056",
+      "lon": "-91.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1417",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Bartolomé Jocotenango",
+      "en": "San Bartolome Jocotenango",
+      "slug": "san-bartolome-jocotenango-gt1417"
+    },
+    "code": {
+      "id": "GT1417",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT14",
+      "level": 1,
+      "name": {
+        "local": "Quiché",
+        "en": "Quiche",
+        "slug": "quiche-gt14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT14",
+        "level": 1,
+        "name": {
+          "local": "Quiché",
+          "en": "Quiche",
+          "slug": "quiche-gt14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.182",
+      "lon": "-91.016"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1411",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Juan Cotzal",
+      "en": "San Juan Cotzal",
+      "slug": "san-juan-cotzal-gt1411"
+    },
+    "code": {
+      "id": "GT1411",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT14",
+      "level": 1,
+      "name": {
+        "local": "Quiché",
+        "en": "Quiche",
+        "slug": "quiche-gt14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT14",
+        "level": 1,
+        "name": {
+          "local": "Quiché",
+          "en": "Quiche",
+          "slug": "quiche-gt14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.426",
+      "lon": "-91.009"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1409",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Pedro Jocopilas",
+      "en": "San Pedro Jocopilas",
+      "slug": "san-pedro-jocopilas-gt1409"
+    },
+    "code": {
+      "id": "GT1409",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT14",
+      "level": 1,
+      "name": {
+        "local": "Quiché",
+        "en": "Quiche",
+        "slug": "quiche-gt14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT14",
+        "level": 1,
+        "name": {
+          "local": "Quiché",
+          "en": "Quiche",
+          "slug": "quiche-gt14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.163",
+      "lon": "-91.163"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1401",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Cruz del Quiché",
+      "en": "Santa Cruz del Quiche",
+      "slug": "santa-cruz-del-quiche-gt1401"
+    },
+    "code": {
+      "id": "GT1401",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT14",
+      "level": 1,
+      "name": {
+        "local": "Quiché",
+        "en": "Quiche",
+        "slug": "quiche-gt14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT14",
+        "level": 1,
+        "name": {
+          "local": "Quiché",
+          "en": "Quiche",
+          "slug": "quiche-gt14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.026",
+      "lon": "-91.127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1415",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Uspantán",
+      "en": "Uspantan",
+      "slug": "uspantan-gt1415"
+    },
+    "code": {
+      "id": "GT1415",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT14",
+      "level": 1,
+      "name": {
+        "local": "Quiché",
+        "en": "Quiche",
+        "slug": "quiche-gt14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT14",
+        "level": 1,
+        "name": {
+          "local": "Quiché",
+          "en": "Quiche",
+          "slug": "quiche-gt14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.482",
+      "lon": "-90.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1404",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Zacualpa",
+      "en": "Zacualpa",
+      "slug": "zacualpa-gt1404"
+    },
+    "code": {
+      "id": "GT1404",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT14",
+      "level": 1,
+      "name": {
+        "local": "Quiché",
+        "en": "Quiche",
+        "slug": "quiche-gt14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT14",
+        "level": 1,
+        "name": {
+          "local": "Quiché",
+          "en": "Quiche",
+          "slug": "quiche-gt14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.091",
+      "lon": "-90.889"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

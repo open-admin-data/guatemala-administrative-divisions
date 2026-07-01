@@ -1,0 +1,45 @@
+{
+  "id": "GT0503",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "La Democracia",
+    "en": "La Democracia",
+    "slug": "la-democracia-gt0503"
+  },
+  "code": {
+    "id": "GT0503",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT05",
+    "level": 1,
+    "name": {
+      "local": "Escuintla",
+      "en": "Escuintla",
+      "slug": "escuintla-gt05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT05",
+      "level": 1,
+      "name": {
+        "local": "Escuintla",
+        "en": "Escuintla",
+        "slug": "escuintla-gt05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.121",
+    "lon": "-90.959"
+  },
+  "metadata": {},
+  "source": {}
+}

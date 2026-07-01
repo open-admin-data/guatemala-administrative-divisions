@@ -1,0 +1,49 @@
+# Totonicapan — Guatemala Administrative Divisions
+
+> 8 municipalitys
+> Code: GT08
+> Coordinates: 15.038, -91.408
+> Last updated: 2026-07-01. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Momostenango
+
+Code: GT0805, Coordinates: 15.11, -91.366
+
+
+### San Andrés Xecul (San Andres Xecul)
+
+Code: GT0804, Coordinates: 14.911, -91.497
+
+
+### San Bartolo
+
+Code: GT0808, Coordinates: 15.109, -91.469
+
+
+### San Cristóbal Totonicapán (San Cristobal Totonicapan)
+
+Code: GT0802, Coordinates: 14.926, -91.463
+
+
+### San Francisco El Alto
+
+Code: GT0803, Coordinates: 14.976, -91.498
+
+
+### Santa Lucía La Reforma (Santa Lucia La Reforma)
+
+Code: GT0807, Coordinates: 15.152, -91.281
+
+
+### Santa María Chiquimula (Santa Maria Chiquimula)
+
+Code: GT0806, Coordinates: 15.037, -91.325
+
+
+### Totonicapán (Totonicapan)
+
+Code: GT0801, Coordinates: 14.892, -91.31
+
+

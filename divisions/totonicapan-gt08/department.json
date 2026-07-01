@@ -1,0 +1,33 @@
+{
+  "id": "GT08",
+  "level": 1,
+  "level_name": {
+    "local": "Departamento",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Totonicapán",
+    "en": "Totonicapan",
+    "slug": "totonicapan-gt08"
+  },
+  "code": {
+    "id": "GT08",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.038",
+    "lon": "-91.408"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gt/departments/totonicapan-gt08/",
+    "api": "https://openadmindata.org/api/gt/"
+  }
+}

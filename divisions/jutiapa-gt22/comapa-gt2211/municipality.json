@@ -1,0 +1,45 @@
+{
+  "id": "GT2211",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Comapa",
+    "en": "Comapa",
+    "slug": "comapa-gt2211"
+  },
+  "code": {
+    "id": "GT2211",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT22",
+    "level": 1,
+    "name": {
+      "local": "Jutiapa",
+      "en": "Jutiapa",
+      "slug": "jutiapa-gt22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT22",
+      "level": 1,
+      "name": {
+        "local": "Jutiapa",
+        "en": "Jutiapa",
+        "slug": "jutiapa-gt22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.12",
+    "lon": "-89.894"
+  },
+  "metadata": {},
+  "source": {}
+}

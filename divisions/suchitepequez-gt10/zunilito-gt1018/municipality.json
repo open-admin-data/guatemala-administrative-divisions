@@ -1,0 +1,45 @@
+{
+  "id": "GT1018",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Zunilito",
+    "en": "Zunilito",
+    "slug": "zunilito-gt1018"
+  },
+  "code": {
+    "id": "GT1018",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT10",
+    "level": 1,
+    "name": {
+      "local": "Suchitepéquez",
+      "en": "Suchitepequez",
+      "slug": "suchitepequez-gt10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT10",
+      "level": 1,
+      "name": {
+        "local": "Suchitepéquez",
+        "en": "Suchitepequez",
+        "slug": "suchitepequez-gt10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.633",
+    "lon": "-91.497"
+  },
+  "metadata": {},
+  "source": {}
+}

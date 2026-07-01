@@ -1,0 +1,1352 @@
+[
+  {
+    "id": "GT1217",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ayutla",
+      "en": "Ayutla",
+      "slug": "ayutla-gt1217"
+    },
+    "code": {
+      "id": "GT1217",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT12",
+      "level": 1,
+      "name": {
+        "local": "San Marcos",
+        "en": "San Marcos",
+        "slug": "san-marcos-gt12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT12",
+        "level": 1,
+        "name": {
+          "local": "San Marcos",
+          "en": "San Marcos",
+          "slug": "san-marcos-gt12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.706",
+      "lon": "-92.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1216",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Catarina",
+      "en": "Catarina",
+      "slug": "catarina-gt1216"
+    },
+    "code": {
+      "id": "GT1216",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT12",
+      "level": 1,
+      "name": {
+        "local": "San Marcos",
+        "en": "San Marcos",
+        "slug": "san-marcos-gt12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT12",
+        "level": 1,
+        "name": {
+          "local": "San Marcos",
+          "en": "San Marcos",
+          "slug": "san-marcos-gt12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.848",
+      "lon": "-92.07"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1204",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Comitancillo",
+      "en": "Comitancillo",
+      "slug": "comitancillo-gt1204"
+    },
+    "code": {
+      "id": "GT1204",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT12",
+      "level": 1,
+      "name": {
+        "local": "San Marcos",
+        "en": "San Marcos",
+        "slug": "san-marcos-gt12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT12",
+        "level": 1,
+        "name": {
+          "local": "San Marcos",
+          "en": "San Marcos",
+          "slug": "san-marcos-gt12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.12",
+      "lon": "-91.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1206",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Concepción Tutuapa",
+      "en": "Concepcion Tutuapa",
+      "slug": "concepcion-tutuapa-gt1206"
+    },
+    "code": {
+      "id": "GT1206",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT12",
+      "level": 1,
+      "name": {
+        "local": "San Marcos",
+        "en": "San Marcos",
+        "slug": "san-marcos-gt12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT12",
+        "level": 1,
+        "name": {
+          "local": "San Marcos",
+          "en": "San Marcos",
+          "slug": "san-marcos-gt12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.29",
+      "lon": "-91.876"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1220",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "El Quetzal",
+      "en": "El Quetzal",
+      "slug": "el-quetzal-gt1220"
+    },
+    "code": {
+      "id": "GT1220",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT12",
+      "level": 1,
+      "name": {
+        "local": "San Marcos",
+        "en": "San Marcos",
+        "slug": "san-marcos-gt12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT12",
+        "level": 1,
+        "name": {
+          "local": "San Marcos",
+          "en": "San Marcos",
+          "slug": "san-marcos-gt12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.795",
+      "lon": "-91.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1214",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "El Rodeo",
+      "en": "El Rodeo",
+      "slug": "el-rodeo-gt1214"
+    },
+    "code": {
+      "id": "GT1214",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT12",
+      "level": 1,
+      "name": {
+        "local": "San Marcos",
+        "en": "San Marcos",
+        "slug": "san-marcos-gt12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT12",
+        "level": 1,
+        "name": {
+          "local": "San Marcos",
+          "en": "San Marcos",
+          "slug": "san-marcos-gt12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.887",
+      "lon": "-92.001"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1213",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "El Tumbador",
+      "en": "El Tumbador",
+      "slug": "el-tumbador-gt1213"
+    },
+    "code": {
+      "id": "GT1213",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT12",
+      "level": 1,
+      "name": {
+        "local": "San Marcos",
+        "en": "San Marcos",
+        "slug": "san-marcos-gt12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT12",
+        "level": 1,
+        "name": {
+          "local": "San Marcos",
+          "en": "San Marcos",
+          "slug": "san-marcos-gt12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.845",
+      "lon": "-91.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1227",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Esquipulas Palo Gordo",
+      "en": "Esquipulas Palo Gordo",
+      "slug": "esquipulas-palo-gordo-gt1227"
+    },
+    "code": {
+      "id": "GT1227",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT12",
+      "level": 1,
+      "name": {
+        "local": "San Marcos",
+        "en": "San Marcos",
+        "slug": "san-marcos-gt12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT12",
+        "level": 1,
+        "name": {
+          "local": "San Marcos",
+          "en": "San Marcos",
+          "slug": "san-marcos-gt12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.925",
+      "lon": "-91.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1223",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ixchiguán",
+      "en": "Ixchiguan",
+      "slug": "ixchiguan-gt1223"
+    },
+    "code": {
+      "id": "GT1223",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT12",
+      "level": 1,
+      "name": {
+        "local": "San Marcos",
+        "en": "San Marcos",
+        "slug": "san-marcos-gt12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT12",
+        "level": 1,
+        "name": {
+          "local": "San Marcos",
+          "en": "San Marcos",
+          "slug": "san-marcos-gt12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.132",
+      "lon": "-91.907"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1230",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "La Blanca",
+      "en": "La Blanca",
+      "slug": "la-blanca-gt1230"
+    },
+    "code": {
+      "id": "GT1230",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT12",
+      "level": 1,
+      "name": {
+        "local": "San Marcos",
+        "en": "San Marcos",
+        "slug": "san-marcos-gt12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT12",
+        "level": 1,
+        "name": {
+          "local": "San Marcos",
+          "en": "San Marcos",
+          "slug": "san-marcos-gt12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.551",
+      "lon": "-92.113"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1221",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "La Reforma",
+      "en": "La Reforma",
+      "slug": "la-reforma-gt1221"
+    },
+    "code": {
+      "id": "GT1221",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT12",
+      "level": 1,
+      "name": {
+        "local": "San Marcos",
+        "en": "San Marcos",
+        "slug": "san-marcos-gt12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT12",
+        "level": 1,
+        "name": {
+          "local": "San Marcos",
+          "en": "San Marcos",
+          "slug": "san-marcos-gt12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.82",
+      "lon": "-91.823"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1215",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Malacatán",
+      "en": "Malacatan",
+      "slug": "malacatan-gt1215"
+    },
+    "code": {
+      "id": "GT1215",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT12",
+      "level": 1,
+      "name": {
+        "local": "San Marcos",
+        "en": "San Marcos",
+        "slug": "san-marcos-gt12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT12",
+        "level": 1,
+        "name": {
+          "local": "San Marcos",
+          "en": "San Marcos",
+          "slug": "san-marcos-gt12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.914",
+      "lon": "-92.092"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1212",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nuevo Progreso",
+      "en": "Nuevo Progreso",
+      "slug": "nuevo-progreso-gt1212"
+    },
+    "code": {
+      "id": "GT1212",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT12",
+      "level": 1,
+      "name": {
+        "local": "San Marcos",
+        "en": "San Marcos",
+        "slug": "san-marcos-gt12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT12",
+        "level": 1,
+        "name": {
+          "local": "San Marcos",
+          "en": "San Marcos",
+          "slug": "san-marcos-gt12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.815",
+      "lon": "-91.889"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1218",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ocós",
+      "en": "Ocos",
+      "slug": "ocos-gt1218"
+    },
+    "code": {
+      "id": "GT1218",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT12",
+      "level": 1,
+      "name": {
+        "local": "San Marcos",
+        "en": "San Marcos",
+        "slug": "san-marcos-gt12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT12",
+        "level": 1,
+        "name": {
+          "local": "San Marcos",
+          "en": "San Marcos",
+          "slug": "san-marcos-gt12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.559",
+      "lon": "-92.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1222",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pajapita",
+      "en": "Pajapita",
+      "slug": "pajapita-gt1222"
+    },
+    "code": {
+      "id": "GT1222",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT12",
+      "level": 1,
+      "name": {
+        "local": "San Marcos",
+        "en": "San Marcos",
+        "slug": "san-marcos-gt12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT12",
+        "level": 1,
+        "name": {
+          "local": "San Marcos",
+          "en": "San Marcos",
+          "slug": "san-marcos-gt12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.718",
+      "lon": "-92.071"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1228",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Río Blanco",
+      "en": "Rio Blanco",
+      "slug": "rio-blanco-gt1228"
+    },
+    "code": {
+      "id": "GT1228",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT12",
+      "level": 1,
+      "name": {
+        "local": "San Marcos",
+        "en": "San Marcos",
+        "slug": "san-marcos-gt12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT12",
+        "level": 1,
+        "name": {
+          "local": "San Marcos",
+          "en": "San Marcos",
+          "slug": "san-marcos-gt12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.048",
+      "lon": "-91.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1203",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Antonio Sacatepéquez",
+      "en": "San Antonio Sacatepequez",
+      "slug": "san-antonio-sacatepequez-gt1203"
+    },
+    "code": {
+      "id": "GT1203",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT12",
+      "level": 1,
+      "name": {
+        "local": "San Marcos",
+        "en": "San Marcos",
+        "slug": "san-marcos-gt12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT12",
+        "level": 1,
+        "name": {
+          "local": "San Marcos",
+          "en": "San Marcos",
+          "slug": "san-marcos-gt12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.966",
+      "lon": "-91.713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1225",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Cristóbal Cucho",
+      "en": "San Cristobal Cucho",
+      "slug": "san-cristobal-cucho-gt1225"
+    },
+    "code": {
+      "id": "GT1225",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT12",
+      "level": 1,
+      "name": {
+        "local": "San Marcos",
+        "en": "San Marcos",
+        "slug": "san-marcos-gt12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT12",
+        "level": 1,
+        "name": {
+          "local": "San Marcos",
+          "en": "San Marcos",
+          "slug": "san-marcos-gt12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.885",
+      "lon": "-91.763"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1224",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San José Ojetenam",
+      "en": "San Jose Ojetenam",
+      "slug": "san-jose-ojetenam-gt1224"
+    },
+    "code": {
+      "id": "GT1224",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT12",
+      "level": 1,
+      "name": {
+        "local": "San Marcos",
+        "en": "San Marcos",
+        "slug": "san-marcos-gt12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT12",
+        "level": 1,
+        "name": {
+          "local": "San Marcos",
+          "en": "San Marcos",
+          "slug": "san-marcos-gt12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.238",
+      "lon": "-91.964"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1229",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Lorenzo",
+      "en": "San Lorenzo",
+      "slug": "san-lorenzo-gt1229"
+    },
+    "code": {
+      "id": "GT1229",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT12",
+      "level": 1,
+      "name": {
+        "local": "San Marcos",
+        "en": "San Marcos",
+        "slug": "san-marcos-gt12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT12",
+        "level": 1,
+        "name": {
+          "local": "San Marcos",
+          "en": "San Marcos",
+          "slug": "san-marcos-gt12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.026",
+      "lon": "-91.747"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1201",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Marcos",
+      "en": "San Marcos",
+      "slug": "san-marcos-gt1201"
+    },
+    "code": {
+      "id": "GT1201",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT12",
+      "level": 1,
+      "name": {
+        "local": "San Marcos",
+        "en": "San Marcos",
+        "slug": "san-marcos-gt12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT12",
+        "level": 1,
+        "name": {
+          "local": "San Marcos",
+          "en": "San Marcos",
+          "slug": "san-marcos-gt12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.993",
+      "lon": "-91.837"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1205",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Miguel Ixtahuacán",
+      "en": "San Miguel Ixtahuacan",
+      "slug": "san-miguel-ixtahuacan-gt1205"
+    },
+    "code": {
+      "id": "GT1205",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT12",
+      "level": 1,
+      "name": {
+        "local": "San Marcos",
+        "en": "San Marcos",
+        "slug": "san-marcos-gt12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT12",
+        "level": 1,
+        "name": {
+          "local": "San Marcos",
+          "en": "San Marcos",
+          "slug": "san-marcos-gt12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.27",
+      "lon": "-91.719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1219",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Pablo",
+      "en": "San Pablo",
+      "slug": "san-pablo-gt1219"
+    },
+    "code": {
+      "id": "GT1219",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT12",
+      "level": 1,
+      "name": {
+        "local": "San Marcos",
+        "en": "San Marcos",
+        "slug": "san-marcos-gt12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT12",
+        "level": 1,
+        "name": {
+          "local": "San Marcos",
+          "en": "San Marcos",
+          "slug": "san-marcos-gt12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.977",
+      "lon": "-91.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1202",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Pedro Sacatepéquez",
+      "en": "San Pedro Sacatepequez",
+      "slug": "san-pedro-sacatepequez-gt1202"
+    },
+    "code": {
+      "id": "GT1202",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT12",
+      "level": 1,
+      "name": {
+        "local": "San Marcos",
+        "en": "San Marcos",
+        "slug": "san-marcos-gt12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT12",
+        "level": 1,
+        "name": {
+          "local": "San Marcos",
+          "en": "San Marcos",
+          "slug": "san-marcos-gt12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.956",
+      "lon": "-91.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1211",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Rafael Pie de la Cuesta",
+      "en": "San Rafael Pie de la Cuesta",
+      "slug": "san-rafael-pie-de-la-cuesta-gt1211"
+    },
+    "code": {
+      "id": "GT1211",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT12",
+      "level": 1,
+      "name": {
+        "local": "San Marcos",
+        "en": "San Marcos",
+        "slug": "san-marcos-gt12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT12",
+        "level": 1,
+        "name": {
+          "local": "San Marcos",
+          "en": "San Marcos",
+          "slug": "san-marcos-gt12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.932",
+      "lon": "-91.908"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1208",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sibinal",
+      "en": "Sibinal",
+      "slug": "sibinal-gt1208"
+    },
+    "code": {
+      "id": "GT1208",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT12",
+      "level": 1,
+      "name": {
+        "local": "San Marcos",
+        "en": "San Marcos",
+        "slug": "san-marcos-gt12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT12",
+        "level": 1,
+        "name": {
+          "local": "San Marcos",
+          "en": "San Marcos",
+          "slug": "san-marcos-gt12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.126",
+      "lon": "-92.057"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1226",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sipacapa",
+      "en": "Sipacapa",
+      "slug": "sipacapa-gt1226"
+    },
+    "code": {
+      "id": "GT1226",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT12",
+      "level": 1,
+      "name": {
+        "local": "San Marcos",
+        "en": "San Marcos",
+        "slug": "san-marcos-gt12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT12",
+        "level": 1,
+        "name": {
+          "local": "San Marcos",
+          "en": "San Marcos",
+          "slug": "san-marcos-gt12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.195",
+      "lon": "-91.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1207",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tacaná",
+      "en": "Tacana",
+      "slug": "tacana-gt1207"
+    },
+    "code": {
+      "id": "GT1207",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT12",
+      "level": 1,
+      "name": {
+        "local": "San Marcos",
+        "en": "San Marcos",
+        "slug": "san-marcos-gt12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT12",
+        "level": 1,
+        "name": {
+          "local": "San Marcos",
+          "en": "San Marcos",
+          "slug": "san-marcos-gt12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.295",
+      "lon": "-92.134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1209",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tajumulco",
+      "en": "Tajumulco",
+      "slug": "tajumulco-gt1209"
+    },
+    "code": {
+      "id": "GT1209",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT12",
+      "level": 1,
+      "name": {
+        "local": "San Marcos",
+        "en": "San Marcos",
+        "slug": "san-marcos-gt12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT12",
+        "level": 1,
+        "name": {
+          "local": "San Marcos",
+          "en": "San Marcos",
+          "slug": "san-marcos-gt12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.059",
+      "lon": "-91.974"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1210",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tejutla",
+      "en": "Tejutla",
+      "slug": "tejutla-gt1210"
+    },
+    "code": {
+      "id": "GT1210",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT12",
+      "level": 1,
+      "name": {
+        "local": "San Marcos",
+        "en": "San Marcos",
+        "slug": "san-marcos-gt12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT12",
+        "level": 1,
+        "name": {
+          "local": "San Marcos",
+          "en": "San Marcos",
+          "slug": "san-marcos-gt12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.154",
+      "lon": "-91.818"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

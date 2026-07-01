@@ -1,0 +1,45 @@
+{
+  "id": "GT2006",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Olopa",
+    "en": "Olopa",
+    "slug": "olopa-gt2006"
+  },
+  "code": {
+    "id": "GT2006",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT20",
+    "level": 1,
+    "name": {
+      "local": "Chiquimula",
+      "en": "Chiquimula",
+      "slug": "chiquimula-gt20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT20",
+      "level": 1,
+      "name": {
+        "local": "Chiquimula",
+        "en": "Chiquimula",
+        "slug": "chiquimula-gt20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.697",
+    "lon": "-89.323"
+  },
+  "metadata": {},
+  "source": {}
+}

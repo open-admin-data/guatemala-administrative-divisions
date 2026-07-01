@@ -1,0 +1,45 @@
+{
+  "id": "GT1609",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Pedro Carchá",
+    "en": "San Pedro Carcha",
+    "slug": "san-pedro-carcha-gt1609"
+  },
+  "code": {
+    "id": "GT1609",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT16",
+    "level": 1,
+    "name": {
+      "local": "Alta Verapaz",
+      "en": "Alta Verapaz",
+      "slug": "alta-verapaz-gt16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT16",
+      "level": 1,
+      "name": {
+        "local": "Alta Verapaz",
+        "en": "Alta Verapaz",
+        "slug": "alta-verapaz-gt16"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.577",
+    "lon": "-90.203"
+  },
+  "metadata": {},
+  "source": {}
+}

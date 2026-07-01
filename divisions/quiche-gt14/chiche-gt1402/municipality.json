@@ -1,0 +1,45 @@
+{
+  "id": "GT1402",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Chiché",
+    "en": "Chiche",
+    "slug": "chiche-gt1402"
+  },
+  "code": {
+    "id": "GT1402",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT14",
+    "level": 1,
+    "name": {
+      "local": "Quiché",
+      "en": "Quiche",
+      "slug": "quiche-gt14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT14",
+      "level": 1,
+      "name": {
+        "local": "Quiché",
+        "en": "Quiche",
+        "slug": "quiche-gt14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.009",
+    "lon": "-91.034"
+  },
+  "metadata": {},
+  "source": {}
+}

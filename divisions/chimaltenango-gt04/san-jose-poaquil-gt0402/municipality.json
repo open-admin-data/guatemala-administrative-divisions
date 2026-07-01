@@ -1,0 +1,45 @@
+{
+  "id": "GT0402",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San José Poaquil",
+    "en": "San Jose Poaquil",
+    "slug": "san-jose-poaquil-gt0402"
+  },
+  "code": {
+    "id": "GT0402",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT04",
+    "level": 1,
+    "name": {
+      "local": "Chimaltenango",
+      "en": "Chimaltenango",
+      "slug": "chimaltenango-gt04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT04",
+      "level": 1,
+      "name": {
+        "local": "Chimaltenango",
+        "en": "Chimaltenango",
+        "slug": "chimaltenango-gt04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.861",
+    "lon": "-90.914"
+  },
+  "metadata": {},
+  "source": {}
+}

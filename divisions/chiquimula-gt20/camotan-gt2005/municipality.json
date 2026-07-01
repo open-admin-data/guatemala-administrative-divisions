@@ -1,0 +1,45 @@
+{
+  "id": "GT2005",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Camotán",
+    "en": "Camotan",
+    "slug": "camotan-gt2005"
+  },
+  "code": {
+    "id": "GT2005",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT20",
+    "level": 1,
+    "name": {
+      "local": "Chiquimula",
+      "en": "Chiquimula",
+      "slug": "chiquimula-gt20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT20",
+      "level": 1,
+      "name": {
+        "local": "Chiquimula",
+        "en": "Chiquimula",
+        "slug": "chiquimula-gt20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.867",
+    "lon": "-89.296"
+  },
+  "metadata": {},
+  "source": {}
+}

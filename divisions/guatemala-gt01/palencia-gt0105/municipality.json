@@ -1,0 +1,45 @@
+{
+  "id": "GT0105",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Palencia",
+    "en": "Palencia",
+    "slug": "palencia-gt0105"
+  },
+  "code": {
+    "id": "GT0105",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT01",
+    "level": 1,
+    "name": {
+      "local": "Guatemala",
+      "en": "Guatemala",
+      "slug": "guatemala-gt01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT01",
+      "level": 1,
+      "name": {
+        "local": "Guatemala",
+        "en": "Guatemala",
+        "slug": "guatemala-gt01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.679",
+    "lon": "-90.306"
+  },
+  "metadata": {},
+  "source": {}
+}

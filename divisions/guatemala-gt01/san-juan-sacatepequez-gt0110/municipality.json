@@ -1,0 +1,45 @@
+{
+  "id": "GT0110",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Juan Sacatepéquez",
+    "en": "San Juan Sacatepequez",
+    "slug": "san-juan-sacatepequez-gt0110"
+  },
+  "code": {
+    "id": "GT0110",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT01",
+    "level": 1,
+    "name": {
+      "local": "Guatemala",
+      "en": "Guatemala",
+      "slug": "guatemala-gt01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT01",
+      "level": 1,
+      "name": {
+        "local": "Guatemala",
+        "en": "Guatemala",
+        "slug": "guatemala-gt01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.779",
+    "lon": "-90.657"
+  },
+  "metadata": {},
+  "source": {}
+}

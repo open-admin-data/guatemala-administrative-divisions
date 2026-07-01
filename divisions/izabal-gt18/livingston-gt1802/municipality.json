@@ -1,0 +1,45 @@
+{
+  "id": "GT1802",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Lívingston",
+    "en": "Livingston",
+    "slug": "livingston-gt1802"
+  },
+  "code": {
+    "id": "GT1802",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT18",
+    "level": 1,
+    "name": {
+      "local": "Izabal",
+      "en": "Izabal",
+      "slug": "izabal-gt18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT18",
+      "level": 1,
+      "name": {
+        "local": "Izabal",
+        "en": "Izabal",
+        "slug": "izabal-gt18"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.749",
+    "lon": "-89.178"
+  },
+  "metadata": {},
+  "source": {}
+}

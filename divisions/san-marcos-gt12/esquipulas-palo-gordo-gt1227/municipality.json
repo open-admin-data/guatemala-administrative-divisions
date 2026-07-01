@@ -1,0 +1,45 @@
+{
+  "id": "GT1227",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Esquipulas Palo Gordo",
+    "en": "Esquipulas Palo Gordo",
+    "slug": "esquipulas-palo-gordo-gt1227"
+  },
+  "code": {
+    "id": "GT1227",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT12",
+    "level": 1,
+    "name": {
+      "local": "San Marcos",
+      "en": "San Marcos",
+      "slug": "san-marcos-gt12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT12",
+      "level": 1,
+      "name": {
+        "local": "San Marcos",
+        "en": "San Marcos",
+        "slug": "san-marcos-gt12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.925",
+    "lon": "-91.842"
+  },
+  "metadata": {},
+  "source": {}
+}

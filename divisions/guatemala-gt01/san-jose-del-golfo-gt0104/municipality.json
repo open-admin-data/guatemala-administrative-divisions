@@ -1,0 +1,45 @@
+{
+  "id": "GT0104",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San José del Golfo",
+    "en": "San Jose del Golfo",
+    "slug": "san-jose-del-golfo-gt0104"
+  },
+  "code": {
+    "id": "GT0104",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT01",
+    "level": 1,
+    "name": {
+      "local": "Guatemala",
+      "en": "Guatemala",
+      "slug": "guatemala-gt01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT01",
+      "level": 1,
+      "name": {
+        "local": "Guatemala",
+        "en": "Guatemala",
+        "slug": "guatemala-gt01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.785",
+    "lon": "-90.364"
+  },
+  "metadata": {},
+  "source": {}
+}

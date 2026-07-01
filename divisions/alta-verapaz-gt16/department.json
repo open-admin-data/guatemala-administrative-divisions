@@ -1,0 +1,33 @@
+{
+  "id": "GT16",
+  "level": 1,
+  "level_name": {
+    "local": "Departamento",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Alta Verapaz",
+    "en": "Alta Verapaz",
+    "slug": "alta-verapaz-gt16"
+  },
+  "code": {
+    "id": "GT16",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.596",
+    "lon": "-90.091"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gt/departments/alta-verapaz-gt16/",
+    "api": "https://openadmindata.org/api/gt/"
+  }
+}

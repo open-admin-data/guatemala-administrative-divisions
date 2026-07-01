@@ -1,0 +1,497 @@
+[
+  {
+    "id": "GT1907",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cabañas",
+      "en": "Cabanas",
+      "slug": "cabanas-gt1907"
+    },
+    "code": {
+      "id": "GT1907",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT19",
+      "level": 1,
+      "name": {
+        "local": "Zacapa",
+        "en": "Zacapa",
+        "slug": "zacapa-gt19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT19",
+        "level": 1,
+        "name": {
+          "local": "Zacapa",
+          "en": "Zacapa",
+          "slug": "zacapa-gt19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.89",
+      "lon": "-89.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1902",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Estanzuela",
+      "en": "Estanzuela",
+      "slug": "estanzuela-gt1902"
+    },
+    "code": {
+      "id": "GT1902",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT19",
+      "level": 1,
+      "name": {
+        "local": "Zacapa",
+        "en": "Zacapa",
+        "slug": "zacapa-gt19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT19",
+        "level": 1,
+        "name": {
+          "local": "Zacapa",
+          "en": "Zacapa",
+          "slug": "zacapa-gt19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.974",
+      "lon": "-89.609"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1904",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Gualán",
+      "en": "Gualan",
+      "slug": "gualan-gt1904"
+    },
+    "code": {
+      "id": "GT1904",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT19",
+      "level": 1,
+      "name": {
+        "local": "Zacapa",
+        "en": "Zacapa",
+        "slug": "zacapa-gt19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT19",
+        "level": 1,
+        "name": {
+          "local": "Zacapa",
+          "en": "Zacapa",
+          "slug": "zacapa-gt19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.152",
+      "lon": "-89.316"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1910",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Huité",
+      "en": "Huite",
+      "slug": "huite-gt1910"
+    },
+    "code": {
+      "id": "GT1910",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT19",
+      "level": 1,
+      "name": {
+        "local": "Zacapa",
+        "en": "Zacapa",
+        "slug": "zacapa-gt19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT19",
+        "level": 1,
+        "name": {
+          "local": "Zacapa",
+          "en": "Zacapa",
+          "slug": "zacapa-gt19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.912",
+      "lon": "-89.688"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1909",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "La Unión",
+      "en": "La Union",
+      "slug": "la-union-gt1909"
+    },
+    "code": {
+      "id": "GT1909",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT19",
+      "level": 1,
+      "name": {
+        "local": "Zacapa",
+        "en": "Zacapa",
+        "slug": "zacapa-gt19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT19",
+        "level": 1,
+        "name": {
+          "local": "Zacapa",
+          "en": "Zacapa",
+          "slug": "zacapa-gt19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.958",
+      "lon": "-89.259"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1903",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Río Hondo",
+      "en": "Rio Hondo",
+      "slug": "rio-hondo-gt1903"
+    },
+    "code": {
+      "id": "GT1903",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT19",
+      "level": 1,
+      "name": {
+        "local": "Zacapa",
+        "en": "Zacapa",
+        "slug": "zacapa-gt19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT19",
+        "level": 1,
+        "name": {
+          "local": "Zacapa",
+          "en": "Zacapa",
+          "slug": "zacapa-gt19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.094",
+      "lon": "-89.607"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1908",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Diego",
+      "en": "San Diego",
+      "slug": "san-diego-gt1908"
+    },
+    "code": {
+      "id": "GT1908",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT19",
+      "level": 1,
+      "name": {
+        "local": "Zacapa",
+        "en": "Zacapa",
+        "slug": "zacapa-gt19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT19",
+        "level": 1,
+        "name": {
+          "local": "Zacapa",
+          "en": "Zacapa",
+          "slug": "zacapa-gt19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.796",
+      "lon": "-89.759"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1911",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Jorge",
+      "en": "San Jorge",
+      "slug": "san-jorge-gt1911"
+    },
+    "code": {
+      "id": "GT1911",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT19",
+      "level": 1,
+      "name": {
+        "local": "Zacapa",
+        "en": "Zacapa",
+        "slug": "zacapa-gt19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT19",
+        "level": 1,
+        "name": {
+          "local": "Zacapa",
+          "en": "Zacapa",
+          "slug": "zacapa-gt19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.916",
+      "lon": "-89.589"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1905",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Teculután",
+      "en": "Teculutan",
+      "slug": "teculutan-gt1905"
+    },
+    "code": {
+      "id": "GT1905",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT19",
+      "level": 1,
+      "name": {
+        "local": "Zacapa",
+        "en": "Zacapa",
+        "slug": "zacapa-gt19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT19",
+        "level": 1,
+        "name": {
+          "local": "Zacapa",
+          "en": "Zacapa",
+          "slug": "zacapa-gt19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.065",
+      "lon": "-89.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1906",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Usumatlán",
+      "en": "Usumatlan",
+      "slug": "usumatlan-gt1906"
+    },
+    "code": {
+      "id": "GT1906",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT19",
+      "level": 1,
+      "name": {
+        "local": "Zacapa",
+        "en": "Zacapa",
+        "slug": "zacapa-gt19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT19",
+        "level": 1,
+        "name": {
+          "local": "Zacapa",
+          "en": "Zacapa",
+          "slug": "zacapa-gt19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.005",
+      "lon": "-89.81"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1901",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Zacapa",
+      "en": "Zacapa",
+      "slug": "zacapa-gt1901"
+    },
+    "code": {
+      "id": "GT1901",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT19",
+      "level": 1,
+      "name": {
+        "local": "Zacapa",
+        "en": "Zacapa",
+        "slug": "zacapa-gt19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT19",
+        "level": 1,
+        "name": {
+          "local": "Zacapa",
+          "en": "Zacapa",
+          "slug": "zacapa-gt19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.973",
+      "lon": "-89.444"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

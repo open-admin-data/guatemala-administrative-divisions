@@ -1,0 +1,45 @@
+{
+  "id": "GT1003",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Francisco Zapotitlán",
+    "en": "San Francisco Zapotitlan",
+    "slug": "san-francisco-zapotitlan-gt1003"
+  },
+  "code": {
+    "id": "GT1003",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT10",
+    "level": 1,
+    "name": {
+      "local": "Suchitepéquez",
+      "en": "Suchitepequez",
+      "slug": "suchitepequez-gt10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT10",
+      "level": 1,
+      "name": {
+        "local": "Suchitepéquez",
+        "en": "Suchitepequez",
+        "slug": "suchitepequez-gt10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.633",
+    "lon": "-91.521"
+  },
+  "metadata": {},
+  "source": {}
+}

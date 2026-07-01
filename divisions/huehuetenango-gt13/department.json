@@ -1,0 +1,33 @@
+{
+  "id": "GT13",
+  "level": 1,
+  "level_name": {
+    "local": "Departamento",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Huehuetenango",
+    "en": "Huehuetenango",
+    "slug": "huehuetenango-gt13"
+  },
+  "code": {
+    "id": "GT13",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 33
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.606",
+    "lon": "-91.645"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gt/departments/huehuetenango-gt13/",
+    "api": "https://openadmindata.org/api/gt/"
+  }
+}

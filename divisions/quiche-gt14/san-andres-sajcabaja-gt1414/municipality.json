@@ -1,0 +1,45 @@
+{
+  "id": "GT1414",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Andrés Sajcabajá",
+    "en": "San Andres Sajcabaja",
+    "slug": "san-andres-sajcabaja-gt1414"
+  },
+  "code": {
+    "id": "GT1414",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT14",
+    "level": 1,
+    "name": {
+      "local": "Quiché",
+      "en": "Quiche",
+      "slug": "quiche-gt14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT14",
+      "level": 1,
+      "name": {
+        "local": "Quiché",
+        "en": "Quiche",
+        "slug": "quiche-gt14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.224",
+    "lon": "-90.931"
+  },
+  "metadata": {},
+  "source": {}
+}

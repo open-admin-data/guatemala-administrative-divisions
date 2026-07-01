@@ -1,0 +1,45 @@
+{
+  "id": "GT1502",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Miguel Chicaj",
+    "en": "San Miguel Chicaj",
+    "slug": "san-miguel-chicaj-gt1502"
+  },
+  "code": {
+    "id": "GT1502",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT15",
+    "level": 1,
+    "name": {
+      "local": "Baja Verapaz",
+      "en": "Baja Verapaz",
+      "slug": "baja-verapaz-gt15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT15",
+      "level": 1,
+      "name": {
+        "local": "Baja Verapaz",
+        "en": "Baja Verapaz",
+        "slug": "baja-verapaz-gt15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.141",
+    "lon": "-90.42"
+  },
+  "metadata": {},
+  "source": {}
+}

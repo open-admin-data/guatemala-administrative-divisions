@@ -1,0 +1,114 @@
+# Quiche — Guatemala Administrative Divisions
+
+> 21 municipalitys
+> Code: GT14
+> Coordinates: 15.428, -91.008
+> Last updated: 2026-07-01. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Canillá (Canilla)
+
+Code: GT1418, Coordinates: 15.202, -90.862
+
+
+### Chajul
+
+Code: GT1405, Coordinates: 15.607, -90.999
+
+
+### Chicamán (Chicaman)
+
+Code: GT1419, Coordinates: 15.399, -90.745
+
+
+### Chiché (Chiche)
+
+Code: GT1402, Coordinates: 15.009, -91.034
+
+
+### Chichicastenango
+
+Code: GT1406, Coordinates: 14.889, -91.092
+
+
+### Chinique
+
+Code: GT1403, Coordinates: 15.069, -91.023
+
+
+### Cunén (Cunen)
+
+Code: GT1410, Coordinates: 15.371, -91.023
+
+
+### Ixcán (Ixcan)
+
+Code: GT1420, Coordinates: 15.881, -90.904
+
+
+### Joyabaj
+
+Code: GT1412, Coordinates: 15.008, -90.815
+
+
+### Nebaj
+
+Code: GT1413, Coordinates: 15.606, -91.183
+
+
+### Pachalum
+
+Code: GT1421, Coordinates: 14.927, -90.66
+
+
+### Patzité (Patzite)
+
+Code: GT1407, Coordinates: 14.971, -91.197
+
+
+### Sacapulas
+
+Code: GT1416, Coordinates: 15.267, -91.126
+
+
+### San Andrés Sajcabajá (San Andres Sajcabaja)
+
+Code: GT1414, Coordinates: 15.224, -90.931
+
+
+### San Antonio Ilotenango
+
+Code: GT1408, Coordinates: 15.056, -91.217
+
+
+### San Bartolomé Jocotenango (San Bartolome Jocotenango)
+
+Code: GT1417, Coordinates: 15.182, -91.016
+
+
+### San Juan Cotzal
+
+Code: GT1411, Coordinates: 15.426, -91.009
+
+
+### San Pedro Jocopilas
+
+Code: GT1409, Coordinates: 15.163, -91.163
+
+
+### Santa Cruz del Quiché (Santa Cruz del Quiche)
+
+Code: GT1401, Coordinates: 15.026, -91.127
+
+
+### Uspantán (Uspantan)
+
+Code: GT1415, Coordinates: 15.482, -90.842
+
+
+### Zacualpa
+
+Code: GT1404, Coordinates: 15.091, -90.889
+
+

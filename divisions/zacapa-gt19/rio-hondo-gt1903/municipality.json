@@ -1,0 +1,45 @@
+{
+  "id": "GT1903",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Río Hondo",
+    "en": "Rio Hondo",
+    "slug": "rio-hondo-gt1903"
+  },
+  "code": {
+    "id": "GT1903",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT19",
+    "level": 1,
+    "name": {
+      "local": "Zacapa",
+      "en": "Zacapa",
+      "slug": "zacapa-gt19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT19",
+      "level": 1,
+      "name": {
+        "local": "Zacapa",
+        "en": "Zacapa",
+        "slug": "zacapa-gt19"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.094",
+    "lon": "-89.607"
+  },
+  "metadata": {},
+  "source": {}
+}

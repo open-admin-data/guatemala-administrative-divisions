@@ -1,0 +1,45 @@
+{
+  "id": "GT1907",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cabañas",
+    "en": "Cabanas",
+    "slug": "cabanas-gt1907"
+  },
+  "code": {
+    "id": "GT1907",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT19",
+    "level": 1,
+    "name": {
+      "local": "Zacapa",
+      "en": "Zacapa",
+      "slug": "zacapa-gt19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT19",
+      "level": 1,
+      "name": {
+        "local": "Zacapa",
+        "en": "Zacapa",
+        "slug": "zacapa-gt19"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.89",
+    "lon": "-89.783"
+  },
+  "metadata": {},
+  "source": {}
+}

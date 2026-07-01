@@ -1,0 +1,45 @@
+{
+  "id": "GT0501",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Escuintla",
+    "en": "Escuintla",
+    "slug": "escuintla-gt0501"
+  },
+  "code": {
+    "id": "GT0501",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT05",
+    "level": 1,
+    "name": {
+      "local": "Escuintla",
+      "en": "Escuintla",
+      "slug": "escuintla-gt05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT05",
+      "level": 1,
+      "name": {
+        "local": "Escuintla",
+        "en": "Escuintla",
+        "slug": "escuintla-gt05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.308",
+    "lon": "-90.804"
+  },
+  "metadata": {},
+  "source": {}
+}

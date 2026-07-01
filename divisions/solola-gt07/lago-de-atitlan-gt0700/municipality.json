@@ -1,0 +1,45 @@
+{
+  "id": "GT0700",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Lago De Atitlan",
+    "en": "Lago De Atitlan",
+    "slug": "lago-de-atitlan-gt0700"
+  },
+  "code": {
+    "id": "GT0700",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT07",
+    "level": 1,
+    "name": {
+      "local": "Sololá",
+      "en": "Solola",
+      "slug": "solola-gt07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT07",
+      "level": 1,
+      "name": {
+        "local": "Sololá",
+        "en": "Solola",
+        "slug": "solola-gt07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.679",
+    "lon": "-91.184"
+  },
+  "metadata": {},
+  "source": {}
+}

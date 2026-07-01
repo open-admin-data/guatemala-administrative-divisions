@@ -1,0 +1,33 @@
+{
+  "id": "GT18",
+  "level": 1,
+  "level_name": {
+    "local": "Departamento",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Izabal",
+    "en": "Izabal",
+    "slug": "izabal-gt18"
+  },
+  "code": {
+    "id": "GT18",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.517",
+    "lon": "-88.725"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gt/departments/izabal-gt18/",
+    "api": "https://openadmindata.org/api/gt/"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "GT1012",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Gabriel",
+    "en": "San Gabriel",
+    "slug": "san-gabriel-gt1012"
+  },
+  "code": {
+    "id": "GT1012",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT10",
+    "level": 1,
+    "name": {
+      "local": "Suchitepéquez",
+      "en": "Suchitepequez",
+      "slug": "suchitepequez-gt10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT10",
+      "level": 1,
+      "name": {
+        "local": "Suchitepéquez",
+        "en": "Suchitepequez",
+        "slug": "suchitepequez-gt10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.509",
+    "lon": "-91.514"
+  },
+  "metadata": {},
+  "source": {}
+}

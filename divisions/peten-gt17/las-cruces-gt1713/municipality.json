@@ -1,0 +1,45 @@
+{
+  "id": "GT1713",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Las Cruces",
+    "en": "Las Cruces",
+    "slug": "las-cruces-gt1713"
+  },
+  "code": {
+    "id": "GT1713",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT17",
+    "level": 1,
+    "name": {
+      "local": "Petén",
+      "en": "Peten",
+      "slug": "peten-gt17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT17",
+      "level": 1,
+      "name": {
+        "local": "Petén",
+        "en": "Peten",
+        "slug": "peten-gt17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.86",
+    "lon": "-90.853"
+  },
+  "metadata": {},
+  "source": {}
+}

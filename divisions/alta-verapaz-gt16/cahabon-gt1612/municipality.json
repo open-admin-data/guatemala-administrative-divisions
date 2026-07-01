@@ -1,0 +1,45 @@
+{
+  "id": "GT1612",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cahabón",
+    "en": "Cahabon",
+    "slug": "cahabon-gt1612"
+  },
+  "code": {
+    "id": "GT1612",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT16",
+    "level": 1,
+    "name": {
+      "local": "Alta Verapaz",
+      "en": "Alta Verapaz",
+      "slug": "alta-verapaz-gt16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT16",
+      "level": 1,
+      "name": {
+        "local": "Alta Verapaz",
+        "en": "Alta Verapaz",
+        "slug": "alta-verapaz-gt16"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.612",
+    "lon": "-89.734"
+  },
+  "metadata": {},
+  "source": {}
+}

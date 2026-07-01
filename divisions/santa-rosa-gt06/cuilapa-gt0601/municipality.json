@@ -1,0 +1,45 @@
+{
+  "id": "GT0601",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cuilapa",
+    "en": "Cuilapa",
+    "slug": "cuilapa-gt0601"
+  },
+  "code": {
+    "id": "GT0601",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT06",
+    "level": 1,
+    "name": {
+      "local": "Santa Rosa",
+      "en": "Santa Rosa",
+      "slug": "santa-rosa-gt06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT06",
+      "level": 1,
+      "name": {
+        "local": "Santa Rosa",
+        "en": "Santa Rosa",
+        "slug": "santa-rosa-gt06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.248",
+    "lon": "-90.289"
+  },
+  "metadata": {},
+  "source": {}
+}

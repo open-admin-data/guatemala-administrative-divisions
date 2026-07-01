@@ -1,0 +1,45 @@
+{
+  "id": "GT0117",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Petapa",
+    "en": "Petapa",
+    "slug": "petapa-gt0117"
+  },
+  "code": {
+    "id": "GT0117",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT01",
+    "level": 1,
+    "name": {
+      "local": "Guatemala",
+      "en": "Guatemala",
+      "slug": "guatemala-gt01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT01",
+      "level": 1,
+      "name": {
+        "local": "Guatemala",
+        "en": "Guatemala",
+        "slug": "guatemala-gt01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.507",
+    "lon": "-90.558"
+  },
+  "metadata": {},
+  "source": {}
+}

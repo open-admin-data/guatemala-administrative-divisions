@@ -1,0 +1,45 @@
+{
+  "id": "GT1409",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Pedro Jocopilas",
+    "en": "San Pedro Jocopilas",
+    "slug": "san-pedro-jocopilas-gt1409"
+  },
+  "code": {
+    "id": "GT1409",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT14",
+    "level": 1,
+    "name": {
+      "local": "Quiché",
+      "en": "Quiche",
+      "slug": "quiche-gt14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT14",
+      "level": 1,
+      "name": {
+        "local": "Quiché",
+        "en": "Quiche",
+        "slug": "quiche-gt14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.163",
+    "lon": "-91.163"
+  },
+  "metadata": {},
+  "source": {}
+}

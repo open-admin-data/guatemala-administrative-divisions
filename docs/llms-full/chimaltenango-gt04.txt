@@ -1,0 +1,89 @@
+# Chimaltenango — Guatemala Administrative Divisions
+
+> 16 municipalitys
+> Code: GT04
+> Coordinates: 14.657, -90.929
+> Last updated: 2026-07-01. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Acatenango
+
+Code: GT0411, Coordinates: 14.55, -90.954
+
+
+### Chimaltenango
+
+Code: GT0401, Coordinates: 14.686, -90.836
+
+
+### Comalapa
+
+Code: GT0404, Coordinates: 14.752, -90.9
+
+
+### El Tejar
+
+Code: GT0416, Coordinates: 14.68, -90.79
+
+
+### Parramos
+
+Code: GT0414, Coordinates: 14.594, -90.824
+
+
+### Patzicía (Patzicia)
+
+Code: GT0409, Coordinates: 14.639, -90.936
+
+
+### Patzún (Patzun)
+
+Code: GT0407, Coordinates: 14.657, -91.031
+
+
+### Pochuta
+
+Code: GT0408, Coordinates: 14.531, -91.081
+
+
+### San Andrés Itzapa (San Andres Itzapa)
+
+Code: GT0413, Coordinates: 14.603, -90.862
+
+
+### San José Poaquil (San Jose Poaquil)
+
+Code: GT0402, Coordinates: 14.861, -90.914
+
+
+### San Martín Jilotepeque (San Martin Jilotepeque)
+
+Code: GT0403, Coordinates: 14.829, -90.773
+
+
+### Santa Apolonia
+
+Code: GT0405, Coordinates: 14.837, -90.954
+
+
+### Santa Cruz Balanyá (Santa Cruz Balanya)
+
+Code: GT0410, Coordinates: 14.696, -90.931
+
+
+### Tecpán Guatemala (Tecpan Guatemala)
+
+Code: GT0406, Coordinates: 14.811, -91.018
+
+
+### Yepocapa
+
+Code: GT0412, Coordinates: 14.45, -91.007
+
+
+### Zaragoza
+
+Code: GT0415, Coordinates: 14.68, -90.89
+
+

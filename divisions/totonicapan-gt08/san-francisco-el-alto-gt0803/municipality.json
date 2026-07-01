@@ -1,0 +1,45 @@
+{
+  "id": "GT0803",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Francisco El Alto",
+    "en": "San Francisco El Alto",
+    "slug": "san-francisco-el-alto-gt0803"
+  },
+  "code": {
+    "id": "GT0803",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT08",
+    "level": 1,
+    "name": {
+      "local": "Totonicapán",
+      "en": "Totonicapan",
+      "slug": "totonicapan-gt08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT08",
+      "level": 1,
+      "name": {
+        "local": "Totonicapán",
+        "en": "Totonicapan",
+        "slug": "totonicapan-gt08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.976",
+    "lon": "-91.498"
+  },
+  "metadata": {},
+  "source": {}
+}

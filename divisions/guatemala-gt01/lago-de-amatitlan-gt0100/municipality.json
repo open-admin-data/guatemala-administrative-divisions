@@ -1,0 +1,45 @@
+{
+  "id": "GT0100",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Lago De Amatitlan",
+    "en": "Lago De Amatitlan",
+    "slug": "lago-de-amatitlan-gt0100"
+  },
+  "code": {
+    "id": "GT0100",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT01",
+    "level": 1,
+    "name": {
+      "local": "Guatemala",
+      "en": "Guatemala",
+      "slug": "guatemala-gt01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT01",
+      "level": 1,
+      "name": {
+        "local": "Guatemala",
+        "en": "Guatemala",
+        "slug": "guatemala-gt01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.455",
+    "lon": "-90.566"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,902 @@
+[
+  {
+    "id": "GT0708",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Concepción",
+      "en": "Concepcion",
+      "slug": "concepcion-gt0708"
+    },
+    "code": {
+      "id": "GT0708",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT07",
+      "level": 1,
+      "name": {
+        "local": "Sololá",
+        "en": "Solola",
+        "slug": "solola-gt07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT07",
+        "level": 1,
+        "name": {
+          "local": "Sololá",
+          "en": "Solola",
+          "slug": "solola-gt07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.784",
+      "lon": "-91.134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0700",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Lago De Atitlan",
+      "en": "Lago De Atitlan",
+      "slug": "lago-de-atitlan-gt0700"
+    },
+    "code": {
+      "id": "GT0700",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT07",
+      "level": 1,
+      "name": {
+        "local": "Sololá",
+        "en": "Solola",
+        "slug": "solola-gt07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT07",
+        "level": 1,
+        "name": {
+          "local": "Sololá",
+          "en": "Solola",
+          "slug": "solola-gt07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.679",
+      "lon": "-91.184"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0705",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nahualá",
+      "en": "Nahuala",
+      "slug": "nahuala-gt0705"
+    },
+    "code": {
+      "id": "GT0705",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT07",
+      "level": 1,
+      "name": {
+        "local": "Sololá",
+        "en": "Solola",
+        "slug": "solola-gt07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT07",
+        "level": 1,
+        "name": {
+          "local": "Sololá",
+          "en": "Solola",
+          "slug": "solola-gt07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.734",
+      "lon": "-91.443"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0710",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Panajachel",
+      "en": "Panajachel",
+      "slug": "panajachel-gt0710"
+    },
+    "code": {
+      "id": "GT0710",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT07",
+      "level": 1,
+      "name": {
+        "local": "Sololá",
+        "en": "Solola",
+        "slug": "solola-gt07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT07",
+        "level": 1,
+        "name": {
+          "local": "Sololá",
+          "en": "Solola",
+          "slug": "solola-gt07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.749",
+      "lon": "-91.153"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0709",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Andrés Semetabaj",
+      "en": "San Andres Semetabaj",
+      "slug": "san-andres-semetabaj-gt0709"
+    },
+    "code": {
+      "id": "GT0709",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT07",
+      "level": 1,
+      "name": {
+        "local": "Sololá",
+        "en": "Solola",
+        "slug": "solola-gt07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT07",
+        "level": 1,
+        "name": {
+          "local": "Sololá",
+          "en": "Solola",
+          "slug": "solola-gt07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.754",
+      "lon": "-91.111"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0712",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Antonio Palopó",
+      "en": "San Antonio Palopo",
+      "slug": "san-antonio-palopo-gt0712"
+    },
+    "code": {
+      "id": "GT0712",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT07",
+      "level": 1,
+      "name": {
+        "local": "Sololá",
+        "en": "Solola",
+        "slug": "solola-gt07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT07",
+        "level": 1,
+        "name": {
+          "local": "Sololá",
+          "en": "Solola",
+          "slug": "solola-gt07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.666",
+      "lon": "-91.103"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0702",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San José Chacayá",
+      "en": "San Jose Chacaya",
+      "slug": "san-jose-chacaya-gt0702"
+    },
+    "code": {
+      "id": "GT0702",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT07",
+      "level": 1,
+      "name": {
+        "local": "Sololá",
+        "en": "Solola",
+        "slug": "solola-gt07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT07",
+        "level": 1,
+        "name": {
+          "local": "Sololá",
+          "en": "Solola",
+          "slug": "solola-gt07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.776",
+      "lon": "-91.228"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0717",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Juan La Laguna",
+      "en": "San Juan La Laguna",
+      "slug": "san-juan-la-laguna-gt0717"
+    },
+    "code": {
+      "id": "GT0717",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT07",
+      "level": 1,
+      "name": {
+        "local": "Sololá",
+        "en": "Solola",
+        "slug": "solola-gt07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT07",
+        "level": 1,
+        "name": {
+          "local": "Sololá",
+          "en": "Solola",
+          "slug": "solola-gt07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.673",
+      "lon": "-91.307"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0713",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Lucas Tolimán",
+      "en": "San Lucas Toliman",
+      "slug": "san-lucas-toliman-gt0713"
+    },
+    "code": {
+      "id": "GT0713",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT07",
+      "level": 1,
+      "name": {
+        "local": "Sololá",
+        "en": "Solola",
+        "slug": "solola-gt07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT07",
+        "level": 1,
+        "name": {
+          "local": "Sololá",
+          "en": "Solola",
+          "slug": "solola-gt07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.59",
+      "lon": "-91.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0716",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Marcos La Laguna",
+      "en": "San Marcos La Laguna",
+      "slug": "san-marcos-la-laguna-gt0716"
+    },
+    "code": {
+      "id": "GT0716",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT07",
+      "level": 1,
+      "name": {
+        "local": "Sololá",
+        "en": "Solola",
+        "slug": "solola-gt07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT07",
+        "level": 1,
+        "name": {
+          "local": "Sololá",
+          "en": "Solola",
+          "slug": "solola-gt07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.733",
+      "lon": "-91.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0715",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Pablo La Laguna",
+      "en": "San Pablo La Laguna",
+      "slug": "san-pablo-la-laguna-gt0715"
+    },
+    "code": {
+      "id": "GT0715",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT07",
+      "level": 1,
+      "name": {
+        "local": "Sololá",
+        "en": "Solola",
+        "slug": "solola-gt07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT07",
+        "level": 1,
+        "name": {
+          "local": "Sololá",
+          "en": "Solola",
+          "slug": "solola-gt07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.736",
+      "lon": "-91.281"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0718",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Pedro La Laguna",
+      "en": "San Pedro La Laguna",
+      "slug": "san-pedro-la-laguna-gt0718"
+    },
+    "code": {
+      "id": "GT0718",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT07",
+      "level": 1,
+      "name": {
+        "local": "Sololá",
+        "en": "Solola",
+        "slug": "solola-gt07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT07",
+        "level": 1,
+        "name": {
+          "local": "Sololá",
+          "en": "Solola",
+          "slug": "solola-gt07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.648",
+      "lon": "-91.268"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0706",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Catarina Ixtahuacán",
+      "en": "Santa Catarina Ixtahuacan",
+      "slug": "santa-catarina-ixtahuacan-gt0706"
+    },
+    "code": {
+      "id": "GT0706",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT07",
+      "level": 1,
+      "name": {
+        "local": "Sololá",
+        "en": "Solola",
+        "slug": "solola-gt07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT07",
+        "level": 1,
+        "name": {
+          "local": "Sololá",
+          "en": "Solola",
+          "slug": "solola-gt07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.712",
+      "lon": "-91.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0711",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Catarina Palopó",
+      "en": "Santa Catarina Palopo",
+      "slug": "santa-catarina-palopo-gt0711"
+    },
+    "code": {
+      "id": "GT0711",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT07",
+      "level": 1,
+      "name": {
+        "local": "Sololá",
+        "en": "Solola",
+        "slug": "solola-gt07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT07",
+        "level": 1,
+        "name": {
+          "local": "Sololá",
+          "en": "Solola",
+          "slug": "solola-gt07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.719",
+      "lon": "-91.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0707",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Clara La Laguna",
+      "en": "Santa Clara La Laguna",
+      "slug": "santa-clara-la-laguna-gt0707"
+    },
+    "code": {
+      "id": "GT0707",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT07",
+      "level": 1,
+      "name": {
+        "local": "Sololá",
+        "en": "Solola",
+        "slug": "solola-gt07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT07",
+        "level": 1,
+        "name": {
+          "local": "Sololá",
+          "en": "Solola",
+          "slug": "solola-gt07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.721",
+      "lon": "-91.297"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0714",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Cruz La Laguna",
+      "en": "Santa Cruz La Laguna",
+      "slug": "santa-cruz-la-laguna-gt0714"
+    },
+    "code": {
+      "id": "GT0714",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT07",
+      "level": 1,
+      "name": {
+        "local": "Sololá",
+        "en": "Solola",
+        "slug": "solola-gt07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT07",
+        "level": 1,
+        "name": {
+          "local": "Sololá",
+          "en": "Solola",
+          "slug": "solola-gt07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.745",
+      "lon": "-91.223"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0704",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Lucía Utatlán",
+      "en": "Santa Lucia Utatlan",
+      "slug": "santa-lucia-utatlan-gt0704"
+    },
+    "code": {
+      "id": "GT0704",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT07",
+      "level": 1,
+      "name": {
+        "local": "Sololá",
+        "en": "Solola",
+        "slug": "solola-gt07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT07",
+        "level": 1,
+        "name": {
+          "local": "Sololá",
+          "en": "Solola",
+          "slug": "solola-gt07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.782",
+      "lon": "-91.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0703",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa María Visitación",
+      "en": "Santa Maria Visitacion",
+      "slug": "santa-maria-visitacion-gt0703"
+    },
+    "code": {
+      "id": "GT0703",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT07",
+      "level": 1,
+      "name": {
+        "local": "Sololá",
+        "en": "Solola",
+        "slug": "solola-gt07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT07",
+        "level": 1,
+        "name": {
+          "local": "Sololá",
+          "en": "Solola",
+          "slug": "solola-gt07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.701",
+      "lon": "-91.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0719",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santiago Atitlán",
+      "en": "Santiago Atitlan",
+      "slug": "santiago-atitlan-gt0719"
+    },
+    "code": {
+      "id": "GT0719",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT07",
+      "level": 1,
+      "name": {
+        "local": "Sololá",
+        "en": "Solola",
+        "slug": "solola-gt07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT07",
+        "level": 1,
+        "name": {
+          "local": "Sololá",
+          "en": "Solola",
+          "slug": "solola-gt07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.599",
+      "lon": "-91.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0701",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sololá",
+      "en": "Solola",
+      "slug": "solola-gt0701"
+    },
+    "code": {
+      "id": "GT0701",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT07",
+      "level": 1,
+      "name": {
+        "local": "Sololá",
+        "en": "Solola",
+        "slug": "solola-gt07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT07",
+        "level": 1,
+        "name": {
+          "local": "Sololá",
+          "en": "Solola",
+          "slug": "solola-gt07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.817",
+      "lon": "-91.182"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "GT1332",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Unión Cantinil",
+    "en": "Union Cantinil",
+    "slug": "union-cantinil-gt1332"
+  },
+  "code": {
+    "id": "GT1332",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT13",
+    "level": 1,
+    "name": {
+      "local": "Huehuetenango",
+      "en": "Huehuetenango",
+      "slug": "huehuetenango-gt13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT13",
+      "level": 1,
+      "name": {
+        "local": "Huehuetenango",
+        "en": "Huehuetenango",
+        "slug": "huehuetenango-gt13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.587",
+    "lon": "-91.738"
+  },
+  "metadata": {},
+  "source": {}
+}

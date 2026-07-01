@@ -1,0 +1,45 @@
+{
+  "id": "GT1010",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Antonio Suchitepéquez",
+    "en": "San Antonio Suchitepequez",
+    "slug": "san-antonio-suchitepequez-gt1010"
+  },
+  "code": {
+    "id": "GT1010",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT10",
+    "level": 1,
+    "name": {
+      "local": "Suchitepéquez",
+      "en": "Suchitepequez",
+      "slug": "suchitepequez-gt10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT10",
+      "level": 1,
+      "name": {
+        "local": "Suchitepéquez",
+        "en": "Suchitepequez",
+        "slug": "suchitepequez-gt10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.514",
+    "lon": "-91.408"
+  },
+  "metadata": {},
+  "source": {}
+}

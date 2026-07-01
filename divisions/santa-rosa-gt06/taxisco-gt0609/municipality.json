@@ -1,0 +1,45 @@
+{
+  "id": "GT0609",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Taxisco",
+    "en": "Taxisco",
+    "slug": "taxisco-gt0609"
+  },
+  "code": {
+    "id": "GT0609",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT06",
+    "level": 1,
+    "name": {
+      "local": "Santa Rosa",
+      "en": "Santa Rosa",
+      "slug": "santa-rosa-gt06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT06",
+      "level": 1,
+      "name": {
+        "local": "Santa Rosa",
+        "en": "Santa Rosa",
+        "slug": "santa-rosa-gt06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.039",
+    "lon": "-90.556"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,33 @@
+{
+  "id": "GT14",
+  "level": 1,
+  "level_name": {
+    "local": "Departamento",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Quiché",
+    "en": "Quiche",
+    "slug": "quiche-gt14"
+  },
+  "code": {
+    "id": "GT14",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 21
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.428",
+    "lon": "-91.008"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gt/departments/quiche-gt14/",
+    "api": "https://openadmindata.org/api/gt/"
+  }
+}

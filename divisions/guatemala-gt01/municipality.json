@@ -1,0 +1,812 @@
+[
+  {
+    "id": "GT0114",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Amatitlán",
+      "en": "Amatitlan",
+      "slug": "amatitlan-gt0114"
+    },
+    "code": {
+      "id": "GT0114",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT01",
+      "level": 1,
+      "name": {
+        "local": "Guatemala",
+        "en": "Guatemala",
+        "slug": "guatemala-gt01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT01",
+        "level": 1,
+        "name": {
+          "local": "Guatemala",
+          "en": "Guatemala",
+          "slug": "guatemala-gt01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.456",
+      "lon": "-90.61"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0106",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chinautla",
+      "en": "Chinautla",
+      "slug": "chinautla-gt0106"
+    },
+    "code": {
+      "id": "GT0106",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT01",
+      "level": 1,
+      "name": {
+        "local": "Guatemala",
+        "en": "Guatemala",
+        "slug": "guatemala-gt01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT01",
+        "level": 1,
+        "name": {
+          "local": "Guatemala",
+          "en": "Guatemala",
+          "slug": "guatemala-gt01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.736",
+      "lon": "-90.493"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0112",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chuarrancho",
+      "en": "Chuarrancho",
+      "slug": "chuarrancho-gt0112"
+    },
+    "code": {
+      "id": "GT0112",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT01",
+      "level": 1,
+      "name": {
+        "local": "Guatemala",
+        "en": "Guatemala",
+        "slug": "guatemala-gt01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT01",
+        "level": 1,
+        "name": {
+          "local": "Guatemala",
+          "en": "Guatemala",
+          "slug": "guatemala-gt01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.853",
+      "lon": "-90.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0113",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Fraijanes",
+      "en": "Fraijanes",
+      "slug": "fraijanes-gt0113"
+    },
+    "code": {
+      "id": "GT0113",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT01",
+      "level": 1,
+      "name": {
+        "local": "Guatemala",
+        "en": "Guatemala",
+        "slug": "guatemala-gt01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT01",
+        "level": 1,
+        "name": {
+          "local": "Guatemala",
+          "en": "Guatemala",
+          "slug": "guatemala-gt01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.456",
+      "lon": "-90.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0101",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Guatemala",
+      "en": "Guatemala",
+      "slug": "guatemala-gt0101"
+    },
+    "code": {
+      "id": "GT0101",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT01",
+      "level": 1,
+      "name": {
+        "local": "Guatemala",
+        "en": "Guatemala",
+        "slug": "guatemala-gt01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT01",
+        "level": 1,
+        "name": {
+          "local": "Guatemala",
+          "en": "Guatemala",
+          "slug": "guatemala-gt01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.627",
+      "lon": "-90.48"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0100",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Lago De Amatitlan",
+      "en": "Lago De Amatitlan",
+      "slug": "lago-de-amatitlan-gt0100"
+    },
+    "code": {
+      "id": "GT0100",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT01",
+      "level": 1,
+      "name": {
+        "local": "Guatemala",
+        "en": "Guatemala",
+        "slug": "guatemala-gt01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT01",
+        "level": 1,
+        "name": {
+          "local": "Guatemala",
+          "en": "Guatemala",
+          "slug": "guatemala-gt01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.455",
+      "lon": "-90.566"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0108",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mixco",
+      "en": "Mixco",
+      "slug": "mixco-gt0108"
+    },
+    "code": {
+      "id": "GT0108",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT01",
+      "level": 1,
+      "name": {
+        "local": "Guatemala",
+        "en": "Guatemala",
+        "slug": "guatemala-gt01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT01",
+        "level": 1,
+        "name": {
+          "local": "Guatemala",
+          "en": "Guatemala",
+          "slug": "guatemala-gt01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.645",
+      "lon": "-90.603"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0105",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Palencia",
+      "en": "Palencia",
+      "slug": "palencia-gt0105"
+    },
+    "code": {
+      "id": "GT0105",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT01",
+      "level": 1,
+      "name": {
+        "local": "Guatemala",
+        "en": "Guatemala",
+        "slug": "guatemala-gt01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT01",
+        "level": 1,
+        "name": {
+          "local": "Guatemala",
+          "en": "Guatemala",
+          "slug": "guatemala-gt01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.679",
+      "lon": "-90.306"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0117",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Petapa",
+      "en": "Petapa",
+      "slug": "petapa-gt0117"
+    },
+    "code": {
+      "id": "GT0117",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT01",
+      "level": 1,
+      "name": {
+        "local": "Guatemala",
+        "en": "Guatemala",
+        "slug": "guatemala-gt01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT01",
+        "level": 1,
+        "name": {
+          "local": "Guatemala",
+          "en": "Guatemala",
+          "slug": "guatemala-gt01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.507",
+      "lon": "-90.558"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0104",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San José del Golfo",
+      "en": "San Jose del Golfo",
+      "slug": "san-jose-del-golfo-gt0104"
+    },
+    "code": {
+      "id": "GT0104",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT01",
+      "level": 1,
+      "name": {
+        "local": "Guatemala",
+        "en": "Guatemala",
+        "slug": "guatemala-gt01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT01",
+        "level": 1,
+        "name": {
+          "local": "Guatemala",
+          "en": "Guatemala",
+          "slug": "guatemala-gt01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.785",
+      "lon": "-90.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0103",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San José Pinula",
+      "en": "San Jose Pinula",
+      "slug": "san-jose-pinula-gt0103"
+    },
+    "code": {
+      "id": "GT0103",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT01",
+      "level": 1,
+      "name": {
+        "local": "Guatemala",
+        "en": "Guatemala",
+        "slug": "guatemala-gt01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT01",
+        "level": 1,
+        "name": {
+          "local": "Guatemala",
+          "en": "Guatemala",
+          "slug": "guatemala-gt01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.55",
+      "lon": "-90.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0110",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Juan Sacatepéquez",
+      "en": "San Juan Sacatepequez",
+      "slug": "san-juan-sacatepequez-gt0110"
+    },
+    "code": {
+      "id": "GT0110",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT01",
+      "level": 1,
+      "name": {
+        "local": "Guatemala",
+        "en": "Guatemala",
+        "slug": "guatemala-gt01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT01",
+        "level": 1,
+        "name": {
+          "local": "Guatemala",
+          "en": "Guatemala",
+          "slug": "guatemala-gt01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.779",
+      "lon": "-90.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0107",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Pedro Ayampuc",
+      "en": "San Pedro Ayampuc",
+      "slug": "san-pedro-ayampuc-gt0107"
+    },
+    "code": {
+      "id": "GT0107",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT01",
+      "level": 1,
+      "name": {
+        "local": "Guatemala",
+        "en": "Guatemala",
+        "slug": "guatemala-gt01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT01",
+        "level": 1,
+        "name": {
+          "local": "Guatemala",
+          "en": "Guatemala",
+          "slug": "guatemala-gt01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.767",
+      "lon": "-90.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0109",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Pedro Sacatepéquez",
+      "en": "San Pedro Sacatepequez",
+      "slug": "san-pedro-sacatepequez-gt0109"
+    },
+    "code": {
+      "id": "GT0109",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT01",
+      "level": 1,
+      "name": {
+        "local": "Guatemala",
+        "en": "Guatemala",
+        "slug": "guatemala-gt01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT01",
+        "level": 1,
+        "name": {
+          "local": "Guatemala",
+          "en": "Guatemala",
+          "slug": "guatemala-gt01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.686",
+      "lon": "-90.64"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0111",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Raimundo",
+      "en": "San Raimundo",
+      "slug": "san-raimundo-gt0111"
+    },
+    "code": {
+      "id": "GT0111",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT01",
+      "level": 1,
+      "name": {
+        "local": "Guatemala",
+        "en": "Guatemala",
+        "slug": "guatemala-gt01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT01",
+        "level": 1,
+        "name": {
+          "local": "Guatemala",
+          "en": "Guatemala",
+          "slug": "guatemala-gt01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.797",
+      "lon": "-90.544"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0102",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Catarina Pinula",
+      "en": "Santa Catarina Pinula",
+      "slug": "santa-catarina-pinula-gt0102"
+    },
+    "code": {
+      "id": "GT0102",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT01",
+      "level": 1,
+      "name": {
+        "local": "Guatemala",
+        "en": "Guatemala",
+        "slug": "guatemala-gt01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT01",
+        "level": 1,
+        "name": {
+          "local": "Guatemala",
+          "en": "Guatemala",
+          "slug": "guatemala-gt01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.568",
+      "lon": "-90.47"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0116",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Villa Canales",
+      "en": "Villa Canales",
+      "slug": "villa-canales-gt0116"
+    },
+    "code": {
+      "id": "GT0116",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT01",
+      "level": 1,
+      "name": {
+        "local": "Guatemala",
+        "en": "Guatemala",
+        "slug": "guatemala-gt01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT01",
+        "level": 1,
+        "name": {
+          "local": "Guatemala",
+          "en": "Guatemala",
+          "slug": "guatemala-gt01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.4",
+      "lon": "-90.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0115",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Villa Nueva",
+      "en": "Villa Nueva",
+      "slug": "villa-nueva-gt0115"
+    },
+    "code": {
+      "id": "GT0115",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT01",
+      "level": 1,
+      "name": {
+        "local": "Guatemala",
+        "en": "Guatemala",
+        "slug": "guatemala-gt01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT01",
+        "level": 1,
+        "name": {
+          "local": "Guatemala",
+          "en": "Guatemala",
+          "slug": "guatemala-gt01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.533",
+      "lon": "-90.611"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

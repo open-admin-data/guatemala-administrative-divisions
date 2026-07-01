@@ -1,0 +1,45 @@
+{
+  "id": "GT0107",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Pedro Ayampuc",
+    "en": "San Pedro Ayampuc",
+    "slug": "san-pedro-ayampuc-gt0107"
+  },
+  "code": {
+    "id": "GT0107",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT01",
+    "level": 1,
+    "name": {
+      "local": "Guatemala",
+      "en": "Guatemala",
+      "slug": "guatemala-gt01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT01",
+      "level": 1,
+      "name": {
+        "local": "Guatemala",
+        "en": "Guatemala",
+        "slug": "guatemala-gt01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.767",
+    "lon": "-90.446"
+  },
+  "metadata": {},
+  "source": {}
+}

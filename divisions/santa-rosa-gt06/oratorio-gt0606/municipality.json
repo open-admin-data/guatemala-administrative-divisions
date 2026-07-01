@@ -1,0 +1,45 @@
+{
+  "id": "GT0606",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Oratorio",
+    "en": "Oratorio",
+    "slug": "oratorio-gt0606"
+  },
+  "code": {
+    "id": "GT0606",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT06",
+    "level": 1,
+    "name": {
+      "local": "Santa Rosa",
+      "en": "Santa Rosa",
+      "slug": "santa-rosa-gt06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT06",
+      "level": 1,
+      "name": {
+        "local": "Santa Rosa",
+        "en": "Santa Rosa",
+        "slug": "santa-rosa-gt06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.117",
+    "lon": "-90.133"
+  },
+  "metadata": {},
+  "source": {}
+}

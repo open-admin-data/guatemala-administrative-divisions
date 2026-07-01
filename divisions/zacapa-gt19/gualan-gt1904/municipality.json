@@ -1,0 +1,45 @@
+{
+  "id": "GT1904",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Gualán",
+    "en": "Gualan",
+    "slug": "gualan-gt1904"
+  },
+  "code": {
+    "id": "GT1904",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT19",
+    "level": 1,
+    "name": {
+      "local": "Zacapa",
+      "en": "Zacapa",
+      "slug": "zacapa-gt19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT19",
+      "level": 1,
+      "name": {
+        "local": "Zacapa",
+        "en": "Zacapa",
+        "slug": "zacapa-gt19"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.152",
+    "lon": "-89.316"
+  },
+  "metadata": {},
+  "source": {}
+}

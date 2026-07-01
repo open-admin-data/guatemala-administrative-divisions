@@ -1,0 +1,45 @@
+{
+  "id": "GT0307",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Bartolomé Milpas Altas",
+    "en": "San Bartolome Milpas Altas",
+    "slug": "san-bartolome-milpas-altas-gt0307"
+  },
+  "code": {
+    "id": "GT0307",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT03",
+    "level": 1,
+    "name": {
+      "local": "Sacatepéquez",
+      "en": "Sacatepequez",
+      "slug": "sacatepequez-gt03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT03",
+      "level": 1,
+      "name": {
+        "local": "Sacatepéquez",
+        "en": "Sacatepequez",
+        "slug": "sacatepequez-gt03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.601",
+    "lon": "-90.683"
+  },
+  "metadata": {},
+  "source": {}
+}

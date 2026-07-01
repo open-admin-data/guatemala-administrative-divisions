@@ -1,0 +1,45 @@
+{
+  "id": "GT0311",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa María de Jesús",
+    "en": "Santa Maria de Jesus",
+    "slug": "santa-maria-de-jesus-gt0311"
+  },
+  "code": {
+    "id": "GT0311",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT03",
+    "level": 1,
+    "name": {
+      "local": "Sacatepéquez",
+      "en": "Sacatepequez",
+      "slug": "sacatepequez-gt03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT03",
+      "level": 1,
+      "name": {
+        "local": "Sacatepéquez",
+        "en": "Sacatepequez",
+        "slug": "sacatepequez-gt03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.477",
+    "lon": "-90.705"
+  },
+  "metadata": {},
+  "source": {}
+}

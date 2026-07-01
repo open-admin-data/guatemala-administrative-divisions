@@ -1,0 +1,45 @@
+{
+  "id": "GT1505",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Granados",
+    "en": "Granados",
+    "slug": "granados-gt1505"
+  },
+  "code": {
+    "id": "GT1505",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT15",
+    "level": 1,
+    "name": {
+      "local": "Baja Verapaz",
+      "en": "Baja Verapaz",
+      "slug": "baja-verapaz-gt15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT15",
+      "level": 1,
+      "name": {
+        "local": "Baja Verapaz",
+        "en": "Baja Verapaz",
+        "slug": "baja-verapaz-gt15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.941",
+    "lon": "-90.577"
+  },
+  "metadata": {},
+  "source": {}
+}

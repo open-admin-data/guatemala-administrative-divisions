@@ -1,0 +1,33 @@
+{
+  "id": "GT07",
+  "level": 1,
+  "level_name": {
+    "local": "Departamento",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Sololá",
+    "en": "Solola",
+    "slug": "solola-gt07"
+  },
+  "code": {
+    "id": "GT07",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 20
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.708",
+    "lon": "-91.282"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gt/departments/solola-gt07/",
+    "api": "https://openadmindata.org/api/gt/"
+  }
+}

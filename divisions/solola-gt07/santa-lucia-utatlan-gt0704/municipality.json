@@ -1,0 +1,45 @@
+{
+  "id": "GT0704",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Lucía Utatlán",
+    "en": "Santa Lucia Utatlan",
+    "slug": "santa-lucia-utatlan-gt0704"
+  },
+  "code": {
+    "id": "GT0704",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT07",
+    "level": 1,
+    "name": {
+      "local": "Sololá",
+      "en": "Solola",
+      "slug": "solola-gt07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT07",
+      "level": 1,
+      "name": {
+        "local": "Sololá",
+        "en": "Solola",
+        "slug": "solola-gt07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.782",
+    "lon": "-91.269"
+  },
+  "metadata": {},
+  "source": {}
+}

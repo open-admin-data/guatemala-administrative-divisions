@@ -1,0 +1,45 @@
+{
+  "id": "GT0805",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Momostenango",
+    "en": "Momostenango",
+    "slug": "momostenango-gt0805"
+  },
+  "code": {
+    "id": "GT0805",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT08",
+    "level": 1,
+    "name": {
+      "local": "Totonicapán",
+      "en": "Totonicapan",
+      "slug": "totonicapan-gt08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT08",
+      "level": 1,
+      "name": {
+        "local": "Totonicapán",
+        "en": "Totonicapan",
+        "slug": "totonicapan-gt08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.11",
+    "lon": "-91.366"
+  },
+  "metadata": {},
+  "source": {}
+}

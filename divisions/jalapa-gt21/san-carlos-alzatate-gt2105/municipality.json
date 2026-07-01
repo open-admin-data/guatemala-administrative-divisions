@@ -1,0 +1,45 @@
+{
+  "id": "GT2105",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Carlos Alzatate",
+    "en": "San Carlos Alzatate",
+    "slug": "san-carlos-alzatate-gt2105"
+  },
+  "code": {
+    "id": "GT2105",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT21",
+    "level": 1,
+    "name": {
+      "local": "Jalapa",
+      "en": "Jalapa",
+      "slug": "jalapa-gt21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT21",
+      "level": 1,
+      "name": {
+        "local": "Jalapa",
+        "en": "Jalapa",
+        "slug": "jalapa-gt21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.474",
+    "lon": "-90.075"
+  },
+  "metadata": {},
+  "source": {}
+}

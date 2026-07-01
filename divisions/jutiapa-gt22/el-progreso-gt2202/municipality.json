@@ -1,0 +1,45 @@
+{
+  "id": "GT2202",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "El Progreso",
+    "en": "El Progreso",
+    "slug": "el-progreso-gt2202"
+  },
+  "code": {
+    "id": "GT2202",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT22",
+    "level": 1,
+    "name": {
+      "local": "Jutiapa",
+      "en": "Jutiapa",
+      "slug": "jutiapa-gt22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT22",
+      "level": 1,
+      "name": {
+        "local": "Jutiapa",
+        "en": "Jutiapa",
+        "slug": "jutiapa-gt22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.381",
+    "lon": "-89.853"
+  },
+  "metadata": {},
+  "source": {}
+}

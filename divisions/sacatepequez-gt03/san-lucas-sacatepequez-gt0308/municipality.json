@@ -1,0 +1,45 @@
+{
+  "id": "GT0308",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Lucas Sacatepéquez",
+    "en": "San Lucas Sacatepequez",
+    "slug": "san-lucas-sacatepequez-gt0308"
+  },
+  "code": {
+    "id": "GT0308",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT03",
+    "level": 1,
+    "name": {
+      "local": "Sacatepéquez",
+      "en": "Sacatepequez",
+      "slug": "sacatepequez-gt03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT03",
+      "level": 1,
+      "name": {
+        "local": "Sacatepéquez",
+        "en": "Sacatepequez",
+        "slug": "sacatepequez-gt03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.595",
+    "lon": "-90.652"
+  },
+  "metadata": {},
+  "source": {}
+}

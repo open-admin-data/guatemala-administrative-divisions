@@ -1,0 +1,45 @@
+{
+  "id": "GT0610",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa María Ixhuatán",
+    "en": "Santa Maria Ixhuatan",
+    "slug": "santa-maria-ixhuatan-gt0610"
+  },
+  "code": {
+    "id": "GT0610",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT06",
+    "level": 1,
+    "name": {
+      "local": "Santa Rosa",
+      "en": "Santa Rosa",
+      "slug": "santa-rosa-gt06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT06",
+      "level": 1,
+      "name": {
+        "local": "Santa Rosa",
+        "en": "Santa Rosa",
+        "slug": "santa-rosa-gt06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.147",
+    "lon": "-90.259"
+  },
+  "metadata": {},
+  "source": {}
+}

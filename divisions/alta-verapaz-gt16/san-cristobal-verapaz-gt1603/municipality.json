@@ -1,0 +1,45 @@
+{
+  "id": "GT1603",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Cristóbal Verapaz",
+    "en": "San Cristobal Verapaz",
+    "slug": "san-cristobal-verapaz-gt1603"
+  },
+  "code": {
+    "id": "GT1603",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT16",
+    "level": 1,
+    "name": {
+      "local": "Alta Verapaz",
+      "en": "Alta Verapaz",
+      "slug": "alta-verapaz-gt16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT16",
+      "level": 1,
+      "name": {
+        "local": "Alta Verapaz",
+        "en": "Alta Verapaz",
+        "slug": "alta-verapaz-gt16"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.384",
+    "lon": "-90.576"
+  },
+  "metadata": {},
+  "source": {}
+}

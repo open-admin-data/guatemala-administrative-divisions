@@ -1,0 +1,45 @@
+{
+  "id": "GT2104",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Manuel Chaparrón",
+    "en": "San Manuel Chaparron",
+    "slug": "san-manuel-chaparron-gt2104"
+  },
+  "code": {
+    "id": "GT2104",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT21",
+    "level": 1,
+    "name": {
+      "local": "Jalapa",
+      "en": "Jalapa",
+      "slug": "jalapa-gt21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT21",
+      "level": 1,
+      "name": {
+        "local": "Jalapa",
+        "en": "Jalapa",
+        "slug": "jalapa-gt21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.534",
+    "lon": "-89.759"
+  },
+  "metadata": {},
+  "source": {}
+}

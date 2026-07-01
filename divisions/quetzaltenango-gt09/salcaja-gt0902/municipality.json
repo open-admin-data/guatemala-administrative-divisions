@@ -1,0 +1,45 @@
+{
+  "id": "GT0902",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Salcajá",
+    "en": "Salcaja",
+    "slug": "salcaja-gt0902"
+  },
+  "code": {
+    "id": "GT0902",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT09",
+    "level": 1,
+    "name": {
+      "local": "Quetzaltenango",
+      "en": "Quetzaltenango",
+      "slug": "quetzaltenango-gt09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT09",
+      "level": 1,
+      "name": {
+        "local": "Quetzaltenango",
+        "en": "Quetzaltenango",
+        "slug": "quetzaltenango-gt09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.877",
+    "lon": "-91.462"
+  },
+  "metadata": {},
+  "source": {}
+}

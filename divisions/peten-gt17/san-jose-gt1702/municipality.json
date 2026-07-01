@@ -1,0 +1,45 @@
+{
+  "id": "GT1702",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San José",
+    "en": "San Jose",
+    "slug": "san-jose-gt1702"
+  },
+  "code": {
+    "id": "GT1702",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT17",
+    "level": 1,
+    "name": {
+      "local": "Petén",
+      "en": "Peten",
+      "slug": "peten-gt17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT17",
+      "level": 1,
+      "name": {
+        "local": "Petén",
+        "en": "Peten",
+        "slug": "peten-gt17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.374",
+    "lon": "-89.809"
+  },
+  "metadata": {},
+  "source": {}
+}

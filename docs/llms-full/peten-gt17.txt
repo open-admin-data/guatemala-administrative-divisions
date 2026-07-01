@@ -1,0 +1,79 @@
+# Peten — Guatemala Administrative Divisions
+
+> 14 municipalitys
+> Code: GT17
+> Coordinates: 16.832, -90.046
+> Last updated: 2026-07-01. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Dolores
+
+Code: GT1708, Coordinates: 16.645, -89.36
+
+
+### El Chal
+
+Code: GT1714, Coordinates: 16.516, -89.728
+
+
+### Flores
+
+Code: GT1701, Coordinates: 17.354, -89.519
+
+
+### La Libertad
+
+Code: GT1705, Coordinates: 16.993, -90.643
+
+
+### Las Cruces
+
+Code: GT1713, Coordinates: 16.86, -90.853
+
+
+### Melchor de Mencos
+
+Code: GT1711, Coordinates: 17.322, -89.244
+
+
+### Poptún (Poptun)
+
+Code: GT1712, Coordinates: 16.335, -89.526
+
+
+### San Andrés (San Andres)
+
+Code: GT1704, Coordinates: 17.388, -90.452
+
+
+### San Benito
+
+Code: GT1703, Coordinates: 16.983, -90.104
+
+
+### San Francisco
+
+Code: GT1706, Coordinates: 16.624, -90.031
+
+
+### San José (San Jose)
+
+Code: GT1702, Coordinates: 17.374, -89.809
+
+
+### San Luis
+
+Code: GT1709, Coordinates: 16.057, -89.64
+
+
+### Santa Ana
+
+Code: GT1707, Coordinates: 16.831, -89.613
+
+
+### Sayaxché (Sayaxche)
+
+Code: GT1710, Coordinates: 16.298, -90.169
+
+

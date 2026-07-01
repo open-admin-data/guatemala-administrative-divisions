@@ -1,0 +1,33 @@
+{
+  "id": "GT20",
+  "level": 1,
+  "level_name": {
+    "local": "Departamento",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Chiquimula",
+    "en": "Chiquimula",
+    "slug": "chiquimula-gt20"
+  },
+  "code": {
+    "id": "GT20",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.676",
+    "lon": "-89.398"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gt/departments/chiquimula-gt20/",
+    "api": "https://openadmindata.org/api/gt/"
+  }
+}

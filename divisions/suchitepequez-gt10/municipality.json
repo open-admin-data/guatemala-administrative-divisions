@@ -1,0 +1,947 @@
+[
+  {
+    "id": "GT1013",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chicacao",
+      "en": "Chicacao",
+      "slug": "chicacao-gt1013"
+    },
+    "code": {
+      "id": "GT1013",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT10",
+      "level": 1,
+      "name": {
+        "local": "Suchitepéquez",
+        "en": "Suchitepequez",
+        "slug": "suchitepequez-gt10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT10",
+        "level": 1,
+        "name": {
+          "local": "Suchitepéquez",
+          "en": "Suchitepequez",
+          "slug": "suchitepequez-gt10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.487",
+      "lon": "-91.33"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1002",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cuyotenango",
+      "en": "Cuyotenango",
+      "slug": "cuyotenango-gt1002"
+    },
+    "code": {
+      "id": "GT1002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT10",
+      "level": 1,
+      "name": {
+        "local": "Suchitepéquez",
+        "en": "Suchitepequez",
+        "slug": "suchitepequez-gt10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT10",
+        "level": 1,
+        "name": {
+          "local": "Suchitepéquez",
+          "en": "Suchitepequez",
+          "slug": "suchitepequez-gt10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.495",
+      "lon": "-91.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1001",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mazatenango",
+      "en": "Mazatenango",
+      "slug": "mazatenango-gt1001"
+    },
+    "code": {
+      "id": "GT1001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT10",
+      "level": 1,
+      "name": {
+        "local": "Suchitepéquez",
+        "en": "Suchitepequez",
+        "slug": "suchitepequez-gt10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT10",
+        "level": 1,
+        "name": {
+          "local": "Suchitepéquez",
+          "en": "Suchitepequez",
+          "slug": "suchitepequez-gt10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.505",
+      "lon": "-91.538"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1014",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Patulul",
+      "en": "Patulul",
+      "slug": "patulul-gt1014"
+    },
+    "code": {
+      "id": "GT1014",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT10",
+      "level": 1,
+      "name": {
+        "local": "Suchitepéquez",
+        "en": "Suchitepequez",
+        "slug": "suchitepequez-gt10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT10",
+        "level": 1,
+        "name": {
+          "local": "Suchitepéquez",
+          "en": "Suchitepequez",
+          "slug": "suchitepequez-gt10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.387",
+      "lon": "-91.186"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1019",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pueblo Nuevo",
+      "en": "Pueblo Nuevo",
+      "slug": "pueblo-nuevo-gt1019"
+    },
+    "code": {
+      "id": "GT1019",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT10",
+      "level": 1,
+      "name": {
+        "local": "Suchitepéquez",
+        "en": "Suchitepequez",
+        "slug": "suchitepequez-gt10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT10",
+        "level": 1,
+        "name": {
+          "local": "Suchitepéquez",
+          "en": "Suchitepequez",
+          "slug": "suchitepequez-gt10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.668",
+      "lon": "-91.53"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1020",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Río Bravo",
+      "en": "Rio Bravo",
+      "slug": "rio-bravo-gt1020"
+    },
+    "code": {
+      "id": "GT1020",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT10",
+      "level": 1,
+      "name": {
+        "local": "Suchitepéquez",
+        "en": "Suchitepequez",
+        "slug": "suchitepequez-gt10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT10",
+        "level": 1,
+        "name": {
+          "local": "Suchitepéquez",
+          "en": "Suchitepequez",
+          "slug": "suchitepequez-gt10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.386",
+      "lon": "-91.336"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1008",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Samayac",
+      "en": "Samayac",
+      "slug": "samayac-gt1008"
+    },
+    "code": {
+      "id": "GT1008",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT10",
+      "level": 1,
+      "name": {
+        "local": "Suchitepéquez",
+        "en": "Suchitepequez",
+        "slug": "suchitepequez-gt10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT10",
+        "level": 1,
+        "name": {
+          "local": "Suchitepéquez",
+          "en": "Suchitepequez",
+          "slug": "suchitepequez-gt10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.573",
+      "lon": "-91.47"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1010",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Antonio Suchitepéquez",
+      "en": "San Antonio Suchitepequez",
+      "slug": "san-antonio-suchitepequez-gt1010"
+    },
+    "code": {
+      "id": "GT1010",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT10",
+      "level": 1,
+      "name": {
+        "local": "Suchitepéquez",
+        "en": "Suchitepequez",
+        "slug": "suchitepequez-gt10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT10",
+        "level": 1,
+        "name": {
+          "local": "Suchitepéquez",
+          "en": "Suchitepequez",
+          "slug": "suchitepequez-gt10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.514",
+      "lon": "-91.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1004",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Bernardino",
+      "en": "San Bernardino",
+      "slug": "san-bernardino-gt1004"
+    },
+    "code": {
+      "id": "GT1004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT10",
+      "level": 1,
+      "name": {
+        "local": "Suchitepéquez",
+        "en": "Suchitepequez",
+        "slug": "suchitepequez-gt10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT10",
+        "level": 1,
+        "name": {
+          "local": "Suchitepéquez",
+          "en": "Suchitepequez",
+          "slug": "suchitepequez-gt10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.533",
+      "lon": "-91.456"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1003",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Francisco Zapotitlán",
+      "en": "San Francisco Zapotitlan",
+      "slug": "san-francisco-zapotitlan-gt1003"
+    },
+    "code": {
+      "id": "GT1003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT10",
+      "level": 1,
+      "name": {
+        "local": "Suchitepéquez",
+        "en": "Suchitepequez",
+        "slug": "suchitepequez-gt10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT10",
+        "level": 1,
+        "name": {
+          "local": "Suchitepéquez",
+          "en": "Suchitepequez",
+          "slug": "suchitepequez-gt10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.633",
+      "lon": "-91.521"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1012",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Gabriel",
+      "en": "San Gabriel",
+      "slug": "san-gabriel-gt1012"
+    },
+    "code": {
+      "id": "GT1012",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT10",
+      "level": 1,
+      "name": {
+        "local": "Suchitepéquez",
+        "en": "Suchitepequez",
+        "slug": "suchitepequez-gt10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT10",
+        "level": 1,
+        "name": {
+          "local": "Suchitepéquez",
+          "en": "Suchitepequez",
+          "slug": "suchitepequez-gt10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.509",
+      "lon": "-91.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1005",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San José El Ídolo",
+      "en": "San Jose El Idolo",
+      "slug": "san-jose-el-idolo-gt1005"
+    },
+    "code": {
+      "id": "GT1005",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT10",
+      "level": 1,
+      "name": {
+        "local": "Suchitepéquez",
+        "en": "Suchitepequez",
+        "slug": "suchitepequez-gt10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT10",
+        "level": 1,
+        "name": {
+          "local": "Suchitepéquez",
+          "en": "Suchitepequez",
+          "slug": "suchitepequez-gt10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.373",
+      "lon": "-91.429"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1021",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San José La Máquina",
+      "en": "San Jose La Maquina",
+      "slug": "san-jose-la-maquina-gt1021"
+    },
+    "code": {
+      "id": "GT1021",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT10",
+      "level": 1,
+      "name": {
+        "local": "Suchitepéquez",
+        "en": "Suchitepequez",
+        "slug": "suchitepequez-gt10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT10",
+        "level": 1,
+        "name": {
+          "local": "Suchitepéquez",
+          "en": "Suchitepequez",
+          "slug": "suchitepequez-gt10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.266",
+      "lon": "-91.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1016",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Juan Bautista",
+      "en": "San Juan Bautista",
+      "slug": "san-juan-bautista-gt1016"
+    },
+    "code": {
+      "id": "GT1016",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT10",
+      "level": 1,
+      "name": {
+        "local": "Suchitepéquez",
+        "en": "Suchitepequez",
+        "slug": "suchitepequez-gt10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT10",
+        "level": 1,
+        "name": {
+          "local": "Suchitepéquez",
+          "en": "Suchitepequez",
+          "slug": "suchitepequez-gt10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.434",
+      "lon": "-91.188"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1007",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Lorenzo",
+      "en": "San Lorenzo",
+      "slug": "san-lorenzo-gt1007"
+    },
+    "code": {
+      "id": "GT1007",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT10",
+      "level": 1,
+      "name": {
+        "local": "Suchitepéquez",
+        "en": "Suchitepequez",
+        "slug": "suchitepequez-gt10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT10",
+        "level": 1,
+        "name": {
+          "local": "Suchitepéquez",
+          "en": "Suchitepequez",
+          "slug": "suchitepequez-gt10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.28",
+      "lon": "-91.522"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1011",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Miguel Panán",
+      "en": "San Miguel Panan",
+      "slug": "san-miguel-panan-gt1011"
+    },
+    "code": {
+      "id": "GT1011",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT10",
+      "level": 1,
+      "name": {
+        "local": "Suchitepéquez",
+        "en": "Suchitepequez",
+        "slug": "suchitepequez-gt10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT10",
+        "level": 1,
+        "name": {
+          "local": "Suchitepéquez",
+          "en": "Suchitepequez",
+          "slug": "suchitepequez-gt10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.504",
+      "lon": "-91.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1009",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Pablo Jocopilas",
+      "en": "San Pablo Jocopilas",
+      "slug": "san-pablo-jocopilas-gt1009"
+    },
+    "code": {
+      "id": "GT1009",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT10",
+      "level": 1,
+      "name": {
+        "local": "Suchitepéquez",
+        "en": "Suchitepequez",
+        "slug": "suchitepequez-gt10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT10",
+        "level": 1,
+        "name": {
+          "local": "Suchitepéquez",
+          "en": "Suchitepequez",
+          "slug": "suchitepequez-gt10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.595",
+      "lon": "-91.431"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1015",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Bárbara",
+      "en": "Santa Barbara",
+      "slug": "santa-barbara-gt1015"
+    },
+    "code": {
+      "id": "GT1015",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT10",
+      "level": 1,
+      "name": {
+        "local": "Suchitepéquez",
+        "en": "Suchitepequez",
+        "slug": "suchitepequez-gt10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT10",
+        "level": 1,
+        "name": {
+          "local": "Suchitepéquez",
+          "en": "Suchitepequez",
+          "slug": "suchitepequez-gt10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.473",
+      "lon": "-91.248"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1006",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santo Domingo Suchitepéquez",
+      "en": "Santo Domingo Suchitepequez",
+      "slug": "santo-domingo-suchitepequez-gt1006"
+    },
+    "code": {
+      "id": "GT1006",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT10",
+      "level": 1,
+      "name": {
+        "local": "Suchitepéquez",
+        "en": "Suchitepequez",
+        "slug": "suchitepequez-gt10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT10",
+        "level": 1,
+        "name": {
+          "local": "Suchitepéquez",
+          "en": "Suchitepequez",
+          "slug": "suchitepequez-gt10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.282",
+      "lon": "-91.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1017",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santo Tomás La Unión",
+      "en": "Santo Tomas La Union",
+      "slug": "santo-tomas-la-union-gt1017"
+    },
+    "code": {
+      "id": "GT1017",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT10",
+      "level": 1,
+      "name": {
+        "local": "Suchitepéquez",
+        "en": "Suchitepequez",
+        "slug": "suchitepequez-gt10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT10",
+        "level": 1,
+        "name": {
+          "local": "Suchitepéquez",
+          "en": "Suchitepequez",
+          "slug": "suchitepequez-gt10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.619",
+      "lon": "-91.412"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1018",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Zunilito",
+      "en": "Zunilito",
+      "slug": "zunilito-gt1018"
+    },
+    "code": {
+      "id": "GT1018",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT10",
+      "level": 1,
+      "name": {
+        "local": "Suchitepéquez",
+        "en": "Suchitepequez",
+        "slug": "suchitepequez-gt10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT10",
+        "level": 1,
+        "name": {
+          "local": "Suchitepéquez",
+          "en": "Suchitepequez",
+          "slug": "suchitepequez-gt10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.633",
+      "lon": "-91.497"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

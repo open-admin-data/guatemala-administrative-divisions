@@ -1,0 +1,45 @@
+{
+  "id": "GT1803",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "El Estor",
+    "en": "El Estor",
+    "slug": "el-estor-gt1803"
+  },
+  "code": {
+    "id": "GT1803",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT18",
+    "level": 1,
+    "name": {
+      "local": "Izabal",
+      "en": "Izabal",
+      "slug": "izabal-gt18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT18",
+      "level": 1,
+      "name": {
+        "local": "Izabal",
+        "en": "Izabal",
+        "slug": "izabal-gt18"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.435",
+    "lon": "-89.429"
+  },
+  "metadata": {},
+  "source": {}
+}

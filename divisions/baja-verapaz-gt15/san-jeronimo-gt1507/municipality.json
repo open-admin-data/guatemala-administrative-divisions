@@ -1,0 +1,45 @@
+{
+  "id": "GT1507",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Jerónimo",
+    "en": "San Jeronimo",
+    "slug": "san-jeronimo-gt1507"
+  },
+  "code": {
+    "id": "GT1507",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT15",
+    "level": 1,
+    "name": {
+      "local": "Baja Verapaz",
+      "en": "Baja Verapaz",
+      "slug": "baja-verapaz-gt15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT15",
+      "level": 1,
+      "name": {
+        "local": "Baja Verapaz",
+        "en": "Baja Verapaz",
+        "slug": "baja-verapaz-gt15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.052",
+    "lon": "-90.211"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "GT1230",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "La Blanca",
+    "en": "La Blanca",
+    "slug": "la-blanca-gt1230"
+  },
+  "code": {
+    "id": "GT1230",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT12",
+    "level": 1,
+    "name": {
+      "local": "San Marcos",
+      "en": "San Marcos",
+      "slug": "san-marcos-gt12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT12",
+      "level": 1,
+      "name": {
+        "local": "San Marcos",
+        "en": "San Marcos",
+        "slug": "san-marcos-gt12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.551",
+    "lon": "-92.113"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "GT1209",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tajumulco",
+    "en": "Tajumulco",
+    "slug": "tajumulco-gt1209"
+  },
+  "code": {
+    "id": "GT1209",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT12",
+    "level": 1,
+    "name": {
+      "local": "San Marcos",
+      "en": "San Marcos",
+      "slug": "san-marcos-gt12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT12",
+      "level": 1,
+      "name": {
+        "local": "San Marcos",
+        "en": "San Marcos",
+        "slug": "san-marcos-gt12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.059",
+    "lon": "-91.974"
+  },
+  "metadata": {},
+  "source": {}
+}

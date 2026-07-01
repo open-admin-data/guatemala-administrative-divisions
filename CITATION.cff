@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite as below"
+type: dataset
+authors:
+  - name: "jakkrapongt"
+title: "Guatemala Administrative Divisions Dataset"
+version: "2026.07"
+date-released: "2026-07-01"
+url: "https://github.com/open-admin-data/guatemala-administrative-divisions"
+repository-code: "https://github.com/open-admin-data/guatemala-administrative-divisions"
+license: CC-BY-4.0
+keywords:
+  - guatemala
+  - administrative-divisions
+  - geography
+  - open-data
+  - dataset
+  - multilingual
+abstract: >
+  Open dataset of Guatemala's administrative hierarchy:
+  22 departments, 342 municipalitys.
+  Bilingual with coordinates and postal codes where available.

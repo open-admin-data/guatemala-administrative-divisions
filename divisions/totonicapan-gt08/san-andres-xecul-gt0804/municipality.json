@@ -1,0 +1,45 @@
+{
+  "id": "GT0804",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Andrés Xecul",
+    "en": "San Andres Xecul",
+    "slug": "san-andres-xecul-gt0804"
+  },
+  "code": {
+    "id": "GT0804",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT08",
+    "level": 1,
+    "name": {
+      "local": "Totonicapán",
+      "en": "Totonicapan",
+      "slug": "totonicapan-gt08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT08",
+      "level": 1,
+      "name": {
+        "local": "Totonicapán",
+        "en": "Totonicapan",
+        "slug": "totonicapan-gt08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.911",
+    "lon": "-91.497"
+  },
+  "metadata": {},
+  "source": {}
+}

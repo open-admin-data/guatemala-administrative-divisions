@@ -1,0 +1,45 @@
+{
+  "id": "GT1403",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Chinique",
+    "en": "Chinique",
+    "slug": "chinique-gt1403"
+  },
+  "code": {
+    "id": "GT1403",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT14",
+    "level": 1,
+    "name": {
+      "local": "Quiché",
+      "en": "Quiche",
+      "slug": "quiche-gt14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT14",
+      "level": 1,
+      "name": {
+        "local": "Quiché",
+        "en": "Quiche",
+        "slug": "quiche-gt14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.069",
+    "lon": "-91.023"
+  },
+  "metadata": {},
+  "source": {}
+}

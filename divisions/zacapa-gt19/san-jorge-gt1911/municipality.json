@@ -1,0 +1,45 @@
+{
+  "id": "GT1911",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Jorge",
+    "en": "San Jorge",
+    "slug": "san-jorge-gt1911"
+  },
+  "code": {
+    "id": "GT1911",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT19",
+    "level": 1,
+    "name": {
+      "local": "Zacapa",
+      "en": "Zacapa",
+      "slug": "zacapa-gt19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT19",
+      "level": 1,
+      "name": {
+        "local": "Zacapa",
+        "en": "Zacapa",
+        "slug": "zacapa-gt19"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.916",
+    "lon": "-89.589"
+  },
+  "metadata": {},
+  "source": {}
+}

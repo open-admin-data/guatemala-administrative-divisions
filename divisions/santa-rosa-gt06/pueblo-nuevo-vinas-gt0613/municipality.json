@@ -1,0 +1,45 @@
+{
+  "id": "GT0613",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Pueblo Nuevo Viñas",
+    "en": "Pueblo Nuevo Vinas",
+    "slug": "pueblo-nuevo-vinas-gt0613"
+  },
+  "code": {
+    "id": "GT0613",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT06",
+    "level": 1,
+    "name": {
+      "local": "Santa Rosa",
+      "en": "Santa Rosa",
+      "slug": "santa-rosa-gt06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT06",
+      "level": 1,
+      "name": {
+        "local": "Santa Rosa",
+        "en": "Santa Rosa",
+        "slug": "santa-rosa-gt06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.234",
+    "lon": "-90.525"
+  },
+  "metadata": {},
+  "source": {}
+}

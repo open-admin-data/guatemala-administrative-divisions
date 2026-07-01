@@ -1,0 +1,45 @@
+{
+  "id": "GT1107",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Champerico",
+    "en": "Champerico",
+    "slug": "champerico-gt1107"
+  },
+  "code": {
+    "id": "GT1107",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT11",
+    "level": 1,
+    "name": {
+      "local": "Retalhuleu",
+      "en": "Retalhuleu",
+      "slug": "retalhuleu-gt11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT11",
+      "level": 1,
+      "name": {
+        "local": "Retalhuleu",
+        "en": "Retalhuleu",
+        "slug": "retalhuleu-gt11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.334",
+    "lon": "-91.878"
+  },
+  "metadata": {},
+  "source": {}
+}

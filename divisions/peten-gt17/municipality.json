@@ -1,0 +1,632 @@
+[
+  {
+    "id": "GT1708",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Dolores",
+      "en": "Dolores",
+      "slug": "dolores-gt1708"
+    },
+    "code": {
+      "id": "GT1708",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT17",
+      "level": 1,
+      "name": {
+        "local": "Petén",
+        "en": "Peten",
+        "slug": "peten-gt17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT17",
+        "level": 1,
+        "name": {
+          "local": "Petén",
+          "en": "Peten",
+          "slug": "peten-gt17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.645",
+      "lon": "-89.36"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1714",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "El Chal",
+      "en": "El Chal",
+      "slug": "el-chal-gt1714"
+    },
+    "code": {
+      "id": "GT1714",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT17",
+      "level": 1,
+      "name": {
+        "local": "Petén",
+        "en": "Peten",
+        "slug": "peten-gt17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT17",
+        "level": 1,
+        "name": {
+          "local": "Petén",
+          "en": "Peten",
+          "slug": "peten-gt17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.516",
+      "lon": "-89.728"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1701",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Flores",
+      "en": "Flores",
+      "slug": "flores-gt1701"
+    },
+    "code": {
+      "id": "GT1701",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT17",
+      "level": 1,
+      "name": {
+        "local": "Petén",
+        "en": "Peten",
+        "slug": "peten-gt17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT17",
+        "level": 1,
+        "name": {
+          "local": "Petén",
+          "en": "Peten",
+          "slug": "peten-gt17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.354",
+      "lon": "-89.519"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1705",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "La Libertad",
+      "en": "La Libertad",
+      "slug": "la-libertad-gt1705"
+    },
+    "code": {
+      "id": "GT1705",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT17",
+      "level": 1,
+      "name": {
+        "local": "Petén",
+        "en": "Peten",
+        "slug": "peten-gt17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT17",
+        "level": 1,
+        "name": {
+          "local": "Petén",
+          "en": "Peten",
+          "slug": "peten-gt17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.993",
+      "lon": "-90.643"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1713",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Las Cruces",
+      "en": "Las Cruces",
+      "slug": "las-cruces-gt1713"
+    },
+    "code": {
+      "id": "GT1713",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT17",
+      "level": 1,
+      "name": {
+        "local": "Petén",
+        "en": "Peten",
+        "slug": "peten-gt17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT17",
+        "level": 1,
+        "name": {
+          "local": "Petén",
+          "en": "Peten",
+          "slug": "peten-gt17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.86",
+      "lon": "-90.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1711",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Melchor de Mencos",
+      "en": "Melchor de Mencos",
+      "slug": "melchor-de-mencos-gt1711"
+    },
+    "code": {
+      "id": "GT1711",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT17",
+      "level": 1,
+      "name": {
+        "local": "Petén",
+        "en": "Peten",
+        "slug": "peten-gt17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT17",
+        "level": 1,
+        "name": {
+          "local": "Petén",
+          "en": "Peten",
+          "slug": "peten-gt17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.322",
+      "lon": "-89.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1712",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Poptún",
+      "en": "Poptun",
+      "slug": "poptun-gt1712"
+    },
+    "code": {
+      "id": "GT1712",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT17",
+      "level": 1,
+      "name": {
+        "local": "Petén",
+        "en": "Peten",
+        "slug": "peten-gt17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT17",
+        "level": 1,
+        "name": {
+          "local": "Petén",
+          "en": "Peten",
+          "slug": "peten-gt17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.335",
+      "lon": "-89.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1704",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Andrés",
+      "en": "San Andres",
+      "slug": "san-andres-gt1704"
+    },
+    "code": {
+      "id": "GT1704",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT17",
+      "level": 1,
+      "name": {
+        "local": "Petén",
+        "en": "Peten",
+        "slug": "peten-gt17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT17",
+        "level": 1,
+        "name": {
+          "local": "Petén",
+          "en": "Peten",
+          "slug": "peten-gt17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.388",
+      "lon": "-90.452"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1703",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Benito",
+      "en": "San Benito",
+      "slug": "san-benito-gt1703"
+    },
+    "code": {
+      "id": "GT1703",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT17",
+      "level": 1,
+      "name": {
+        "local": "Petén",
+        "en": "Peten",
+        "slug": "peten-gt17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT17",
+        "level": 1,
+        "name": {
+          "local": "Petén",
+          "en": "Peten",
+          "slug": "peten-gt17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.983",
+      "lon": "-90.104"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1706",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Francisco",
+      "en": "San Francisco",
+      "slug": "san-francisco-gt1706"
+    },
+    "code": {
+      "id": "GT1706",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT17",
+      "level": 1,
+      "name": {
+        "local": "Petén",
+        "en": "Peten",
+        "slug": "peten-gt17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT17",
+        "level": 1,
+        "name": {
+          "local": "Petén",
+          "en": "Peten",
+          "slug": "peten-gt17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.624",
+      "lon": "-90.031"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1702",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San José",
+      "en": "San Jose",
+      "slug": "san-jose-gt1702"
+    },
+    "code": {
+      "id": "GT1702",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT17",
+      "level": 1,
+      "name": {
+        "local": "Petén",
+        "en": "Peten",
+        "slug": "peten-gt17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT17",
+        "level": 1,
+        "name": {
+          "local": "Petén",
+          "en": "Peten",
+          "slug": "peten-gt17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.374",
+      "lon": "-89.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1709",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Luis",
+      "en": "San Luis",
+      "slug": "san-luis-gt1709"
+    },
+    "code": {
+      "id": "GT1709",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT17",
+      "level": 1,
+      "name": {
+        "local": "Petén",
+        "en": "Peten",
+        "slug": "peten-gt17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT17",
+        "level": 1,
+        "name": {
+          "local": "Petén",
+          "en": "Peten",
+          "slug": "peten-gt17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.057",
+      "lon": "-89.64"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1707",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Ana",
+      "en": "Santa Ana",
+      "slug": "santa-ana-gt1707"
+    },
+    "code": {
+      "id": "GT1707",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT17",
+      "level": 1,
+      "name": {
+        "local": "Petén",
+        "en": "Peten",
+        "slug": "peten-gt17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT17",
+        "level": 1,
+        "name": {
+          "local": "Petén",
+          "en": "Peten",
+          "slug": "peten-gt17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.831",
+      "lon": "-89.613"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1710",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sayaxché",
+      "en": "Sayaxche",
+      "slug": "sayaxche-gt1710"
+    },
+    "code": {
+      "id": "GT1710",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT17",
+      "level": 1,
+      "name": {
+        "local": "Petén",
+        "en": "Peten",
+        "slug": "peten-gt17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT17",
+        "level": 1,
+        "name": {
+          "local": "Petén",
+          "en": "Peten",
+          "slug": "peten-gt17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.298",
+      "lon": "-90.169"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

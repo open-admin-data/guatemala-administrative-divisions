@@ -1,0 +1,45 @@
+{
+  "id": "GT0915",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Huitán",
+    "en": "Huitan",
+    "slug": "huitan-gt0915"
+  },
+  "code": {
+    "id": "GT0915",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT09",
+    "level": 1,
+    "name": {
+      "local": "Quetzaltenango",
+      "en": "Quetzaltenango",
+      "slug": "quetzaltenango-gt09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT09",
+      "level": 1,
+      "name": {
+        "local": "Quetzaltenango",
+        "en": "Quetzaltenango",
+        "slug": "quetzaltenango-gt09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.043",
+    "lon": "-91.634"
+  },
+  "metadata": {},
+  "source": {}
+}

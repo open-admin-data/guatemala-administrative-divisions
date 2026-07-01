@@ -1,0 +1,45 @@
+{
+  "id": "GT0707",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Clara La Laguna",
+    "en": "Santa Clara La Laguna",
+    "slug": "santa-clara-la-laguna-gt0707"
+  },
+  "code": {
+    "id": "GT0707",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT07",
+    "level": 1,
+    "name": {
+      "local": "Sololá",
+      "en": "Solola",
+      "slug": "solola-gt07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT07",
+      "level": 1,
+      "name": {
+        "local": "Sololá",
+        "en": "Solola",
+        "slug": "solola-gt07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.721",
+    "lon": "-91.297"
+  },
+  "metadata": {},
+  "source": {}
+}

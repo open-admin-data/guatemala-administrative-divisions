@@ -1,0 +1,45 @@
+{
+  "id": "GT1320",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Sebastián Huehuetenango",
+    "en": "San Sebastian Huehuetenango",
+    "slug": "san-sebastian-huehuetenango-gt1320"
+  },
+  "code": {
+    "id": "GT1320",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT13",
+    "level": 1,
+    "name": {
+      "local": "Huehuetenango",
+      "en": "Huehuetenango",
+      "slug": "huehuetenango-gt13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT13",
+      "level": 1,
+      "name": {
+        "local": "Huehuetenango",
+        "en": "Huehuetenango",
+        "slug": "huehuetenango-gt13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.427",
+    "lon": "-91.556"
+  },
+  "metadata": {},
+  "source": {}
+}

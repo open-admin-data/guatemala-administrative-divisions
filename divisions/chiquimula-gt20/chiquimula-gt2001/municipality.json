@@ -1,0 +1,45 @@
+{
+  "id": "GT2001",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Chiquimula",
+    "en": "Chiquimula",
+    "slug": "chiquimula-gt2001"
+  },
+  "code": {
+    "id": "GT2001",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT20",
+    "level": 1,
+    "name": {
+      "local": "Chiquimula",
+      "en": "Chiquimula",
+      "slug": "chiquimula-gt20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT20",
+      "level": 1,
+      "name": {
+        "local": "Chiquimula",
+        "en": "Chiquimula",
+        "slug": "chiquimula-gt20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.792",
+    "lon": "-89.591"
+  },
+  "metadata": {},
+  "source": {}
+}

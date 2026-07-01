@@ -1,0 +1,45 @@
+{
+  "id": "GT1703",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Benito",
+    "en": "San Benito",
+    "slug": "san-benito-gt1703"
+  },
+  "code": {
+    "id": "GT1703",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT17",
+    "level": 1,
+    "name": {
+      "local": "Petén",
+      "en": "Peten",
+      "slug": "peten-gt17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT17",
+      "level": 1,
+      "name": {
+        "local": "Petén",
+        "en": "Peten",
+        "slug": "peten-gt17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.983",
+    "lon": "-90.104"
+  },
+  "metadata": {},
+  "source": {}
+}

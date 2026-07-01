@@ -1,0 +1,767 @@
+[
+  {
+    "id": "GT2204",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Agua Blanca",
+      "en": "Agua Blanca",
+      "slug": "agua-blanca-gt2204"
+    },
+    "code": {
+      "id": "GT2204",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT22",
+      "level": 1,
+      "name": {
+        "local": "Jutiapa",
+        "en": "Jutiapa",
+        "slug": "jutiapa-gt22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT22",
+        "level": 1,
+        "name": {
+          "local": "Jutiapa",
+          "en": "Jutiapa",
+          "slug": "jutiapa-gt22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.461",
+      "lon": "-89.59"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT2205",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Asunción Mita",
+      "en": "Asuncion Mita",
+      "slug": "asuncion-mita-gt2205"
+    },
+    "code": {
+      "id": "GT2205",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT22",
+      "level": 1,
+      "name": {
+        "local": "Jutiapa",
+        "en": "Jutiapa",
+        "slug": "jutiapa-gt22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT22",
+        "level": 1,
+        "name": {
+          "local": "Jutiapa",
+          "en": "Jutiapa",
+          "slug": "jutiapa-gt22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.308",
+      "lon": "-89.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT2207",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Atescatempa",
+      "en": "Atescatempa",
+      "slug": "atescatempa-gt2207"
+    },
+    "code": {
+      "id": "GT2207",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT22",
+      "level": 1,
+      "name": {
+        "local": "Jutiapa",
+        "en": "Jutiapa",
+        "slug": "jutiapa-gt22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT22",
+        "level": 1,
+        "name": {
+          "local": "Jutiapa",
+          "en": "Jutiapa",
+          "slug": "jutiapa-gt22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.171",
+      "lon": "-89.722"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT2211",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Comapa",
+      "en": "Comapa",
+      "slug": "comapa-gt2211"
+    },
+    "code": {
+      "id": "GT2211",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT22",
+      "level": 1,
+      "name": {
+        "local": "Jutiapa",
+        "en": "Jutiapa",
+        "slug": "jutiapa-gt22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT22",
+        "level": 1,
+        "name": {
+          "local": "Jutiapa",
+          "en": "Jutiapa",
+          "slug": "jutiapa-gt22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.12",
+      "lon": "-89.894"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT2213",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Conguaco",
+      "en": "Conguaco",
+      "slug": "conguaco-gt2213"
+    },
+    "code": {
+      "id": "GT2213",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT22",
+      "level": 1,
+      "name": {
+        "local": "Jutiapa",
+        "en": "Jutiapa",
+        "slug": "jutiapa-gt22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT22",
+        "level": 1,
+        "name": {
+          "local": "Jutiapa",
+          "en": "Jutiapa",
+          "slug": "jutiapa-gt22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.001",
+      "lon": "-90.015"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT2209",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "El Adelanto",
+      "en": "El Adelanto",
+      "slug": "el-adelanto-gt2209"
+    },
+    "code": {
+      "id": "GT2209",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT22",
+      "level": 1,
+      "name": {
+        "local": "Jutiapa",
+        "en": "Jutiapa",
+        "slug": "jutiapa-gt22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT22",
+        "level": 1,
+        "name": {
+          "local": "Jutiapa",
+          "en": "Jutiapa",
+          "slug": "jutiapa-gt22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.18",
+      "lon": "-89.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT2202",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "El Progreso",
+      "en": "El Progreso",
+      "slug": "el-progreso-gt2202"
+    },
+    "code": {
+      "id": "GT2202",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT22",
+      "level": 1,
+      "name": {
+        "local": "Jutiapa",
+        "en": "Jutiapa",
+        "slug": "jutiapa-gt22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT22",
+        "level": 1,
+        "name": {
+          "local": "Jutiapa",
+          "en": "Jutiapa",
+          "slug": "jutiapa-gt22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.381",
+      "lon": "-89.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT2212",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jalpatagua",
+      "en": "Jalpatagua",
+      "slug": "jalpatagua-gt2212"
+    },
+    "code": {
+      "id": "GT2212",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT22",
+      "level": 1,
+      "name": {
+        "local": "Jutiapa",
+        "en": "Jutiapa",
+        "slug": "jutiapa-gt22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT22",
+        "level": 1,
+        "name": {
+          "local": "Jutiapa",
+          "en": "Jutiapa",
+          "slug": "jutiapa-gt22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.11",
+      "lon": "-90.016"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT2208",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jerez",
+      "en": "Jerez",
+      "slug": "jerez-gt2208"
+    },
+    "code": {
+      "id": "GT2208",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT22",
+      "level": 1,
+      "name": {
+        "local": "Jutiapa",
+        "en": "Jutiapa",
+        "slug": "jutiapa-gt22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT22",
+        "level": 1,
+        "name": {
+          "local": "Jutiapa",
+          "en": "Jutiapa",
+          "slug": "jutiapa-gt22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.081",
+      "lon": "-89.762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT2201",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jutiapa",
+      "en": "Jutiapa",
+      "slug": "jutiapa-gt2201"
+    },
+    "code": {
+      "id": "GT2201",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT22",
+      "level": 1,
+      "name": {
+        "local": "Jutiapa",
+        "en": "Jutiapa",
+        "slug": "jutiapa-gt22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT22",
+        "level": 1,
+        "name": {
+          "local": "Jutiapa",
+          "en": "Jutiapa",
+          "slug": "jutiapa-gt22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.311",
+      "lon": "-89.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT2214",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Moyuta",
+      "en": "Moyuta",
+      "slug": "moyuta-gt2214"
+    },
+    "code": {
+      "id": "GT2214",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT22",
+      "level": 1,
+      "name": {
+        "local": "Jutiapa",
+        "en": "Jutiapa",
+        "slug": "jutiapa-gt22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT22",
+        "level": 1,
+        "name": {
+          "local": "Jutiapa",
+          "en": "Jutiapa",
+          "slug": "jutiapa-gt22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.908",
+      "lon": "-90.114"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT2215",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pasaco",
+      "en": "Pasaco",
+      "slug": "pasaco-gt2215"
+    },
+    "code": {
+      "id": "GT2215",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT22",
+      "level": 1,
+      "name": {
+        "local": "Jutiapa",
+        "en": "Jutiapa",
+        "slug": "jutiapa-gt22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT22",
+        "level": 1,
+        "name": {
+          "local": "Jutiapa",
+          "en": "Jutiapa",
+          "slug": "jutiapa-gt22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.895",
+      "lon": "-90.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT2217",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Quesada",
+      "en": "Quesada",
+      "slug": "quesada-gt2217"
+    },
+    "code": {
+      "id": "GT2217",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT22",
+      "level": 1,
+      "name": {
+        "local": "Jutiapa",
+        "en": "Jutiapa",
+        "slug": "jutiapa-gt22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT22",
+        "level": 1,
+        "name": {
+          "local": "Jutiapa",
+          "en": "Jutiapa",
+          "slug": "jutiapa-gt22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.283",
+      "lon": "-90.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT2216",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San José Acatempa",
+      "en": "San Jose Acatempa",
+      "slug": "san-jose-acatempa-gt2216"
+    },
+    "code": {
+      "id": "GT2216",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT22",
+      "level": 1,
+      "name": {
+        "local": "Jutiapa",
+        "en": "Jutiapa",
+        "slug": "jutiapa-gt22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT22",
+        "level": 1,
+        "name": {
+          "local": "Jutiapa",
+          "en": "Jutiapa",
+          "slug": "jutiapa-gt22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.269",
+      "lon": "-90.163"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT2203",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Catarina Mita",
+      "en": "Santa Catarina Mita",
+      "slug": "santa-catarina-mita-gt2203"
+    },
+    "code": {
+      "id": "GT2203",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT22",
+      "level": 1,
+      "name": {
+        "local": "Jutiapa",
+        "en": "Jutiapa",
+        "slug": "jutiapa-gt22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT22",
+        "level": 1,
+        "name": {
+          "local": "Jutiapa",
+          "en": "Jutiapa",
+          "slug": "jutiapa-gt22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.445",
+      "lon": "-89.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT2206",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Yupiltepeque",
+      "en": "Yupiltepeque",
+      "slug": "yupiltepeque-gt2206"
+    },
+    "code": {
+      "id": "GT2206",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT22",
+      "level": 1,
+      "name": {
+        "local": "Jutiapa",
+        "en": "Jutiapa",
+        "slug": "jutiapa-gt22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT22",
+        "level": 1,
+        "name": {
+          "local": "Jutiapa",
+          "en": "Jutiapa",
+          "slug": "jutiapa-gt22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.166",
+      "lon": "-89.775"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT2210",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Zapotitlán",
+      "en": "Zapotitlan",
+      "slug": "zapotitlan-gt2210"
+    },
+    "code": {
+      "id": "GT2210",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT22",
+      "level": 1,
+      "name": {
+        "local": "Jutiapa",
+        "en": "Jutiapa",
+        "slug": "jutiapa-gt22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT22",
+        "level": 1,
+        "name": {
+          "local": "Jutiapa",
+          "en": "Jutiapa",
+          "slug": "jutiapa-gt22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.111",
+      "lon": "-89.818"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

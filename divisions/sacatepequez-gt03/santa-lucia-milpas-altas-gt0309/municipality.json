@@ -1,0 +1,45 @@
+{
+  "id": "GT0309",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Lucía Milpas Altas",
+    "en": "Santa Lucia Milpas Altas",
+    "slug": "santa-lucia-milpas-altas-gt0309"
+  },
+  "code": {
+    "id": "GT0309",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT03",
+    "level": 1,
+    "name": {
+      "local": "Sacatepéquez",
+      "en": "Sacatepequez",
+      "slug": "sacatepequez-gt03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT03",
+      "level": 1,
+      "name": {
+        "local": "Sacatepéquez",
+        "en": "Sacatepequez",
+        "slug": "sacatepequez-gt03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.568",
+    "lon": "-90.677"
+  },
+  "metadata": {},
+  "source": {}
+}

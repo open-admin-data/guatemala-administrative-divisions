@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "GT0913",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Almolonga",
+      "en": "Almolonga",
+      "slug": "almolonga-gt0913"
+    },
+    "code": {
+      "id": "GT0913",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT09",
+      "level": 1,
+      "name": {
+        "local": "Quetzaltenango",
+        "en": "Quetzaltenango",
+        "slug": "quetzaltenango-gt09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT09",
+        "level": 1,
+        "name": {
+          "local": "Quetzaltenango",
+          "en": "Quetzaltenango",
+          "slug": "quetzaltenango-gt09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.811",
+      "lon": "-91.486"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0906",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cabricán",
+      "en": "Cabrican",
+      "slug": "cabrican-gt0906"
+    },
+    "code": {
+      "id": "GT0906",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT09",
+      "level": 1,
+      "name": {
+        "local": "Quetzaltenango",
+        "en": "Quetzaltenango",
+        "slug": "quetzaltenango-gt09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT09",
+        "level": 1,
+        "name": {
+          "local": "Quetzaltenango",
+          "en": "Quetzaltenango",
+          "slug": "quetzaltenango-gt09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.106",
+      "lon": "-91.658"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0907",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cajolá",
+      "en": "Cajola",
+      "slug": "cajola-gt0907"
+    },
+    "code": {
+      "id": "GT0907",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT09",
+      "level": 1,
+      "name": {
+        "local": "Quetzaltenango",
+        "en": "Quetzaltenango",
+        "slug": "quetzaltenango-gt09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT09",
+        "level": 1,
+        "name": {
+          "local": "Quetzaltenango",
+          "en": "Quetzaltenango",
+          "slug": "quetzaltenango-gt09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.937",
+      "lon": "-91.62"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0914",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cantel",
+      "en": "Cantel",
+      "slug": "cantel-gt0914"
+    },
+    "code": {
+      "id": "GT0914",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT09",
+      "level": 1,
+      "name": {
+        "local": "Quetzaltenango",
+        "en": "Quetzaltenango",
+        "slug": "quetzaltenango-gt09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT09",
+        "level": 1,
+        "name": {
+          "local": "Quetzaltenango",
+          "en": "Quetzaltenango",
+          "slug": "quetzaltenango-gt09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.814",
+      "lon": "-91.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0920",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Coatepeque",
+      "en": "Coatepeque",
+      "slug": "coatepeque-gt0920"
+    },
+    "code": {
+      "id": "GT0920",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT09",
+      "level": 1,
+      "name": {
+        "local": "Quetzaltenango",
+        "en": "Quetzaltenango",
+        "slug": "quetzaltenango-gt09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT09",
+        "level": 1,
+        "name": {
+          "local": "Quetzaltenango",
+          "en": "Quetzaltenango",
+          "slug": "quetzaltenango-gt09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.632",
+      "lon": "-92.011"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0917",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Colomba",
+      "en": "Colomba",
+      "slug": "colomba-gt0917"
+    },
+    "code": {
+      "id": "GT0917",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT09",
+      "level": 1,
+      "name": {
+        "local": "Quetzaltenango",
+        "en": "Quetzaltenango",
+        "slug": "quetzaltenango-gt09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT09",
+        "level": 1,
+        "name": {
+          "local": "Quetzaltenango",
+          "en": "Quetzaltenango",
+          "slug": "quetzaltenango-gt09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.697",
+      "lon": "-91.751"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0911",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Concepción Chiquirichapa",
+      "en": "Concepcion Chiquirichapa",
+      "slug": "concepcion-chiquirichapa-gt0911"
+    },
+    "code": {
+      "id": "GT0911",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT09",
+      "level": 1,
+      "name": {
+        "local": "Quetzaltenango",
+        "en": "Quetzaltenango",
+        "slug": "quetzaltenango-gt09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT09",
+        "level": 1,
+        "name": {
+          "local": "Quetzaltenango",
+          "en": "Quetzaltenango",
+          "slug": "quetzaltenango-gt09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.844",
+      "lon": "-91.619"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0919",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "El Palmar",
+      "en": "El Palmar",
+      "slug": "el-palmar-gt0919"
+    },
+    "code": {
+      "id": "GT0919",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT09",
+      "level": 1,
+      "name": {
+        "local": "Quetzaltenango",
+        "en": "Quetzaltenango",
+        "slug": "quetzaltenango-gt09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT09",
+        "level": 1,
+        "name": {
+          "local": "Quetzaltenango",
+          "en": "Quetzaltenango",
+          "slug": "quetzaltenango-gt09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.698",
+      "lon": "-91.599"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0922",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Flores Costa Cuca",
+      "en": "Flores Costa Cuca",
+      "slug": "flores-costa-cuca-gt0922"
+    },
+    "code": {
+      "id": "GT0922",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT09",
+      "level": 1,
+      "name": {
+        "local": "Quetzaltenango",
+        "en": "Quetzaltenango",
+        "slug": "quetzaltenango-gt09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT09",
+        "level": 1,
+        "name": {
+          "local": "Quetzaltenango",
+          "en": "Quetzaltenango",
+          "slug": "quetzaltenango-gt09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.633",
+      "lon": "-91.864"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0921",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Génova",
+      "en": "Genova",
+      "slug": "genova-gt0921"
+    },
+    "code": {
+      "id": "GT0921",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT09",
+      "level": 1,
+      "name": {
+        "local": "Quetzaltenango",
+        "en": "Quetzaltenango",
+        "slug": "quetzaltenango-gt09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT09",
+        "level": 1,
+        "name": {
+          "local": "Quetzaltenango",
+          "en": "Quetzaltenango",
+          "slug": "quetzaltenango-gt09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.588",
+      "lon": "-91.835"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0915",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Huitán",
+      "en": "Huitan",
+      "slug": "huitan-gt0915"
+    },
+    "code": {
+      "id": "GT0915",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT09",
+      "level": 1,
+      "name": {
+        "local": "Quetzaltenango",
+        "en": "Quetzaltenango",
+        "slug": "quetzaltenango-gt09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT09",
+        "level": 1,
+        "name": {
+          "local": "Quetzaltenango",
+          "en": "Quetzaltenango",
+          "slug": "quetzaltenango-gt09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.043",
+      "lon": "-91.634"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0923",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "La Esperanza",
+      "en": "La Esperanza",
+      "slug": "la-esperanza-gt0923"
+    },
+    "code": {
+      "id": "GT0923",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT09",
+      "level": 1,
+      "name": {
+        "local": "Quetzaltenango",
+        "en": "Quetzaltenango",
+        "slug": "quetzaltenango-gt09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT09",
+        "level": 1,
+        "name": {
+          "local": "Quetzaltenango",
+          "en": "Quetzaltenango",
+          "slug": "quetzaltenango-gt09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.877",
+      "lon": "-91.576"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0903",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Olintepeque",
+      "en": "Olintepeque",
+      "slug": "olintepeque-gt0903"
+    },
+    "code": {
+      "id": "GT0903",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT09",
+      "level": 1,
+      "name": {
+        "local": "Quetzaltenango",
+        "en": "Quetzaltenango",
+        "slug": "quetzaltenango-gt09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT09",
+        "level": 1,
+        "name": {
+          "local": "Quetzaltenango",
+          "en": "Quetzaltenango",
+          "slug": "quetzaltenango-gt09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.894",
+      "lon": "-91.538"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0909",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ostuncalco",
+      "en": "Ostuncalco",
+      "slug": "ostuncalco-gt0909"
+    },
+    "code": {
+      "id": "GT0909",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT09",
+      "level": 1,
+      "name": {
+        "local": "Quetzaltenango",
+        "en": "Quetzaltenango",
+        "slug": "quetzaltenango-gt09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT09",
+        "level": 1,
+        "name": {
+          "local": "Quetzaltenango",
+          "en": "Quetzaltenango",
+          "slug": "quetzaltenango-gt09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.862",
+      "lon": "-91.696"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0924",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Palestina de Los Altos",
+      "en": "Palestina de Los Altos",
+      "slug": "palestina-de-los-altos-gt0924"
+    },
+    "code": {
+      "id": "GT0924",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT09",
+      "level": 1,
+      "name": {
+        "local": "Quetzaltenango",
+        "en": "Quetzaltenango",
+        "slug": "quetzaltenango-gt09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT09",
+        "level": 1,
+        "name": {
+          "local": "Quetzaltenango",
+          "en": "Quetzaltenango",
+          "slug": "quetzaltenango-gt09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.936",
+      "lon": "-91.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0901",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Quetzaltenango",
+      "en": "Quetzaltenango",
+      "slug": "quetzaltenango-gt0901"
+    },
+    "code": {
+      "id": "GT0901",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT09",
+      "level": 1,
+      "name": {
+        "local": "Quetzaltenango",
+        "en": "Quetzaltenango",
+        "slug": "quetzaltenango-gt09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT09",
+        "level": 1,
+        "name": {
+          "local": "Quetzaltenango",
+          "en": "Quetzaltenango",
+          "slug": "quetzaltenango-gt09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.814",
+      "lon": "-91.543"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0902",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Salcajá",
+      "en": "Salcaja",
+      "slug": "salcaja-gt0902"
+    },
+    "code": {
+      "id": "GT0902",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT09",
+      "level": 1,
+      "name": {
+        "local": "Quetzaltenango",
+        "en": "Quetzaltenango",
+        "slug": "quetzaltenango-gt09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT09",
+        "level": 1,
+        "name": {
+          "local": "Quetzaltenango",
+          "en": "Quetzaltenango",
+          "slug": "quetzaltenango-gt09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.877",
+      "lon": "-91.462"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0904",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Carlos Sija",
+      "en": "San Carlos Sija",
+      "slug": "san-carlos-sija-gt0904"
+    },
+    "code": {
+      "id": "GT0904",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT09",
+      "level": 1,
+      "name": {
+        "local": "Quetzaltenango",
+        "en": "Quetzaltenango",
+        "slug": "quetzaltenango-gt09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT09",
+        "level": 1,
+        "name": {
+          "local": "Quetzaltenango",
+          "en": "Quetzaltenango",
+          "slug": "quetzaltenango-gt09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.079",
+      "lon": "-91.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0918",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Francisco La Unión",
+      "en": "San Francisco La Union",
+      "slug": "san-francisco-la-union-gt0918"
+    },
+    "code": {
+      "id": "GT0918",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT09",
+      "level": 1,
+      "name": {
+        "local": "Quetzaltenango",
+        "en": "Quetzaltenango",
+        "slug": "quetzaltenango-gt09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT09",
+        "level": 1,
+        "name": {
+          "local": "Quetzaltenango",
+          "en": "Quetzaltenango",
+          "slug": "quetzaltenango-gt09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.926",
+      "lon": "-91.547"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0912",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Martín Sacatepéquez",
+      "en": "San Martin Sacatepequez",
+      "slug": "san-martin-sacatepequez-gt0912"
+    },
+    "code": {
+      "id": "GT0912",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT09",
+      "level": 1,
+      "name": {
+        "local": "Quetzaltenango",
+        "en": "Quetzaltenango",
+        "slug": "quetzaltenango-gt09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT09",
+        "level": 1,
+        "name": {
+          "local": "Quetzaltenango",
+          "en": "Quetzaltenango",
+          "slug": "quetzaltenango-gt09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.784",
+      "lon": "-91.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0910",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Mateo",
+      "en": "San Mateo",
+      "slug": "san-mateo-gt0910"
+    },
+    "code": {
+      "id": "GT0910",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT09",
+      "level": 1,
+      "name": {
+        "local": "Quetzaltenango",
+        "en": "Quetzaltenango",
+        "slug": "quetzaltenango-gt09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT09",
+        "level": 1,
+        "name": {
+          "local": "Quetzaltenango",
+          "en": "Quetzaltenango",
+          "slug": "quetzaltenango-gt09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.843",
+      "lon": "-91.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0908",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Miguel Sigüila",
+      "en": "San Miguel Siguila",
+      "slug": "san-miguel-siguila-gt0908"
+    },
+    "code": {
+      "id": "GT0908",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT09",
+      "level": 1,
+      "name": {
+        "local": "Quetzaltenango",
+        "en": "Quetzaltenango",
+        "slug": "quetzaltenango-gt09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT09",
+        "level": 1,
+        "name": {
+          "local": "Quetzaltenango",
+          "en": "Quetzaltenango",
+          "slug": "quetzaltenango-gt09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.902",
+      "lon": "-91.605"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0905",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sibilia",
+      "en": "Sibilia",
+      "slug": "sibilia-gt0905"
+    },
+    "code": {
+      "id": "GT0905",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT09",
+      "level": 1,
+      "name": {
+        "local": "Quetzaltenango",
+        "en": "Quetzaltenango",
+        "slug": "quetzaltenango-gt09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT09",
+        "level": 1,
+        "name": {
+          "local": "Quetzaltenango",
+          "en": "Quetzaltenango",
+          "slug": "quetzaltenango-gt09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.991",
+      "lon": "-91.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0916",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Zunil",
+      "en": "Zunil",
+      "slug": "zunil-gt0916"
+    },
+    "code": {
+      "id": "GT0916",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT09",
+      "level": 1,
+      "name": {
+        "local": "Quetzaltenango",
+        "en": "Quetzaltenango",
+        "slug": "quetzaltenango-gt09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT09",
+        "level": 1,
+        "name": {
+          "local": "Quetzaltenango",
+          "en": "Quetzaltenango",
+          "slug": "quetzaltenango-gt09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.743",
+      "lon": "-91.497"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

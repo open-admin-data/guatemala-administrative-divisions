@@ -1,0 +1,362 @@
+[
+  {
+    "id": "GT1504",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cubulco",
+      "en": "Cubulco",
+      "slug": "cubulco-gt1504"
+    },
+    "code": {
+      "id": "GT1504",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT15",
+      "level": 1,
+      "name": {
+        "local": "Baja Verapaz",
+        "en": "Baja Verapaz",
+        "slug": "baja-verapaz-gt15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT15",
+        "level": 1,
+        "name": {
+          "local": "Baja Verapaz",
+          "en": "Baja Verapaz",
+          "slug": "baja-verapaz-gt15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.155",
+      "lon": "-90.695"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1506",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "El Chol",
+      "en": "El Chol",
+      "slug": "el-chol-gt1506"
+    },
+    "code": {
+      "id": "GT1506",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT15",
+      "level": 1,
+      "name": {
+        "local": "Baja Verapaz",
+        "en": "Baja Verapaz",
+        "slug": "baja-verapaz-gt15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT15",
+        "level": 1,
+        "name": {
+          "local": "Baja Verapaz",
+          "en": "Baja Verapaz",
+          "slug": "baja-verapaz-gt15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.949",
+      "lon": "-90.493"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1505",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Granados",
+      "en": "Granados",
+      "slug": "granados-gt1505"
+    },
+    "code": {
+      "id": "GT1505",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT15",
+      "level": 1,
+      "name": {
+        "local": "Baja Verapaz",
+        "en": "Baja Verapaz",
+        "slug": "baja-verapaz-gt15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT15",
+        "level": 1,
+        "name": {
+          "local": "Baja Verapaz",
+          "en": "Baja Verapaz",
+          "slug": "baja-verapaz-gt15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.941",
+      "lon": "-90.577"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1508",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Purulhá",
+      "en": "Purulha",
+      "slug": "purulha-gt1508"
+    },
+    "code": {
+      "id": "GT1508",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT15",
+      "level": 1,
+      "name": {
+        "local": "Baja Verapaz",
+        "en": "Baja Verapaz",
+        "slug": "baja-verapaz-gt15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT15",
+        "level": 1,
+        "name": {
+          "local": "Baja Verapaz",
+          "en": "Baja Verapaz",
+          "slug": "baja-verapaz-gt15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.218",
+      "lon": "-90.02"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1503",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Rabinal",
+      "en": "Rabinal",
+      "slug": "rabinal-gt1503"
+    },
+    "code": {
+      "id": "GT1503",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT15",
+      "level": 1,
+      "name": {
+        "local": "Baja Verapaz",
+        "en": "Baja Verapaz",
+        "slug": "baja-verapaz-gt15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT15",
+        "level": 1,
+        "name": {
+          "local": "Baja Verapaz",
+          "en": "Baja Verapaz",
+          "slug": "baja-verapaz-gt15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.133",
+      "lon": "-90.53"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1501",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Salamá",
+      "en": "Salama",
+      "slug": "salama-gt1501"
+    },
+    "code": {
+      "id": "GT1501",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT15",
+      "level": 1,
+      "name": {
+        "local": "Baja Verapaz",
+        "en": "Baja Verapaz",
+        "slug": "baja-verapaz-gt15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT15",
+        "level": 1,
+        "name": {
+          "local": "Baja Verapaz",
+          "en": "Baja Verapaz",
+          "slug": "baja-verapaz-gt15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.053",
+      "lon": "-90.325"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1507",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Jerónimo",
+      "en": "San Jeronimo",
+      "slug": "san-jeronimo-gt1507"
+    },
+    "code": {
+      "id": "GT1507",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT15",
+      "level": 1,
+      "name": {
+        "local": "Baja Verapaz",
+        "en": "Baja Verapaz",
+        "slug": "baja-verapaz-gt15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT15",
+        "level": 1,
+        "name": {
+          "local": "Baja Verapaz",
+          "en": "Baja Verapaz",
+          "slug": "baja-verapaz-gt15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.052",
+      "lon": "-90.211"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1502",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Miguel Chicaj",
+      "en": "San Miguel Chicaj",
+      "slug": "san-miguel-chicaj-gt1502"
+    },
+    "code": {
+      "id": "GT1502",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT15",
+      "level": 1,
+      "name": {
+        "local": "Baja Verapaz",
+        "en": "Baja Verapaz",
+        "slug": "baja-verapaz-gt15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT15",
+        "level": 1,
+        "name": {
+          "local": "Baja Verapaz",
+          "en": "Baja Verapaz",
+          "slug": "baja-verapaz-gt15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.141",
+      "lon": "-90.42"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

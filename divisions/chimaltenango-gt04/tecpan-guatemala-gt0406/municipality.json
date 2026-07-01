@@ -1,0 +1,45 @@
+{
+  "id": "GT0406",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tecpán Guatemala",
+    "en": "Tecpan Guatemala",
+    "slug": "tecpan-guatemala-gt0406"
+  },
+  "code": {
+    "id": "GT0406",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT04",
+    "level": 1,
+    "name": {
+      "local": "Chimaltenango",
+      "en": "Chimaltenango",
+      "slug": "chimaltenango-gt04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT04",
+      "level": 1,
+      "name": {
+        "local": "Chimaltenango",
+        "en": "Chimaltenango",
+        "slug": "chimaltenango-gt04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.811",
+    "lon": "-91.018"
+  },
+  "metadata": {},
+  "source": {}
+}

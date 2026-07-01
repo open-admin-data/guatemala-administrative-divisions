@@ -1,0 +1,45 @@
+{
+  "id": "GT1420",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ixcán",
+    "en": "Ixcan",
+    "slug": "ixcan-gt1420"
+  },
+  "code": {
+    "id": "GT1420",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT14",
+    "level": 1,
+    "name": {
+      "local": "Quiché",
+      "en": "Quiche",
+      "slug": "quiche-gt14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT14",
+      "level": 1,
+      "name": {
+        "local": "Quiché",
+        "en": "Quiche",
+        "slug": "quiche-gt14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.881",
+    "lon": "-90.904"
+  },
+  "metadata": {},
+  "source": {}
+}

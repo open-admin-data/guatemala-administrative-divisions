@@ -1,0 +1,45 @@
+{
+  "id": "GT0106",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Chinautla",
+    "en": "Chinautla",
+    "slug": "chinautla-gt0106"
+  },
+  "code": {
+    "id": "GT0106",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT01",
+    "level": 1,
+    "name": {
+      "local": "Guatemala",
+      "en": "Guatemala",
+      "slug": "guatemala-gt01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT01",
+      "level": 1,
+      "name": {
+        "local": "Guatemala",
+        "en": "Guatemala",
+        "slug": "guatemala-gt01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.736",
+    "lon": "-90.493"
+  },
+  "metadata": {},
+  "source": {}
+}

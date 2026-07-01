@@ -1,0 +1,49 @@
+# Baja Verapaz — Guatemala Administrative Divisions
+
+> 8 municipalitys
+> Code: GT15
+> Coordinates: 15.111, -90.412
+> Last updated: 2026-07-01. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Cubulco
+
+Code: GT1504, Coordinates: 15.155, -90.695
+
+
+### El Chol
+
+Code: GT1506, Coordinates: 14.949, -90.493
+
+
+### Granados
+
+Code: GT1505, Coordinates: 14.941, -90.577
+
+
+### Purulhá (Purulha)
+
+Code: GT1508, Coordinates: 15.218, -90.02
+
+
+### Rabinal
+
+Code: GT1503, Coordinates: 15.133, -90.53
+
+
+### Salamá (Salama)
+
+Code: GT1501, Coordinates: 15.053, -90.325
+
+
+### San Jerónimo (San Jeronimo)
+
+Code: GT1507, Coordinates: 15.052, -90.211
+
+
+### San Miguel Chicaj
+
+Code: GT1502, Coordinates: 15.141, -90.42
+
+

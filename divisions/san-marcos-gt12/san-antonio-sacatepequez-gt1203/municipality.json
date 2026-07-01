@@ -1,0 +1,45 @@
+{
+  "id": "GT1203",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Antonio Sacatepéquez",
+    "en": "San Antonio Sacatepequez",
+    "slug": "san-antonio-sacatepequez-gt1203"
+  },
+  "code": {
+    "id": "GT1203",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT12",
+    "level": 1,
+    "name": {
+      "local": "San Marcos",
+      "en": "San Marcos",
+      "slug": "san-marcos-gt12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT12",
+      "level": 1,
+      "name": {
+        "local": "San Marcos",
+        "en": "San Marcos",
+        "slug": "san-marcos-gt12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.966",
+    "lon": "-91.713"
+  },
+  "metadata": {},
+  "source": {}
+}

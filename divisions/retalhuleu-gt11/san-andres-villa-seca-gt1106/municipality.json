@@ -1,0 +1,45 @@
+{
+  "id": "GT1106",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Andrés Villa Seca",
+    "en": "San Andres Villa Seca",
+    "slug": "san-andres-villa-seca-gt1106"
+  },
+  "code": {
+    "id": "GT1106",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT11",
+    "level": 1,
+    "name": {
+      "local": "Retalhuleu",
+      "en": "Retalhuleu",
+      "slug": "retalhuleu-gt11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT11",
+      "level": 1,
+      "name": {
+        "local": "Retalhuleu",
+        "en": "Retalhuleu",
+        "slug": "retalhuleu-gt11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.381",
+    "lon": "-91.634"
+  },
+  "metadata": {},
+  "source": {}
+}

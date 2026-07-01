@@ -1,0 +1,45 @@
+{
+  "id": "GT0922",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Flores Costa Cuca",
+    "en": "Flores Costa Cuca",
+    "slug": "flores-costa-cuca-gt0922"
+  },
+  "code": {
+    "id": "GT0922",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT09",
+    "level": 1,
+    "name": {
+      "local": "Quetzaltenango",
+      "en": "Quetzaltenango",
+      "slug": "quetzaltenango-gt09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT09",
+      "level": 1,
+      "name": {
+        "local": "Quetzaltenango",
+        "en": "Quetzaltenango",
+        "slug": "quetzaltenango-gt09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.633",
+    "lon": "-91.864"
+  },
+  "metadata": {},
+  "source": {}
+}

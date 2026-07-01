@@ -1,0 +1,45 @@
+{
+  "id": "GT1005",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San José El Ídolo",
+    "en": "San Jose El Idolo",
+    "slug": "san-jose-el-idolo-gt1005"
+  },
+  "code": {
+    "id": "GT1005",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT10",
+    "level": 1,
+    "name": {
+      "local": "Suchitepéquez",
+      "en": "Suchitepequez",
+      "slug": "suchitepequez-gt10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT10",
+      "level": 1,
+      "name": {
+        "local": "Suchitepéquez",
+        "en": "Suchitepequez",
+        "slug": "suchitepequez-gt10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.373",
+    "lon": "-91.429"
+  },
+  "metadata": {},
+  "source": {}
+}

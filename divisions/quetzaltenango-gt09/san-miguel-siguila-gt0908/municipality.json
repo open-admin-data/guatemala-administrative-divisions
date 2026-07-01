@@ -1,0 +1,45 @@
+{
+  "id": "GT0908",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Miguel Sigüila",
+    "en": "San Miguel Siguila",
+    "slug": "san-miguel-siguila-gt0908"
+  },
+  "code": {
+    "id": "GT0908",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT09",
+    "level": 1,
+    "name": {
+      "local": "Quetzaltenango",
+      "en": "Quetzaltenango",
+      "slug": "quetzaltenango-gt09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT09",
+      "level": 1,
+      "name": {
+        "local": "Quetzaltenango",
+        "en": "Quetzaltenango",
+        "slug": "quetzaltenango-gt09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.902",
+    "lon": "-91.605"
+  },
+  "metadata": {},
+  "source": {}
+}

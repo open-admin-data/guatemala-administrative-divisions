@@ -1,0 +1,45 @@
+{
+  "id": "GT0807",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Lucía La Reforma",
+    "en": "Santa Lucia La Reforma",
+    "slug": "santa-lucia-la-reforma-gt0807"
+  },
+  "code": {
+    "id": "GT0807",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT08",
+    "level": 1,
+    "name": {
+      "local": "Totonicapán",
+      "en": "Totonicapan",
+      "slug": "totonicapan-gt08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT08",
+      "level": 1,
+      "name": {
+        "local": "Totonicapán",
+        "en": "Totonicapan",
+        "slug": "totonicapan-gt08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.152",
+    "lon": "-91.281"
+  },
+  "metadata": {},
+  "source": {}
+}

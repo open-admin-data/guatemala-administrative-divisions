@@ -1,0 +1,109 @@
+# Solola — Guatemala Administrative Divisions
+
+> 20 municipalitys
+> Code: GT07
+> Coordinates: 14.708, -91.282
+> Last updated: 2026-07-01. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Concepción (Concepcion)
+
+Code: GT0708, Coordinates: 14.784, -91.134
+
+
+### Lago De Atitlan
+
+Code: GT0700, Coordinates: 14.679, -91.184
+
+
+### Nahualá (Nahuala)
+
+Code: GT0705, Coordinates: 14.734, -91.443
+
+
+### Panajachel
+
+Code: GT0710, Coordinates: 14.749, -91.153
+
+
+### San Andrés Semetabaj (San Andres Semetabaj)
+
+Code: GT0709, Coordinates: 14.754, -91.111
+
+
+### San Antonio Palopó (San Antonio Palopo)
+
+Code: GT0712, Coordinates: 14.666, -91.103
+
+
+### San José Chacayá (San Jose Chacaya)
+
+Code: GT0702, Coordinates: 14.776, -91.228
+
+
+### San Juan La Laguna
+
+Code: GT0717, Coordinates: 14.673, -91.307
+
+
+### San Lucas Tolimán (San Lucas Toliman)
+
+Code: GT0713, Coordinates: 14.59, -91.15
+
+
+### San Marcos La Laguna
+
+Code: GT0716, Coordinates: 14.733, -91.26
+
+
+### San Pablo La Laguna
+
+Code: GT0715, Coordinates: 14.736, -91.281
+
+
+### San Pedro La Laguna
+
+Code: GT0718, Coordinates: 14.648, -91.268
+
+
+### Santa Catarina Ixtahuacán (Santa Catarina Ixtahuacan)
+
+Code: GT0706, Coordinates: 14.712, -91.381
+
+
+### Santa Catarina Palopó (Santa Catarina Palopo)
+
+Code: GT0711, Coordinates: 14.719, -91.129
+
+
+### Santa Clara La Laguna
+
+Code: GT0707, Coordinates: 14.721, -91.297
+
+
+### Santa Cruz La Laguna
+
+Code: GT0714, Coordinates: 14.745, -91.223
+
+
+### Santa Lucía Utatlán (Santa Lucia Utatlan)
+
+Code: GT0704, Coordinates: 14.782, -91.269
+
+
+### Santa María Visitación (Santa Maria Visitacion)
+
+Code: GT0703, Coordinates: 14.701, -91.333
+
+
+### Santiago Atitlán (Santiago Atitlan)
+
+Code: GT0719, Coordinates: 14.599, -91.242
+
+
+### Sololá (Solola)
+
+Code: GT0701, Coordinates: 14.817, -91.182
+
+

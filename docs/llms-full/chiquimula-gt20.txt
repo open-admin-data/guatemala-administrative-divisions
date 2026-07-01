@@ -1,0 +1,64 @@
+# Chiquimula — Guatemala Administrative Divisions
+
+> 11 municipalitys
+> Code: GT20
+> Coordinates: 14.676, -89.398
+> Last updated: 2026-07-01. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Camotán (Camotan)
+
+Code: GT2005, Coordinates: 14.867, -89.296
+
+
+### Chiquimula
+
+Code: GT2001, Coordinates: 14.792, -89.591
+
+
+### Concepción Las Minas (Concepcion Las Minas)
+
+Code: GT2008, Coordinates: 14.49, -89.452
+
+
+### Esquipulas
+
+Code: GT2007, Coordinates: 14.632, -89.259
+
+
+### Ipala
+
+Code: GT2011, Coordinates: 14.58, -89.622
+
+
+### Jocotán (Jocotan)
+
+Code: GT2004, Coordinates: 14.814, -89.41
+
+
+### Olopa
+
+Code: GT2006, Coordinates: 14.697, -89.323
+
+
+### Quezaltepeque
+
+Code: GT2009, Coordinates: 14.613, -89.459
+
+
+### San Jacinto
+
+Code: GT2010, Coordinates: 14.678, -89.515
+
+
+### San José La Arada (San Jose La Arada)
+
+Code: GT2002, Coordinates: 14.715, -89.609
+
+
+### San Juan Ermita
+
+Code: GT2003, Coordinates: 14.743, -89.432
+
+

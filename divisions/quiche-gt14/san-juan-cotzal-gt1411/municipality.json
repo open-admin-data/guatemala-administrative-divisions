@@ -1,0 +1,45 @@
+{
+  "id": "GT1411",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Juan Cotzal",
+    "en": "San Juan Cotzal",
+    "slug": "san-juan-cotzal-gt1411"
+  },
+  "code": {
+    "id": "GT1411",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT14",
+    "level": 1,
+    "name": {
+      "local": "Quiché",
+      "en": "Quiche",
+      "slug": "quiche-gt14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT14",
+      "level": 1,
+      "name": {
+        "local": "Quiché",
+        "en": "Quiche",
+        "slug": "quiche-gt14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.426",
+    "lon": "-91.009"
+  },
+  "metadata": {},
+  "source": {}
+}

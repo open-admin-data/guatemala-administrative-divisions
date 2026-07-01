@@ -1,0 +1,44 @@
+# Jalapa — Guatemala Administrative Divisions
+
+> 7 municipalitys
+> Code: GT21
+> Coordinates: 14.648, -89.946
+> Last updated: 2026-07-01. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Jalapa
+
+Code: GT2101, Coordinates: 14.626, -90.065
+
+
+### Mataquescuintla
+
+Code: GT2107, Coordinates: 14.568, -90.209
+
+
+### Monjas
+
+Code: GT2106, Coordinates: 14.507, -89.898
+
+
+### San Carlos Alzatate
+
+Code: GT2105, Coordinates: 14.474, -90.075
+
+
+### San Luis Jilotepeque
+
+Code: GT2103, Coordinates: 14.65, -89.72
+
+
+### San Manuel Chaparrón (San Manuel Chaparron)
+
+Code: GT2104, Coordinates: 14.534, -89.759
+
+
+### San Pedro Pinula
+
+Code: GT2102, Coordinates: 14.714, -89.842
+
+

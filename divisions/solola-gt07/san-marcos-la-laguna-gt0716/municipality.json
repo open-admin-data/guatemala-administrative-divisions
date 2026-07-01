@@ -1,0 +1,45 @@
+{
+  "id": "GT0716",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Marcos La Laguna",
+    "en": "San Marcos La Laguna",
+    "slug": "san-marcos-la-laguna-gt0716"
+  },
+  "code": {
+    "id": "GT0716",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT07",
+    "level": 1,
+    "name": {
+      "local": "Sololá",
+      "en": "Solola",
+      "slug": "solola-gt07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT07",
+      "level": 1,
+      "name": {
+        "local": "Sololá",
+        "en": "Solola",
+        "slug": "solola-gt07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.733",
+    "lon": "-91.26"
+  },
+  "metadata": {},
+  "source": {}
+}

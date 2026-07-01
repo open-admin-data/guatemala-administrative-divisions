@@ -1,0 +1,45 @@
+{
+  "id": "GT0924",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Palestina de Los Altos",
+    "en": "Palestina de Los Altos",
+    "slug": "palestina-de-los-altos-gt0924"
+  },
+  "code": {
+    "id": "GT0924",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT09",
+    "level": 1,
+    "name": {
+      "local": "Quetzaltenango",
+      "en": "Quetzaltenango",
+      "slug": "quetzaltenango-gt09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT09",
+      "level": 1,
+      "name": {
+        "local": "Quetzaltenango",
+        "en": "Quetzaltenango",
+        "slug": "quetzaltenango-gt09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.936",
+    "lon": "-91.67"
+  },
+  "metadata": {},
+  "source": {}
+}

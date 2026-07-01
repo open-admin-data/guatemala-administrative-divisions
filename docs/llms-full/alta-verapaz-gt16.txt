@@ -1,0 +1,94 @@
+# Alta Verapaz — Guatemala Administrative Divisions
+
+> 17 municipalitys
+> Code: GT16
+> Coordinates: 15.596, -90.091
+> Last updated: 2026-07-01. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Cahabón (Cahabon)
+
+Code: GT1612, Coordinates: 15.612, -89.734
+
+
+### Chahal
+
+Code: GT1614, Coordinates: 15.738, -89.568
+
+
+### Chisec
+
+Code: GT1613, Coordinates: 15.889, -90.339
+
+
+### Cobán (Coban)
+
+Code: GT1601, Coordinates: 15.685, -90.558
+
+
+### Fray Bartolomé de Las Casas (Fray Bartolome de Las Casas)
+
+Code: GT1615, Coordinates: 15.886, -89.726
+
+
+### Lanquín (Lanquin)
+
+Code: GT1611, Coordinates: 15.576, -89.988
+
+
+### Panzós (Panzos)
+
+Code: GT1607, Coordinates: 15.323, -89.669
+
+
+### Raxruhá (Raxruha)
+
+Code: GT1617, Coordinates: 15.891, -90.105
+
+
+### San Cristóbal Verapaz (San Cristobal Verapaz)
+
+Code: GT1603, Coordinates: 15.384, -90.576
+
+
+### San Juan Chamelco
+
+Code: GT1610, Coordinates: 15.395, -90.25
+
+
+### San Pedro Carchá (San Pedro Carcha)
+
+Code: GT1609, Coordinates: 15.577, -90.203
+
+
+### Santa Catalina La Tinta
+
+Code: GT1616, Coordinates: 15.251, -89.831
+
+
+### Santa Cruz Verapaz
+
+Code: GT1602, Coordinates: 15.334, -90.407
+
+
+### Senahú (Senahu)
+
+Code: GT1608, Coordinates: 15.426, -89.798
+
+
+### Tactic
+
+Code: GT1604, Coordinates: 15.294, -90.34
+
+
+### Tamahú (Tamahu)
+
+Code: GT1605, Coordinates: 15.303, -90.244
+
+
+### Tucurú (Tucuru)
+
+Code: GT1606, Coordinates: 15.307, -90.07
+
+

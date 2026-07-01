@@ -1,0 +1,45 @@
+{
+  "id": "GT1610",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Juan Chamelco",
+    "en": "San Juan Chamelco",
+    "slug": "san-juan-chamelco-gt1610"
+  },
+  "code": {
+    "id": "GT1610",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT16",
+    "level": 1,
+    "name": {
+      "local": "Alta Verapaz",
+      "en": "Alta Verapaz",
+      "slug": "alta-verapaz-gt16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT16",
+      "level": 1,
+      "name": {
+        "local": "Alta Verapaz",
+        "en": "Alta Verapaz",
+        "slug": "alta-verapaz-gt16"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.395",
+    "lon": "-90.25"
+  },
+  "metadata": {},
+  "source": {}
+}

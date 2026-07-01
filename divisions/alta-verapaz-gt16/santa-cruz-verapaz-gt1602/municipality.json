@@ -1,0 +1,45 @@
+{
+  "id": "GT1602",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Cruz Verapaz",
+    "en": "Santa Cruz Verapaz",
+    "slug": "santa-cruz-verapaz-gt1602"
+  },
+  "code": {
+    "id": "GT1602",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT16",
+    "level": 1,
+    "name": {
+      "local": "Alta Verapaz",
+      "en": "Alta Verapaz",
+      "slug": "alta-verapaz-gt16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT16",
+      "level": 1,
+      "name": {
+        "local": "Alta Verapaz",
+        "en": "Alta Verapaz",
+        "slug": "alta-verapaz-gt16"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.334",
+    "lon": "-90.407"
+  },
+  "metadata": {},
+  "source": {}
+}

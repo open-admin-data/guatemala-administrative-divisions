@@ -1,0 +1,45 @@
+{
+  "id": "GT1208",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Sibinal",
+    "en": "Sibinal",
+    "slug": "sibinal-gt1208"
+  },
+  "code": {
+    "id": "GT1208",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT12",
+    "level": 1,
+    "name": {
+      "local": "San Marcos",
+      "en": "San Marcos",
+      "slug": "san-marcos-gt12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT12",
+      "level": 1,
+      "name": {
+        "local": "San Marcos",
+        "en": "San Marcos",
+        "slug": "san-marcos-gt12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.126",
+    "lon": "-92.057"
+  },
+  "metadata": {},
+  "source": {}
+}

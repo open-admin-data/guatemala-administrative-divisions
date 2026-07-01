@@ -1,0 +1,227 @@
+[
+  {
+    "id": "GT1803",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "El Estor",
+      "en": "El Estor",
+      "slug": "el-estor-gt1803"
+    },
+    "code": {
+      "id": "GT1803",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT18",
+      "level": 1,
+      "name": {
+        "local": "Izabal",
+        "en": "Izabal",
+        "slug": "izabal-gt18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT18",
+        "level": 1,
+        "name": {
+          "local": "Izabal",
+          "en": "Izabal",
+          "slug": "izabal-gt18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.435",
+      "lon": "-89.429"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1802",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Lívingston",
+      "en": "Livingston",
+      "slug": "livingston-gt1802"
+    },
+    "code": {
+      "id": "GT1802",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT18",
+      "level": 1,
+      "name": {
+        "local": "Izabal",
+        "en": "Izabal",
+        "slug": "izabal-gt18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT18",
+        "level": 1,
+        "name": {
+          "local": "Izabal",
+          "en": "Izabal",
+          "slug": "izabal-gt18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.749",
+      "lon": "-89.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1805",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Los Amates",
+      "en": "Los Amates",
+      "slug": "los-amates-gt1805"
+    },
+    "code": {
+      "id": "GT1805",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT18",
+      "level": 1,
+      "name": {
+        "local": "Izabal",
+        "en": "Izabal",
+        "slug": "izabal-gt18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT18",
+        "level": 1,
+        "name": {
+          "local": "Izabal",
+          "en": "Izabal",
+          "slug": "izabal-gt18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.291",
+      "lon": "-89.086"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1804",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Morales",
+      "en": "Morales",
+      "slug": "morales-gt1804"
+    },
+    "code": {
+      "id": "GT1804",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT18",
+      "level": 1,
+      "name": {
+        "local": "Izabal",
+        "en": "Izabal",
+        "slug": "izabal-gt18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT18",
+        "level": 1,
+        "name": {
+          "local": "Izabal",
+          "en": "Izabal",
+          "slug": "izabal-gt18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.422",
+      "lon": "-88.811"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1801",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Puerto Barrios",
+      "en": "Puerto Barrios",
+      "slug": "puerto-barrios-gt1801"
+    },
+    "code": {
+      "id": "GT1801",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT18",
+      "level": 1,
+      "name": {
+        "local": "Izabal",
+        "en": "Izabal",
+        "slug": "izabal-gt18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT18",
+        "level": 1,
+        "name": {
+          "local": "Izabal",
+          "en": "Izabal",
+          "slug": "izabal-gt18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.734",
+      "lon": "-88.431"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

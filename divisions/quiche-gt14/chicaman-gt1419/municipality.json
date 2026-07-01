@@ -1,0 +1,45 @@
+{
+  "id": "GT1419",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Chicamán",
+    "en": "Chicaman",
+    "slug": "chicaman-gt1419"
+  },
+  "code": {
+    "id": "GT1419",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT14",
+    "level": 1,
+    "name": {
+      "local": "Quiché",
+      "en": "Quiche",
+      "slug": "quiche-gt14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT14",
+      "level": 1,
+      "name": {
+        "local": "Quiché",
+        "en": "Quiche",
+        "slug": "quiche-gt14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.399",
+    "lon": "-90.745"
+  },
+  "metadata": {},
+  "source": {}
+}

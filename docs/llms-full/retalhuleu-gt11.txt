@@ -1,0 +1,54 @@
+# Retalhuleu — Guatemala Administrative Divisions
+
+> 9 municipalitys
+> Code: GT11
+> Coordinates: 14.419, -91.829
+> Last updated: 2026-07-01. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Champerico
+
+Code: GT1107, Coordinates: 14.334, -91.878
+
+
+### El Asintal
+
+Code: GT1109, Coordinates: 14.589, -91.75
+
+
+### Nuevo San Carlos
+
+Code: GT1108, Coordinates: 14.629, -91.69
+
+
+### Retalhuleu
+
+Code: GT1101, Coordinates: 14.391, -91.737
+
+
+### San Andrés Villa Seca (San Andres Villa Seca)
+
+Code: GT1106, Coordinates: 14.381, -91.634
+
+
+### San Felipe
+
+Code: GT1105, Coordinates: 14.638, -91.573
+
+
+### San Martín Zapotitlán (San Martin Zapotitlan)
+
+Code: GT1104, Coordinates: 14.614, -91.595
+
+
+### San Sebastián (San Sebastian)
+
+Code: GT1102, Coordinates: 14.56, -91.652
+
+
+### Santa Cruz Muluá (Santa Cruz Mulua)
+
+Code: GT1103, Coordinates: 14.45, -91.655
+
+

@@ -1,0 +1,33 @@
+{
+  "id": "GT05",
+  "level": 1,
+  "level_name": {
+    "local": "Departamento",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Escuintla",
+    "en": "Escuintla",
+    "slug": "escuintla-gt05"
+  },
+  "code": {
+    "id": "GT05",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.191",
+    "lon": "-91.028"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gt/departments/escuintla-gt05/",
+    "api": "https://openadmindata.org/api/gt/"
+  }
+}

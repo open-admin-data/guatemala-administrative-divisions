@@ -1,0 +1,45 @@
+{
+  "id": "GT0301",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Antigua Guatemala",
+    "en": "Antigua Guatemala",
+    "slug": "antigua-guatemala-gt0301"
+  },
+  "code": {
+    "id": "GT0301",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT03",
+    "level": 1,
+    "name": {
+      "local": "Sacatepéquez",
+      "en": "Sacatepequez",
+      "slug": "sacatepequez-gt03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT03",
+      "level": 1,
+      "name": {
+        "local": "Sacatepéquez",
+        "en": "Sacatepequez",
+        "slug": "sacatepequez-gt03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.538",
+    "lon": "-90.722"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "GT1406",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Chichicastenango",
+    "en": "Chichicastenango",
+    "slug": "chichicastenango-gt1406"
+  },
+  "code": {
+    "id": "GT1406",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT14",
+    "level": 1,
+    "name": {
+      "local": "Quiché",
+      "en": "Quiche",
+      "slug": "quiche-gt14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT14",
+      "level": 1,
+      "name": {
+        "local": "Quiché",
+        "en": "Quiche",
+        "slug": "quiche-gt14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.889",
+    "lon": "-91.092"
+  },
+  "metadata": {},
+  "source": {}
+}

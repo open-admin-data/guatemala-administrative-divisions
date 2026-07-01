@@ -1,0 +1,49 @@
+# El Progreso — Guatemala Administrative Divisions
+
+> 8 municipalitys
+> Code: GT02
+> Coordinates: 14.911, -90.068
+> Last updated: 2026-07-01. License: CC-BY-4.0.
+
+## Municipalitys
+
+### El Jícaro (El Jicaro)
+
+Code: GT0205, Coordinates: 14.889, -89.918
+
+
+### Guastatoya
+
+Code: GT0201, Coordinates: 14.852, -90.091
+
+
+### Morazán (Morazan)
+
+Code: GT0202, Coordinates: 14.992, -90.143
+
+
+### San Agustín Acasaguastlán (San Agustin Acasaguastlan)
+
+Code: GT0203, Coordinates: 15.017, -89.992
+
+
+### San Antonio La Paz
+
+Code: GT0208, Coordinates: 14.742, -90.274
+
+
+### San Cristóbal Acasaguastlán (San Cristobal Acasaguastlan)
+
+Code: GT0204, Coordinates: 15.006, -89.887
+
+
+### Sanarate
+
+Code: GT0206, Coordinates: 14.777, -90.2
+
+
+### Sansare
+
+Code: GT0207, Coordinates: 14.752, -90.103
+
+

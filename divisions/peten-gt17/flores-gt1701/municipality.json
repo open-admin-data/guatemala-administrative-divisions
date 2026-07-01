@@ -1,0 +1,45 @@
+{
+  "id": "GT1701",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Flores",
+    "en": "Flores",
+    "slug": "flores-gt1701"
+  },
+  "code": {
+    "id": "GT1701",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT17",
+    "level": 1,
+    "name": {
+      "local": "Petén",
+      "en": "Peten",
+      "slug": "peten-gt17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT17",
+      "level": 1,
+      "name": {
+        "local": "Petén",
+        "en": "Peten",
+        "slug": "peten-gt17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.354",
+    "lon": "-89.519"
+  },
+  "metadata": {},
+  "source": {}
+}

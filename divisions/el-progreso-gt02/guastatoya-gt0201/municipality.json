@@ -1,0 +1,45 @@
+{
+  "id": "GT0201",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Guastatoya",
+    "en": "Guastatoya",
+    "slug": "guastatoya-gt0201"
+  },
+  "code": {
+    "id": "GT0201",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT02",
+    "level": 1,
+    "name": {
+      "local": "El Progreso",
+      "en": "El Progreso",
+      "slug": "el-progreso-gt02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT02",
+      "level": 1,
+      "name": {
+        "local": "El Progreso",
+        "en": "El Progreso",
+        "slug": "el-progreso-gt02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.852",
+    "lon": "-90.091"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "GT1220",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "El Quetzal",
+    "en": "El Quetzal",
+    "slug": "el-quetzal-gt1220"
+  },
+  "code": {
+    "id": "GT1220",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT12",
+    "level": 1,
+    "name": {
+      "local": "San Marcos",
+      "en": "San Marcos",
+      "slug": "san-marcos-gt12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT12",
+      "level": 1,
+      "name": {
+        "local": "San Marcos",
+        "en": "San Marcos",
+        "slug": "san-marcos-gt12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.795",
+    "lon": "-91.795"
+  },
+  "metadata": {},
+  "source": {}
+}

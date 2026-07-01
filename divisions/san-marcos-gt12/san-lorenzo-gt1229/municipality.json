@@ -1,0 +1,45 @@
+{
+  "id": "GT1229",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Lorenzo",
+    "en": "San Lorenzo",
+    "slug": "san-lorenzo-gt1229"
+  },
+  "code": {
+    "id": "GT1229",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT12",
+    "level": 1,
+    "name": {
+      "local": "San Marcos",
+      "en": "San Marcos",
+      "slug": "san-marcos-gt12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT12",
+      "level": 1,
+      "name": {
+        "local": "San Marcos",
+        "en": "San Marcos",
+        "slug": "san-marcos-gt12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.026",
+    "lon": "-91.747"
+  },
+  "metadata": {},
+  "source": {}
+}

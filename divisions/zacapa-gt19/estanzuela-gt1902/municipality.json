@@ -1,0 +1,45 @@
+{
+  "id": "GT1902",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Estanzuela",
+    "en": "Estanzuela",
+    "slug": "estanzuela-gt1902"
+  },
+  "code": {
+    "id": "GT1902",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT19",
+    "level": 1,
+    "name": {
+      "local": "Zacapa",
+      "en": "Zacapa",
+      "slug": "zacapa-gt19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT19",
+      "level": 1,
+      "name": {
+        "local": "Zacapa",
+        "en": "Zacapa",
+        "slug": "zacapa-gt19"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.974",
+    "lon": "-89.609"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,407 @@
+[
+  {
+    "id": "GT1107",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Champerico",
+      "en": "Champerico",
+      "slug": "champerico-gt1107"
+    },
+    "code": {
+      "id": "GT1107",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT11",
+      "level": 1,
+      "name": {
+        "local": "Retalhuleu",
+        "en": "Retalhuleu",
+        "slug": "retalhuleu-gt11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT11",
+        "level": 1,
+        "name": {
+          "local": "Retalhuleu",
+          "en": "Retalhuleu",
+          "slug": "retalhuleu-gt11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.334",
+      "lon": "-91.878"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1109",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "El Asintal",
+      "en": "El Asintal",
+      "slug": "el-asintal-gt1109"
+    },
+    "code": {
+      "id": "GT1109",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT11",
+      "level": 1,
+      "name": {
+        "local": "Retalhuleu",
+        "en": "Retalhuleu",
+        "slug": "retalhuleu-gt11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT11",
+        "level": 1,
+        "name": {
+          "local": "Retalhuleu",
+          "en": "Retalhuleu",
+          "slug": "retalhuleu-gt11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.589",
+      "lon": "-91.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1108",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nuevo San Carlos",
+      "en": "Nuevo San Carlos",
+      "slug": "nuevo-san-carlos-gt1108"
+    },
+    "code": {
+      "id": "GT1108",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT11",
+      "level": 1,
+      "name": {
+        "local": "Retalhuleu",
+        "en": "Retalhuleu",
+        "slug": "retalhuleu-gt11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT11",
+        "level": 1,
+        "name": {
+          "local": "Retalhuleu",
+          "en": "Retalhuleu",
+          "slug": "retalhuleu-gt11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.629",
+      "lon": "-91.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1101",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Retalhuleu",
+      "en": "Retalhuleu",
+      "slug": "retalhuleu-gt1101"
+    },
+    "code": {
+      "id": "GT1101",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT11",
+      "level": 1,
+      "name": {
+        "local": "Retalhuleu",
+        "en": "Retalhuleu",
+        "slug": "retalhuleu-gt11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT11",
+        "level": 1,
+        "name": {
+          "local": "Retalhuleu",
+          "en": "Retalhuleu",
+          "slug": "retalhuleu-gt11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.391",
+      "lon": "-91.737"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1106",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Andrés Villa Seca",
+      "en": "San Andres Villa Seca",
+      "slug": "san-andres-villa-seca-gt1106"
+    },
+    "code": {
+      "id": "GT1106",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT11",
+      "level": 1,
+      "name": {
+        "local": "Retalhuleu",
+        "en": "Retalhuleu",
+        "slug": "retalhuleu-gt11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT11",
+        "level": 1,
+        "name": {
+          "local": "Retalhuleu",
+          "en": "Retalhuleu",
+          "slug": "retalhuleu-gt11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.381",
+      "lon": "-91.634"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1105",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Felipe",
+      "en": "San Felipe",
+      "slug": "san-felipe-gt1105"
+    },
+    "code": {
+      "id": "GT1105",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT11",
+      "level": 1,
+      "name": {
+        "local": "Retalhuleu",
+        "en": "Retalhuleu",
+        "slug": "retalhuleu-gt11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT11",
+        "level": 1,
+        "name": {
+          "local": "Retalhuleu",
+          "en": "Retalhuleu",
+          "slug": "retalhuleu-gt11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.638",
+      "lon": "-91.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1104",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Martín Zapotitlán",
+      "en": "San Martin Zapotitlan",
+      "slug": "san-martin-zapotitlan-gt1104"
+    },
+    "code": {
+      "id": "GT1104",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT11",
+      "level": 1,
+      "name": {
+        "local": "Retalhuleu",
+        "en": "Retalhuleu",
+        "slug": "retalhuleu-gt11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT11",
+        "level": 1,
+        "name": {
+          "local": "Retalhuleu",
+          "en": "Retalhuleu",
+          "slug": "retalhuleu-gt11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.614",
+      "lon": "-91.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1102",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Sebastián",
+      "en": "San Sebastian",
+      "slug": "san-sebastian-gt1102"
+    },
+    "code": {
+      "id": "GT1102",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT11",
+      "level": 1,
+      "name": {
+        "local": "Retalhuleu",
+        "en": "Retalhuleu",
+        "slug": "retalhuleu-gt11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT11",
+        "level": 1,
+        "name": {
+          "local": "Retalhuleu",
+          "en": "Retalhuleu",
+          "slug": "retalhuleu-gt11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.56",
+      "lon": "-91.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT1103",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Cruz Muluá",
+      "en": "Santa Cruz Mulua",
+      "slug": "santa-cruz-mulua-gt1103"
+    },
+    "code": {
+      "id": "GT1103",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT11",
+      "level": 1,
+      "name": {
+        "local": "Retalhuleu",
+        "en": "Retalhuleu",
+        "slug": "retalhuleu-gt11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT11",
+        "level": 1,
+        "name": {
+          "local": "Retalhuleu",
+          "en": "Retalhuleu",
+          "slug": "retalhuleu-gt11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.45",
+      "lon": "-91.655"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "GT1102",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Sebastián",
+    "en": "San Sebastian",
+    "slug": "san-sebastian-gt1102"
+  },
+  "code": {
+    "id": "GT1102",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT11",
+    "level": 1,
+    "name": {
+      "local": "Retalhuleu",
+      "en": "Retalhuleu",
+      "slug": "retalhuleu-gt11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT11",
+      "level": 1,
+      "name": {
+        "local": "Retalhuleu",
+        "en": "Retalhuleu",
+        "slug": "retalhuleu-gt11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.56",
+    "lon": "-91.652"
+  },
+  "metadata": {},
+  "source": {}
+}

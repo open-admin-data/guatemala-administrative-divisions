@@ -1,0 +1,89 @@
+# Sacatepequez — Guatemala Administrative Divisions
+
+> 16 municipalitys
+> Code: GT03
+> Coordinates: 14.55, -90.757
+> Last updated: 2026-07-01. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Alotenango
+
+Code: GT0314, Coordinates: 14.441, -90.812
+
+
+### Antigua Guatemala
+
+Code: GT0301, Coordinates: 14.538, -90.722
+
+
+### Ciudad Vieja
+
+Code: GT0312, Coordinates: 14.508, -90.782
+
+
+### Jocotenango
+
+Code: GT0302, Coordinates: 14.586, -90.738
+
+
+### Magdalena Milpas Altas
+
+Code: GT0310, Coordinates: 14.541, -90.675
+
+
+### Pastores
+
+Code: GT0303, Coordinates: 14.602, -90.767
+
+
+### San Antonio Aguas Calientes
+
+Code: GT0315, Coordinates: 14.553, -90.777
+
+
+### San Bartolomé Milpas Altas (San Bartolome Milpas Altas)
+
+Code: GT0307, Coordinates: 14.601, -90.683
+
+
+### San Lucas Sacatepéquez (San Lucas Sacatepequez)
+
+Code: GT0308, Coordinates: 14.595, -90.652
+
+
+### San Miguel Dueñas (San Miguel Duenas)
+
+Code: GT0313, Coordinates: 14.53, -90.829
+
+
+### Santa Catarina Barahona
+
+Code: GT0316, Coordinates: 14.557, -90.809
+
+
+### Santa Lucía Milpas Altas (Santa Lucia Milpas Altas)
+
+Code: GT0309, Coordinates: 14.568, -90.677
+
+
+### Santa María de Jesús (Santa Maria de Jesus)
+
+Code: GT0311, Coordinates: 14.477, -90.705
+
+
+### Santiago Sacatepéquez (Santiago Sacatepequez)
+
+Code: GT0306, Coordinates: 14.641, -90.68
+
+
+### Santo Domingo Xenacoj
+
+Code: GT0305, Coordinates: 14.68, -90.701
+
+
+### Sumpango
+
+Code: GT0304, Coordinates: 14.664, -90.746
+
+

@@ -1,0 +1,45 @@
+{
+  "id": "GT1506",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "El Chol",
+    "en": "El Chol",
+    "slug": "el-chol-gt1506"
+  },
+  "code": {
+    "id": "GT1506",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT15",
+    "level": 1,
+    "name": {
+      "local": "Baja Verapaz",
+      "en": "Baja Verapaz",
+      "slug": "baja-verapaz-gt15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT15",
+      "level": 1,
+      "name": {
+        "local": "Baja Verapaz",
+        "en": "Baja Verapaz",
+        "slug": "baja-verapaz-gt15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.949",
+    "lon": "-90.493"
+  },
+  "metadata": {},
+  "source": {}
+}

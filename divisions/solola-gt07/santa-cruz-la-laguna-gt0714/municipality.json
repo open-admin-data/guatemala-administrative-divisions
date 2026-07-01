@@ -1,0 +1,45 @@
+{
+  "id": "GT0714",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Cruz La Laguna",
+    "en": "Santa Cruz La Laguna",
+    "slug": "santa-cruz-la-laguna-gt0714"
+  },
+  "code": {
+    "id": "GT0714",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT07",
+    "level": 1,
+    "name": {
+      "local": "Sololá",
+      "en": "Solola",
+      "slug": "solola-gt07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT07",
+      "level": 1,
+      "name": {
+        "local": "Sololá",
+        "en": "Solola",
+        "slug": "solola-gt07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.745",
+    "lon": "-91.223"
+  },
+  "metadata": {},
+  "source": {}
+}

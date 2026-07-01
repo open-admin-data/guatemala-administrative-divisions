@@ -1,0 +1,45 @@
+{
+  "id": "GT1706",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Francisco",
+    "en": "San Francisco",
+    "slug": "san-francisco-gt1706"
+  },
+  "code": {
+    "id": "GT1706",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT17",
+    "level": 1,
+    "name": {
+      "local": "Petén",
+      "en": "Peten",
+      "slug": "peten-gt17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT17",
+      "level": 1,
+      "name": {
+        "local": "Petén",
+        "en": "Peten",
+        "slug": "peten-gt17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.624",
+    "lon": "-90.031"
+  },
+  "metadata": {},
+  "source": {}
+}

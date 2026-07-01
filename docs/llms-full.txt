@@ -1,0 +1,55 @@
+# Guatemala Administrative Divisions — Full Reference
+
+> Last updated: 2026-07-01. License: CC-BY-4.0.
+
+## Per-Department Data Files
+
+- [Alta Verapaz](https://github.com/open-admin-data/guatemala-administrative-divisions/blob/main/docs/llms-full/alta-verapaz-gt16.txt) — 17 municipalitys
+- [Baja Verapaz](https://github.com/open-admin-data/guatemala-administrative-divisions/blob/main/docs/llms-full/baja-verapaz-gt15.txt) — 8 municipalitys
+- [Chimaltenango](https://github.com/open-admin-data/guatemala-administrative-divisions/blob/main/docs/llms-full/chimaltenango-gt04.txt) — 16 municipalitys
+- [Chiquimula](https://github.com/open-admin-data/guatemala-administrative-divisions/blob/main/docs/llms-full/chiquimula-gt20.txt) — 11 municipalitys
+- [El Progreso](https://github.com/open-admin-data/guatemala-administrative-divisions/blob/main/docs/llms-full/el-progreso-gt02.txt) — 8 municipalitys
+- [Escuintla](https://github.com/open-admin-data/guatemala-administrative-divisions/blob/main/docs/llms-full/escuintla-gt05.txt) — 14 municipalitys
+- [Guatemala](https://github.com/open-admin-data/guatemala-administrative-divisions/blob/main/docs/llms-full/guatemala-gt01.txt) — 18 municipalitys
+- [Huehuetenango](https://github.com/open-admin-data/guatemala-administrative-divisions/blob/main/docs/llms-full/huehuetenango-gt13.txt) — 33 municipalitys
+- [Izabal](https://github.com/open-admin-data/guatemala-administrative-divisions/blob/main/docs/llms-full/izabal-gt18.txt) — 5 municipalitys
+- [Jalapa](https://github.com/open-admin-data/guatemala-administrative-divisions/blob/main/docs/llms-full/jalapa-gt21.txt) — 7 municipalitys
+- [Jutiapa](https://github.com/open-admin-data/guatemala-administrative-divisions/blob/main/docs/llms-full/jutiapa-gt22.txt) — 17 municipalitys
+- [Peten](https://github.com/open-admin-data/guatemala-administrative-divisions/blob/main/docs/llms-full/peten-gt17.txt) — 14 municipalitys
+- [Quetzaltenango](https://github.com/open-admin-data/guatemala-administrative-divisions/blob/main/docs/llms-full/quetzaltenango-gt09.txt) — 24 municipalitys
+- [Quiche](https://github.com/open-admin-data/guatemala-administrative-divisions/blob/main/docs/llms-full/quiche-gt14.txt) — 21 municipalitys
+- [Retalhuleu](https://github.com/open-admin-data/guatemala-administrative-divisions/blob/main/docs/llms-full/retalhuleu-gt11.txt) — 9 municipalitys
+- [Sacatepequez](https://github.com/open-admin-data/guatemala-administrative-divisions/blob/main/docs/llms-full/sacatepequez-gt03.txt) — 16 municipalitys
+- [San Marcos](https://github.com/open-admin-data/guatemala-administrative-divisions/blob/main/docs/llms-full/san-marcos-gt12.txt) — 30 municipalitys
+- [Santa Rosa](https://github.com/open-admin-data/guatemala-administrative-divisions/blob/main/docs/llms-full/santa-rosa-gt06.txt) — 14 municipalitys
+- [Solola](https://github.com/open-admin-data/guatemala-administrative-divisions/blob/main/docs/llms-full/solola-gt07.txt) — 20 municipalitys
+- [Suchitepequez](https://github.com/open-admin-data/guatemala-administrative-divisions/blob/main/docs/llms-full/suchitepequez-gt10.txt) — 21 municipalitys
+- [Totonicapan](https://github.com/open-admin-data/guatemala-administrative-divisions/blob/main/docs/llms-full/totonicapan-gt08.txt) — 8 municipalitys
+- [Zacapa](https://github.com/open-admin-data/guatemala-administrative-divisions/blob/main/docs/llms-full/zacapa-gt19.txt) — 11 municipalitys
+
+## Summary
+
+| Department | Municipalitys | 
+|---|---|
+| Alta Verapaz | 17 | 
+| Baja Verapaz | 8 | 
+| Chimaltenango | 16 | 
+| Chiquimula | 11 | 
+| El Progreso | 8 | 
+| Escuintla | 14 | 
+| Guatemala | 18 | 
+| Huehuetenango | 33 | 
+| Izabal | 5 | 
+| Jalapa | 7 | 
+| Jutiapa | 17 | 
+| Peten | 14 | 
+| Quetzaltenango | 24 | 
+| Quiche | 21 | 
+| Retalhuleu | 9 | 
+| Sacatepequez | 16 | 
+| San Marcos | 30 | 
+| Santa Rosa | 14 | 
+| Solola | 20 | 
+| Suchitepequez | 21 | 
+| Totonicapan | 8 | 
+| Zacapa | 11 | 

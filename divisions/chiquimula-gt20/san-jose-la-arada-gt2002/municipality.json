@@ -1,0 +1,45 @@
+{
+  "id": "GT2002",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San José La Arada",
+    "en": "San Jose La Arada",
+    "slug": "san-jose-la-arada-gt2002"
+  },
+  "code": {
+    "id": "GT2002",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT20",
+    "level": 1,
+    "name": {
+      "local": "Chiquimula",
+      "en": "Chiquimula",
+      "slug": "chiquimula-gt20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT20",
+      "level": 1,
+      "name": {
+        "local": "Chiquimula",
+        "en": "Chiquimula",
+        "slug": "chiquimula-gt20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.715",
+    "lon": "-89.609"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "GT1616",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Catalina La Tinta",
+    "en": "Santa Catalina La Tinta",
+    "slug": "santa-catalina-la-tinta-gt1616"
+  },
+  "code": {
+    "id": "GT1616",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT16",
+    "level": 1,
+    "name": {
+      "local": "Alta Verapaz",
+      "en": "Alta Verapaz",
+      "slug": "alta-verapaz-gt16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT16",
+      "level": 1,
+      "name": {
+        "local": "Alta Verapaz",
+        "en": "Alta Verapaz",
+        "slug": "alta-verapaz-gt16"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.251",
+    "lon": "-89.831"
+  },
+  "metadata": {},
+  "source": {}
+}

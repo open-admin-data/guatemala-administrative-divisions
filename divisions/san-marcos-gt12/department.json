@@ -1,0 +1,33 @@
+{
+  "id": "GT12",
+  "level": 1,
+  "level_name": {
+    "local": "Departamento",
+    "en": "Department"
+  },
+  "name": {
+    "local": "San Marcos",
+    "en": "San Marcos",
+    "slug": "san-marcos-gt12"
+  },
+  "code": {
+    "id": "GT12",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 30
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.954",
+    "lon": "-91.912"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gt/departments/san-marcos-gt12/",
+    "api": "https://openadmindata.org/api/gt/"
+  }
+}

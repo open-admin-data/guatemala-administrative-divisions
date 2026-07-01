@@ -1,0 +1,33 @@
+{
+  "id": "GT15",
+  "level": 1,
+  "level_name": {
+    "local": "Departamento",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Baja Verapaz",
+    "en": "Baja Verapaz",
+    "slug": "baja-verapaz-gt15"
+  },
+  "code": {
+    "id": "GT15",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.111",
+    "lon": "-90.412"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gt/departments/baja-verapaz-gt15/",
+    "api": "https://openadmindata.org/api/gt/"
+  }
+}

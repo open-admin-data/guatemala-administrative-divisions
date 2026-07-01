@@ -1,0 +1,45 @@
+{
+  "id": "GT1401",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Cruz del Quiché",
+    "en": "Santa Cruz del Quiche",
+    "slug": "santa-cruz-del-quiche-gt1401"
+  },
+  "code": {
+    "id": "GT1401",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT14",
+    "level": 1,
+    "name": {
+      "local": "Quiché",
+      "en": "Quiche",
+      "slug": "quiche-gt14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT14",
+      "level": 1,
+      "name": {
+        "local": "Quiché",
+        "en": "Quiche",
+        "slug": "quiche-gt14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.026",
+    "lon": "-91.127"
+  },
+  "metadata": {},
+  "source": {}
+}

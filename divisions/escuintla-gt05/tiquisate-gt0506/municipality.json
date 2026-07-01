@@ -1,0 +1,45 @@
+{
+  "id": "GT0506",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tiquisate",
+    "en": "Tiquisate",
+    "slug": "tiquisate-gt0506"
+  },
+  "code": {
+    "id": "GT0506",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT05",
+    "level": 1,
+    "name": {
+      "local": "Escuintla",
+      "en": "Escuintla",
+      "slug": "escuintla-gt05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT05",
+      "level": 1,
+      "name": {
+        "local": "Escuintla",
+        "en": "Escuintla",
+        "slug": "escuintla-gt05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.172",
+    "lon": "-91.4"
+  },
+  "metadata": {},
+  "source": {}
+}

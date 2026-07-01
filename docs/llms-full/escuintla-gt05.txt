@@ -1,0 +1,79 @@
+# Escuintla — Guatemala Administrative Divisions
+
+> 14 municipalitys
+> Code: GT05
+> Coordinates: 14.191, -91.028
+> Last updated: 2026-07-01. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Escuintla
+
+Code: GT0501, Coordinates: 14.308, -90.804
+
+
+### Guanagazapa
+
+Code: GT0508, Coordinates: 14.159, -90.651
+
+
+### Iztapa
+
+Code: GT0510, Coordinates: 13.974, -90.69
+
+
+### La Democracia
+
+Code: GT0503, Coordinates: 14.121, -90.959
+
+
+### La Gomera
+
+Code: GT0507, Coordinates: 14.084, -91.128
+
+
+### Masagua
+
+Code: GT0505, Coordinates: 14.099, -90.818
+
+
+### Nueva Concepción (Nueva Concepcion)
+
+Code: GT0513, Coordinates: 14.129, -91.293
+
+
+### Palín (Palin)
+
+Code: GT0511, Coordinates: 14.395, -90.698
+
+
+### San José (San Jose)
+
+Code: GT0509, Coordinates: 13.971, -90.889
+
+
+### San Vicente Pacaya
+
+Code: GT0512, Coordinates: 14.338, -90.659
+
+
+### Santa Lucía Cotzumalguapa (Santa Lucia Cotzumalguapa)
+
+Code: GT0502, Coordinates: 14.294, -91.076
+
+
+### Sipacate
+
+Code: GT0514, Coordinates: 13.963, -91.148
+
+
+### Siquinalá (Siquinala)
+
+Code: GT0504, Coordinates: 14.362, -90.938
+
+
+### Tiquisate
+
+Code: GT0506, Coordinates: 14.172, -91.4
+
+

@@ -1,0 +1,722 @@
+[
+  {
+    "id": "GT0314",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Alotenango",
+      "en": "Alotenango",
+      "slug": "alotenango-gt0314"
+    },
+    "code": {
+      "id": "GT0314",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT03",
+      "level": 1,
+      "name": {
+        "local": "Sacatepéquez",
+        "en": "Sacatepequez",
+        "slug": "sacatepequez-gt03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT03",
+        "level": 1,
+        "name": {
+          "local": "Sacatepéquez",
+          "en": "Sacatepequez",
+          "slug": "sacatepequez-gt03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.441",
+      "lon": "-90.812"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0301",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Antigua Guatemala",
+      "en": "Antigua Guatemala",
+      "slug": "antigua-guatemala-gt0301"
+    },
+    "code": {
+      "id": "GT0301",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT03",
+      "level": 1,
+      "name": {
+        "local": "Sacatepéquez",
+        "en": "Sacatepequez",
+        "slug": "sacatepequez-gt03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT03",
+        "level": 1,
+        "name": {
+          "local": "Sacatepéquez",
+          "en": "Sacatepequez",
+          "slug": "sacatepequez-gt03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.538",
+      "lon": "-90.722"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0312",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ciudad Vieja",
+      "en": "Ciudad Vieja",
+      "slug": "ciudad-vieja-gt0312"
+    },
+    "code": {
+      "id": "GT0312",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT03",
+      "level": 1,
+      "name": {
+        "local": "Sacatepéquez",
+        "en": "Sacatepequez",
+        "slug": "sacatepequez-gt03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT03",
+        "level": 1,
+        "name": {
+          "local": "Sacatepéquez",
+          "en": "Sacatepequez",
+          "slug": "sacatepequez-gt03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.508",
+      "lon": "-90.782"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0302",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jocotenango",
+      "en": "Jocotenango",
+      "slug": "jocotenango-gt0302"
+    },
+    "code": {
+      "id": "GT0302",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT03",
+      "level": 1,
+      "name": {
+        "local": "Sacatepéquez",
+        "en": "Sacatepequez",
+        "slug": "sacatepequez-gt03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT03",
+        "level": 1,
+        "name": {
+          "local": "Sacatepéquez",
+          "en": "Sacatepequez",
+          "slug": "sacatepequez-gt03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.586",
+      "lon": "-90.738"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0310",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Magdalena Milpas Altas",
+      "en": "Magdalena Milpas Altas",
+      "slug": "magdalena-milpas-altas-gt0310"
+    },
+    "code": {
+      "id": "GT0310",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT03",
+      "level": 1,
+      "name": {
+        "local": "Sacatepéquez",
+        "en": "Sacatepequez",
+        "slug": "sacatepequez-gt03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT03",
+        "level": 1,
+        "name": {
+          "local": "Sacatepéquez",
+          "en": "Sacatepequez",
+          "slug": "sacatepequez-gt03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.541",
+      "lon": "-90.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0303",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pastores",
+      "en": "Pastores",
+      "slug": "pastores-gt0303"
+    },
+    "code": {
+      "id": "GT0303",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT03",
+      "level": 1,
+      "name": {
+        "local": "Sacatepéquez",
+        "en": "Sacatepequez",
+        "slug": "sacatepequez-gt03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT03",
+        "level": 1,
+        "name": {
+          "local": "Sacatepéquez",
+          "en": "Sacatepequez",
+          "slug": "sacatepequez-gt03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.602",
+      "lon": "-90.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0315",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Antonio Aguas Calientes",
+      "en": "San Antonio Aguas Calientes",
+      "slug": "san-antonio-aguas-calientes-gt0315"
+    },
+    "code": {
+      "id": "GT0315",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT03",
+      "level": 1,
+      "name": {
+        "local": "Sacatepéquez",
+        "en": "Sacatepequez",
+        "slug": "sacatepequez-gt03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT03",
+        "level": 1,
+        "name": {
+          "local": "Sacatepéquez",
+          "en": "Sacatepequez",
+          "slug": "sacatepequez-gt03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.553",
+      "lon": "-90.777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0307",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Bartolomé Milpas Altas",
+      "en": "San Bartolome Milpas Altas",
+      "slug": "san-bartolome-milpas-altas-gt0307"
+    },
+    "code": {
+      "id": "GT0307",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT03",
+      "level": 1,
+      "name": {
+        "local": "Sacatepéquez",
+        "en": "Sacatepequez",
+        "slug": "sacatepequez-gt03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT03",
+        "level": 1,
+        "name": {
+          "local": "Sacatepéquez",
+          "en": "Sacatepequez",
+          "slug": "sacatepequez-gt03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.601",
+      "lon": "-90.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0308",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Lucas Sacatepéquez",
+      "en": "San Lucas Sacatepequez",
+      "slug": "san-lucas-sacatepequez-gt0308"
+    },
+    "code": {
+      "id": "GT0308",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT03",
+      "level": 1,
+      "name": {
+        "local": "Sacatepéquez",
+        "en": "Sacatepequez",
+        "slug": "sacatepequez-gt03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT03",
+        "level": 1,
+        "name": {
+          "local": "Sacatepéquez",
+          "en": "Sacatepequez",
+          "slug": "sacatepequez-gt03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.595",
+      "lon": "-90.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0313",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Miguel Dueñas",
+      "en": "San Miguel Duenas",
+      "slug": "san-miguel-duenas-gt0313"
+    },
+    "code": {
+      "id": "GT0313",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT03",
+      "level": 1,
+      "name": {
+        "local": "Sacatepéquez",
+        "en": "Sacatepequez",
+        "slug": "sacatepequez-gt03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT03",
+        "level": 1,
+        "name": {
+          "local": "Sacatepéquez",
+          "en": "Sacatepequez",
+          "slug": "sacatepequez-gt03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.53",
+      "lon": "-90.829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0316",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Catarina Barahona",
+      "en": "Santa Catarina Barahona",
+      "slug": "santa-catarina-barahona-gt0316"
+    },
+    "code": {
+      "id": "GT0316",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT03",
+      "level": 1,
+      "name": {
+        "local": "Sacatepéquez",
+        "en": "Sacatepequez",
+        "slug": "sacatepequez-gt03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT03",
+        "level": 1,
+        "name": {
+          "local": "Sacatepéquez",
+          "en": "Sacatepequez",
+          "slug": "sacatepequez-gt03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.557",
+      "lon": "-90.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0309",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Lucía Milpas Altas",
+      "en": "Santa Lucia Milpas Altas",
+      "slug": "santa-lucia-milpas-altas-gt0309"
+    },
+    "code": {
+      "id": "GT0309",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT03",
+      "level": 1,
+      "name": {
+        "local": "Sacatepéquez",
+        "en": "Sacatepequez",
+        "slug": "sacatepequez-gt03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT03",
+        "level": 1,
+        "name": {
+          "local": "Sacatepéquez",
+          "en": "Sacatepequez",
+          "slug": "sacatepequez-gt03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.568",
+      "lon": "-90.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0311",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa María de Jesús",
+      "en": "Santa Maria de Jesus",
+      "slug": "santa-maria-de-jesus-gt0311"
+    },
+    "code": {
+      "id": "GT0311",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT03",
+      "level": 1,
+      "name": {
+        "local": "Sacatepéquez",
+        "en": "Sacatepequez",
+        "slug": "sacatepequez-gt03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT03",
+        "level": 1,
+        "name": {
+          "local": "Sacatepéquez",
+          "en": "Sacatepequez",
+          "slug": "sacatepequez-gt03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.477",
+      "lon": "-90.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0306",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santiago Sacatepéquez",
+      "en": "Santiago Sacatepequez",
+      "slug": "santiago-sacatepequez-gt0306"
+    },
+    "code": {
+      "id": "GT0306",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT03",
+      "level": 1,
+      "name": {
+        "local": "Sacatepéquez",
+        "en": "Sacatepequez",
+        "slug": "sacatepequez-gt03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT03",
+        "level": 1,
+        "name": {
+          "local": "Sacatepéquez",
+          "en": "Sacatepequez",
+          "slug": "sacatepequez-gt03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.641",
+      "lon": "-90.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0305",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santo Domingo Xenacoj",
+      "en": "Santo Domingo Xenacoj",
+      "slug": "santo-domingo-xenacoj-gt0305"
+    },
+    "code": {
+      "id": "GT0305",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT03",
+      "level": 1,
+      "name": {
+        "local": "Sacatepéquez",
+        "en": "Sacatepequez",
+        "slug": "sacatepequez-gt03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT03",
+        "level": 1,
+        "name": {
+          "local": "Sacatepéquez",
+          "en": "Sacatepequez",
+          "slug": "sacatepequez-gt03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.68",
+      "lon": "-90.701"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GT0304",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sumpango",
+      "en": "Sumpango",
+      "slug": "sumpango-gt0304"
+    },
+    "code": {
+      "id": "GT0304",
+      "iso": null
+    },
+    "parent": {
+      "id": "GT03",
+      "level": 1,
+      "name": {
+        "local": "Sacatepéquez",
+        "en": "Sacatepequez",
+        "slug": "sacatepequez-gt03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GT03",
+        "level": 1,
+        "name": {
+          "local": "Sacatepéquez",
+          "en": "Sacatepequez",
+          "slug": "sacatepequez-gt03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.664",
+      "lon": "-90.746"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

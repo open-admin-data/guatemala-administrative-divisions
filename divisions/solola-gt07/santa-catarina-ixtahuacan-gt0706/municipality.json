@@ -1,0 +1,45 @@
+{
+  "id": "GT0706",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Catarina Ixtahuacán",
+    "en": "Santa Catarina Ixtahuacan",
+    "slug": "santa-catarina-ixtahuacan-gt0706"
+  },
+  "code": {
+    "id": "GT0706",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT07",
+    "level": 1,
+    "name": {
+      "local": "Sololá",
+      "en": "Solola",
+      "slug": "solola-gt07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT07",
+      "level": 1,
+      "name": {
+        "local": "Sololá",
+        "en": "Solola",
+        "slug": "solola-gt07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.712",
+    "lon": "-91.381"
+  },
+  "metadata": {},
+  "source": {}
+}

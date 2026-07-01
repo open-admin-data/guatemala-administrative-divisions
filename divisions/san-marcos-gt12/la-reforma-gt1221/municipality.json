@@ -1,0 +1,45 @@
+{
+  "id": "GT1221",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "La Reforma",
+    "en": "La Reforma",
+    "slug": "la-reforma-gt1221"
+  },
+  "code": {
+    "id": "GT1221",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT12",
+    "level": 1,
+    "name": {
+      "local": "San Marcos",
+      "en": "San Marcos",
+      "slug": "san-marcos-gt12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT12",
+      "level": 1,
+      "name": {
+        "local": "San Marcos",
+        "en": "San Marcos",
+        "slug": "san-marcos-gt12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.82",
+    "lon": "-91.823"
+  },
+  "metadata": {},
+  "source": {}
+}

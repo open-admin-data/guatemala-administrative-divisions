@@ -1,0 +1,33 @@
+{
+  "id": "GT01",
+  "level": 1,
+  "level_name": {
+    "local": "Departamento",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Guatemala",
+    "en": "Guatemala",
+    "slug": "guatemala-gt01"
+  },
+  "code": {
+    "id": "GT01",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.579",
+    "lon": "-90.453"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gt/departments/guatemala-gt01/",
+    "api": "https://openadmindata.org/api/gt/"
+  }
+}

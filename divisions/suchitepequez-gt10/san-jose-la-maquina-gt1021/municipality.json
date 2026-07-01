@@ -1,0 +1,45 @@
+{
+  "id": "GT1021",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San José La Máquina",
+    "en": "San Jose La Maquina",
+    "slug": "san-jose-la-maquina-gt1021"
+  },
+  "code": {
+    "id": "GT1021",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT10",
+    "level": 1,
+    "name": {
+      "local": "Suchitepéquez",
+      "en": "Suchitepequez",
+      "slug": "suchitepequez-gt10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT10",
+      "level": 1,
+      "name": {
+        "local": "Suchitepéquez",
+        "en": "Suchitepequez",
+        "slug": "suchitepequez-gt10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.266",
+    "lon": "-91.583"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "GT2208",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Jerez",
+    "en": "Jerez",
+    "slug": "jerez-gt2208"
+  },
+  "code": {
+    "id": "GT2208",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT22",
+    "level": 1,
+    "name": {
+      "local": "Jutiapa",
+      "en": "Jutiapa",
+      "slug": "jutiapa-gt22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT22",
+      "level": 1,
+      "name": {
+        "local": "Jutiapa",
+        "en": "Jutiapa",
+        "slug": "jutiapa-gt22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.081",
+    "lon": "-89.762"
+  },
+  "metadata": {},
+  "source": {}
+}

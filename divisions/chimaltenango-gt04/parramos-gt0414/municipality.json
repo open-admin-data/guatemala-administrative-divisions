@@ -1,0 +1,45 @@
+{
+  "id": "GT0414",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Parramos",
+    "en": "Parramos",
+    "slug": "parramos-gt0414"
+  },
+  "code": {
+    "id": "GT0414",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT04",
+    "level": 1,
+    "name": {
+      "local": "Chimaltenango",
+      "en": "Chimaltenango",
+      "slug": "chimaltenango-gt04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT04",
+      "level": 1,
+      "name": {
+        "local": "Chimaltenango",
+        "en": "Chimaltenango",
+        "slug": "chimaltenango-gt04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.594",
+    "lon": "-90.824"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,33 @@
+{
+  "id": "GT11",
+  "level": 1,
+  "level_name": {
+    "local": "Departamento",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Retalhuleu",
+    "en": "Retalhuleu",
+    "slug": "retalhuleu-gt11"
+  },
+  "code": {
+    "id": "GT11",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.419",
+    "lon": "-91.829"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gt/departments/retalhuleu-gt11/",
+    "api": "https://openadmindata.org/api/gt/"
+  }
+}

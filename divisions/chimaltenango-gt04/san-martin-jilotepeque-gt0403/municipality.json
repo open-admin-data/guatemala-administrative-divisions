@@ -1,0 +1,45 @@
+{
+  "id": "GT0403",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Martín Jilotepeque",
+    "en": "San Martin Jilotepeque",
+    "slug": "san-martin-jilotepeque-gt0403"
+  },
+  "code": {
+    "id": "GT0403",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT04",
+    "level": 1,
+    "name": {
+      "local": "Chimaltenango",
+      "en": "Chimaltenango",
+      "slug": "chimaltenango-gt04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT04",
+      "level": 1,
+      "name": {
+        "local": "Chimaltenango",
+        "en": "Chimaltenango",
+        "slug": "chimaltenango-gt04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.829",
+    "lon": "-90.773"
+  },
+  "metadata": {},
+  "source": {}
+}

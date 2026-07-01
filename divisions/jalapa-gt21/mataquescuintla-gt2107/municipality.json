@@ -1,0 +1,45 @@
+{
+  "id": "GT2107",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Mataquescuintla",
+    "en": "Mataquescuintla",
+    "slug": "mataquescuintla-gt2107"
+  },
+  "code": {
+    "id": "GT2107",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT21",
+    "level": 1,
+    "name": {
+      "local": "Jalapa",
+      "en": "Jalapa",
+      "slug": "jalapa-gt21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT21",
+      "level": 1,
+      "name": {
+        "local": "Jalapa",
+        "en": "Jalapa",
+        "slug": "jalapa-gt21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.568",
+    "lon": "-90.209"
+  },
+  "metadata": {},
+  "source": {}
+}

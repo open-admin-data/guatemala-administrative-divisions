@@ -1,0 +1,45 @@
+{
+  "id": "GT0315",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Antonio Aguas Calientes",
+    "en": "San Antonio Aguas Calientes",
+    "slug": "san-antonio-aguas-calientes-gt0315"
+  },
+  "code": {
+    "id": "GT0315",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT03",
+    "level": 1,
+    "name": {
+      "local": "Sacatepéquez",
+      "en": "Sacatepequez",
+      "slug": "sacatepequez-gt03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT03",
+      "level": 1,
+      "name": {
+        "local": "Sacatepéquez",
+        "en": "Sacatepequez",
+        "slug": "sacatepequez-gt03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.553",
+    "lon": "-90.777"
+  },
+  "metadata": {},
+  "source": {}
+}

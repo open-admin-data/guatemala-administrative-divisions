@@ -1,0 +1,64 @@
+# Zacapa — Guatemala Administrative Divisions
+
+> 11 municipalitys
+> Code: GT19
+> Coordinates: 15.019, -89.483
+> Last updated: 2026-07-01. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Cabañas (Cabanas)
+
+Code: GT1907, Coordinates: 14.89, -89.783
+
+
+### Estanzuela
+
+Code: GT1902, Coordinates: 14.974, -89.609
+
+
+### Gualán (Gualan)
+
+Code: GT1904, Coordinates: 15.152, -89.316
+
+
+### Huité (Huite)
+
+Code: GT1910, Coordinates: 14.912, -89.688
+
+
+### La Unión (La Union)
+
+Code: GT1909, Coordinates: 14.958, -89.259
+
+
+### Río Hondo (Rio Hondo)
+
+Code: GT1903, Coordinates: 15.094, -89.607
+
+
+### San Diego
+
+Code: GT1908, Coordinates: 14.796, -89.759
+
+
+### San Jorge
+
+Code: GT1911, Coordinates: 14.916, -89.589
+
+
+### Teculután (Teculutan)
+
+Code: GT1905, Coordinates: 15.065, -89.756
+
+
+### Usumatlán (Usumatlan)
+
+Code: GT1906, Coordinates: 15.005, -89.81
+
+
+### Zacapa
+
+Code: GT1901, Coordinates: 14.973, -89.444
+
+

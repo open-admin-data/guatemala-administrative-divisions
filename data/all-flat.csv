@@ -1,0 +1,24 @@
+# Data from Open Admin Data (https://openadmindata.org/gt/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/guatemala-administrative-divisions
+id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.department,children_count.municipality,zip_codes,geo.lat,geo.lon,source_url
+GT01,1,Departamento,Department,Guatemala,Guatemala,guatemala-gt01,GT01,,,,,,18,,14.579,-90.453,https://openadmindata.org/gt/departments/guatemala-gt01/
+GT02,1,Departamento,Department,El Progreso,El Progreso,el-progreso-gt02,GT02,,,,,,8,,14.911,-90.068,https://openadmindata.org/gt/departments/el-progreso-gt02/
+GT03,1,Departamento,Department,Sacatepéquez,Sacatepequez,sacatepequez-gt03,GT03,,,,,,16,,14.55,-90.757,https://openadmindata.org/gt/departments/sacatepequez-gt03/
+GT04,1,Departamento,Department,Chimaltenango,Chimaltenango,chimaltenango-gt04,GT04,,,,,,16,,14.657,-90.929,https://openadmindata.org/gt/departments/chimaltenango-gt04/
+GT05,1,Departamento,Department,Escuintla,Escuintla,escuintla-gt05,GT05,,,,,,14,,14.191,-91.028,https://openadmindata.org/gt/departments/escuintla-gt05/
+GT06,1,Departamento,Department,Santa Rosa,Santa Rosa,santa-rosa-gt06,GT06,,,,,,14,,14.146,-90.359,https://openadmindata.org/gt/departments/santa-rosa-gt06/
+GT07,1,Departamento,Department,Sololá,Solola,solola-gt07,GT07,,,,,,20,,14.708,-91.282,https://openadmindata.org/gt/departments/solola-gt07/
+GT08,1,Departamento,Department,Totonicapán,Totonicapan,totonicapan-gt08,GT08,,,,,,8,,15.038,-91.408,https://openadmindata.org/gt/departments/totonicapan-gt08/
+GT09,1,Departamento,Department,Quetzaltenango,Quetzaltenango,quetzaltenango-gt09,GT09,,,,,,24,,14.859,-91.6,https://openadmindata.org/gt/departments/quetzaltenango-gt09/
+GT10,1,Departamento,Department,Suchitepéquez,Suchitepequez,suchitepequez-gt10,GT10,,,,,,21,,14.375,-91.365,https://openadmindata.org/gt/departments/suchitepequez-gt10/
+GT11,1,Departamento,Department,Retalhuleu,Retalhuleu,retalhuleu-gt11,GT11,,,,,,9,,14.419,-91.829,https://openadmindata.org/gt/departments/retalhuleu-gt11/
+GT12,1,Departamento,Department,San Marcos,San Marcos,san-marcos-gt12,GT12,,,,,,30,,14.954,-91.912,https://openadmindata.org/gt/departments/san-marcos-gt12/
+GT13,1,Departamento,Department,Huehuetenango,Huehuetenango,huehuetenango-gt13,GT13,,,,,,33,,15.606,-91.645,https://openadmindata.org/gt/departments/huehuetenango-gt13/
+GT14,1,Departamento,Department,Quiché,Quiche,quiche-gt14,GT14,,,,,,21,,15.428,-91.008,https://openadmindata.org/gt/departments/quiche-gt14/
+GT15,1,Departamento,Department,Baja Verapaz,Baja Verapaz,baja-verapaz-gt15,GT15,,,,,,8,,15.111,-90.412,https://openadmindata.org/gt/departments/baja-verapaz-gt15/
+GT16,1,Departamento,Department,Alta Verapaz,Alta Verapaz,alta-verapaz-gt16,GT16,,,,,,17,,15.596,-90.091,https://openadmindata.org/gt/departments/alta-verapaz-gt16/
+GT17,1,Departamento,Department,Petén,Peten,peten-gt17,GT17,,,,,,14,,16.832,-90.046,https://openadmindata.org/gt/departments/peten-gt17/
+GT18,1,Departamento,Department,Izabal,Izabal,izabal-gt18,GT18,,,,,,5,,15.517,-88.725,https://openadmindata.org/gt/departments/izabal-gt18/
+GT19,1,Departamento,Department,Zacapa,Zacapa,zacapa-gt19,GT19,,,,,,11,,15.019,-89.483,https://openadmindata.org/gt/departments/zacapa-gt19/
+GT20,1,Departamento,Department,Chiquimula,Chiquimula,chiquimula-gt20,GT20,,,,,,11,,14.676,-89.398,https://openadmindata.org/gt/departments/chiquimula-gt20/
+GT21,1,Departamento,Department,Jalapa,Jalapa,jalapa-gt21,GT21,,,,,,7,,14.648,-89.946,https://openadmindata.org/gt/departments/jalapa-gt21/
+GT22,1,Departamento,Department,Jutiapa,Jutiapa,jutiapa-gt22,GT22,,,,,,17,,14.149,-89.894,https://openadmindata.org/gt/departments/jutiapa-gt22/

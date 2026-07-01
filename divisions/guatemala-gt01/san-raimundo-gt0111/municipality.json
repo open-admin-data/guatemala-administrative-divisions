@@ -1,0 +1,45 @@
+{
+  "id": "GT0111",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Raimundo",
+    "en": "San Raimundo",
+    "slug": "san-raimundo-gt0111"
+  },
+  "code": {
+    "id": "GT0111",
+    "iso": null
+  },
+  "parent": {
+    "id": "GT01",
+    "level": 1,
+    "name": {
+      "local": "Guatemala",
+      "en": "Guatemala",
+      "slug": "guatemala-gt01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GT01",
+      "level": 1,
+      "name": {
+        "local": "Guatemala",
+        "en": "Guatemala",
+        "slug": "guatemala-gt01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.797",
+    "lon": "-90.544"
+  },
+  "metadata": {},
+  "source": {}
+}
