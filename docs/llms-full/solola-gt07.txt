@@ -3,7 +3,7 @@
 > 20 municipalitys
 > Code: GT07
 > Coordinates: 14.708, -91.282
-> Last updated: 2026-07-01. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Municipalitys
 

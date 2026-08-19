@@ -3,7 +3,7 @@
 > 17 municipalitys
 > Code: GT16
 > Coordinates: 15.596, -90.091
-> Last updated: 2026-07-01. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Municipalitys
 
